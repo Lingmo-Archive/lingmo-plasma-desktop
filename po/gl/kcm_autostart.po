@@ -1,0 +1,151 @@
+# translation of kcm_autostart.po to galician
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kcm_autostart package.
+#
+# mvillarino <mvillarino@users.sourceforge.net>, 2008, 2009.
+# Miguel Branco <mgl.branco@gmail.com>, 2008.
+# marce villarino <mvillarino@users.sourceforge.net>, 2009.
+# Marce Villarino <mvillarino@kde-espana.es>, 2011, 2012.
+# Adrián Chaves Fernández (Gallaecio) <adriyetichaves@gmail.com>, 2015, 2017.
+# Adrián Chaves (Gallaecio) <adrian@chaves.io>, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_autostart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-24 08:06+0100\n"
+"PO-Revision-Date: 2019-01-01 15:32+0100\n"
+"Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
+"Language-Team: Galician <kde-i18n-doc@kde.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Marce Villarino"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mvillarino@users.sourceforge.net"
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Autostart"
+msgstr ""
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Session Autostart Manager Control Panel Module"
+msgstr "Módulo de control dos inicios automáticos de sesión"
+
+#: autostart.cpp:37
+#, fuzzy, kde-format
+#| msgid "Copyright © 2006–2010 Autostart Manager team"
+msgid "Copyright © 2006–2020 Autostart Manager team"
+msgstr "© 2006–2010 O equipo do Xestor de inicios automáticos"
+
+#: autostart.cpp:38
+#, kde-format
+msgid "Stephen Leaf"
+msgstr "Stephen Leaf"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Montel Laurent"
+msgstr "Montel Laurent"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Maintainer"
+msgstr "Mantenedor"
+
+#: autostart.cpp:40
+#, kde-format
+msgid "Nicolas Fella"
+msgstr ""
+
+#: autostartmodel.cpp:312
+#, fuzzy, kde-format
+#| msgid "\"%1\" is not an absolute path."
+msgid "\"%1\" is not an absolute url."
+msgstr "«%1» non é unha ruta absoluta."
+
+#: autostartmodel.cpp:315
+#, kde-format
+msgid "\"%1\" does not exist."
+msgstr "«%1» non existe."
+
+#: autostartmodel.cpp:318
+#, kde-format
+msgid "\"%1\" is not a file."
+msgstr "«%1» non é un ficheiro."
+
+#: autostartmodel.cpp:321
+#, kde-format
+msgid "\"%1\" is not readable."
+msgstr "«%1» non é lexíbel."
+
+#: package/contents/ui/main.qml:75
+#, fuzzy, kde-format
+#| msgid "&Properties..."
+msgid "Properties"
+msgstr "&Propiedades…"
+
+#: package/contents/ui/main.qml:81
+#, fuzzy, kde-format
+#| msgid "&Remove"
+msgid "Remove"
+msgstr "&Retirar"
+
+#: package/contents/ui/main.qml:92
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#: package/contents/ui/main.qml:95
+#, kde-format
+msgid "Login Scripts"
+msgstr ""
+
+#: package/contents/ui/main.qml:98
+#, fuzzy, kde-format
+#| msgid "Logout"
+msgid "Logout Scripts"
+msgstr "Saír"
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Choose Startup Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:135
+#, kde-format
+msgid "Choose Logout Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:153
+#, fuzzy, kde-format
+#| msgid "Advanced..."
+msgid "Add..."
+msgstr "Avanzado…"
+
+#: package/contents/ui/main.qml:179
+#, kde-format
+msgid "Add Application..."
+msgstr ""
+
+#: package/contents/ui/main.qml:185
+#, fuzzy, kde-format
+#| msgid "Add Script..."
+msgid "Add Login Script..."
+msgstr "Engadir un script…"
+
+#: package/contents/ui/main.qml:191
+#, fuzzy, kde-format
+#| msgid "Add Script..."
+msgid "Add Logout Script..."
+msgstr "Engadir un script…"

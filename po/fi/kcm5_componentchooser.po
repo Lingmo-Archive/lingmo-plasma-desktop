@@ -1,0 +1,96 @@
+# Finnish messages for kcmcomponentchooser.
+# Copyright © 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the kdebase package.
+# Tapio Kautto <eleknader@phnet.fi>, 2003, 2004.
+# Kim Enkovaara <kim.enkovaara@iki.fi>, 2003, 2006.
+# Teemu Rytilahti <teemu.rytilahti@kde-fi.org>, 2003, 2008.
+# Ilpo Kantonen <ilpo@iki.fi>, 2005.
+# Teemu Rytilahti <teemu.rytilahti@d5k.net>, 2008.
+# Jorma Karvonen <karvonen.jorma@gmail.com>, 2010.
+# Lasse Liehu <lasse.liehu@gmail.com>, 2010, 2013, 2016.
+# Tommi Nieminen <translator@legisign.org>, 2017, 2018, 2020.
+# Copyright © 2010 This_file_is_part_of_KDE
+#
+# KDE Finnish translation sprint participants:
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-13 02:26+0200\n"
+"PO-Revision-Date: 2020-07-12 23:17+0300\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-POT-Import-Date: 2012-12-01 22:22:11+0000\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+"Tapio Kautto, Kim Enkovaara, Teemu Rytilahti, Ilpo Kantonen, Jorma Karvonen, "
+"Tommi Nieminen"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"eleknader@phnet.fi,kim.enkovaara@iki.fi,teemu.rytilahti@kde-fi.org,ilpo@iki."
+"fi,karvonen.jorma@gmail.com, translator@legisign.org"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr "Oletusverkkoselain"
+
+#: componentchooser.cpp:54
+#, kde-format
+msgid "Unknown"
+msgstr "Tuntematon"
+
+#: componentchooser.cpp:57
+#, kde-format
+msgctxt "The label for the combobox: browser, terminal emulator...)"
+msgid "%1:"
+msgstr "%1:"
+
+#: componentchooserbrowser.cpp:100 componentchooseremail.cpp:89
+#: componentchooserfilemanager.cpp:109 componentchooserterminal.cpp:83
+#, kde-format
+msgid "Other..."
+msgstr "Muu…"
+
+#: componentchooserfilemanager.cpp:43
+#, kde-format
+msgid "Select preferred file manager:"
+msgstr "Valitse haluamasi tiedostonhallinta:"
+
+#: componentchooserterminal.cpp:114
+#, kde-format
+msgid "Select preferred terminal application:"
+msgstr "Valitse haluamasi pääteohjelma:"
+
+#: kcm_componentchooser.cpp:42
+#, kde-format
+msgid "Component Chooser"
+msgstr "Komponenttivalitsin"
+
+#: kcm_componentchooser.cpp:44
+#, kde-format
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "©, 2002 Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:46
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:47
+#, kde-format
+msgid "Méven Car"
+msgstr "Méven Car"

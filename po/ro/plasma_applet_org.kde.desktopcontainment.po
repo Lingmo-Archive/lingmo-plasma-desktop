@@ -1,0 +1,497 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sergiu Bivol <sergiu@cip.md>, 2008, 2009, 2011.
+# Sergiu Bivol <sergiu@cip.md>, 2009, 2010, 2012, 2013, 2020.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_folderview\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-11 02:28+0200\n"
+"PO-Revision-Date: 2020-09-20 08:58+0100\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#: package/contents/config/config.qml:29
+#, kde-format
+msgid "Location"
+msgstr "Amplasare"
+
+#: package/contents/config/config.qml:36
+#: package/contents/ui/ConfigIcons.qml:220
+#: package/contents/ui/FolderViewLayer.qml:412
+#, kde-format
+msgid "Icons"
+msgstr "Pictograme"
+
+#: package/contents/config/config.qml:43
+#, kde-format
+msgid "Filter"
+msgstr "Filtru"
+
+#: package/contents/ui/BackButtonItem.qml:116
+#, kde-format
+msgid "Back"
+msgstr "Înapoi"
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, kde-format
+msgid "Files:"
+msgstr "Fișiere:"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, kde-format
+msgid "Show all"
+msgstr "Arată tot"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, kde-format
+msgid "Show matching"
+msgstr "Arată cele potrivite"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, kde-format
+msgid "Hide matching"
+msgstr "Ascunde cele potrivite"
+
+#: package/contents/ui/ConfigFilter.qml:82
+#, kde-format
+msgid "File name pattern:"
+msgstr "Șablon denumiri:"
+
+#: package/contents/ui/ConfigFilter.qml:88
+#, kde-format
+msgid "File types:"
+msgstr "Tipuri de fișier:"
+
+#: package/contents/ui/ConfigFilter.qml:90
+#, kde-format
+msgid "Search..."
+msgstr "Căutare..."
+
+#: package/contents/ui/ConfigFilter.qml:188
+#, kde-format
+msgid "File type"
+msgstr "Tip fișier"
+
+#: package/contents/ui/ConfigFilter.qml:197
+#, kde-format
+msgid "Description"
+msgstr "Descriere"
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Select All"
+msgstr "Selectează tot"
+
+#: package/contents/ui/ConfigFilter.qml:222
+#, kde-format
+msgid "Deselect All"
+msgstr "Deselectează tot"
+
+#: package/contents/ui/ConfigIcons.qml:75
+#, kde-format
+msgid "Panel button:"
+msgstr "Buton panou:"
+
+#: package/contents/ui/ConfigIcons.qml:81
+#, kde-format
+msgid "Use a custom icon"
+msgstr "Folosește pictogramă personalizată"
+
+#: package/contents/ui/ConfigIcons.qml:115
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr "Alegere..."
+
+#: package/contents/ui/ConfigIcons.qml:121
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Șterge pictograma"
+
+#: package/contents/ui/ConfigIcons.qml:140
+#, kde-format
+msgid "Arrangement:"
+msgstr "Aranjament:"
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:76
+#, kde-format
+msgid "Rows"
+msgstr "Rânduri"
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:80
+#, kde-format
+msgid "Columns"
+msgstr "Coloane"
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, kde-format
+msgid "Align left"
+msgstr "Aliniază la stânga"
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, kde-format
+msgid "Align right"
+msgstr "Aliniază la dreapta"
+
+#: package/contents/ui/ConfigIcons.qml:164
+#, kde-format
+msgid "Lock in place"
+msgstr "Blochează în loc"
+
+#: package/contents/ui/ConfigIcons.qml:177
+#, kde-format
+msgid "Sorting:"
+msgstr "Sortare:"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, kde-format
+msgid "Name"
+msgstr "Denumire"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:42
+#, kde-format
+msgid "Size"
+msgstr "Dimensiune"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:46
+#, kde-format
+msgid "Type"
+msgstr "Tip"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:50
+#, kde-format
+msgid "Date"
+msgstr "Dată"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#, kde-format
+msgid "Manual"
+msgstr "Manual"
+
+#: package/contents/ui/ConfigIcons.qml:196
+#: plugins/folder/viewpropertiesmenu.cpp:55
+#, kde-format
+msgid "Descending"
+msgstr "Descrescător"
+
+#: package/contents/ui/ConfigIcons.qml:204
+#, kde-format
+msgid "Folders first"
+msgstr "Întâi dosarele"
+
+#: package/contents/ui/ConfigIcons.qml:218
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr "Regim vizualizare:"
+
+#: package/contents/ui/ConfigIcons.qml:220
+#, kde-format
+msgid "List"
+msgstr "Listă"
+
+#: package/contents/ui/ConfigIcons.qml:231
+#, kde-format
+msgid "Icon size:"
+msgstr "Dimensiune pictograme:"
+
+#: package/contents/ui/ConfigIcons.qml:246
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small"
+msgstr "Mică"
+
+#: package/contents/ui/ConfigIcons.qml:255
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Large"
+msgstr "Mare"
+
+#: package/contents/ui/ConfigIcons.qml:264
+#, kde-format
+msgid "Label width:"
+msgstr "Lățime etichete:"
+
+#: package/contents/ui/ConfigIcons.qml:267
+#, kde-format
+msgid "Narrow"
+msgstr "Înguste"
+
+#: package/contents/ui/ConfigIcons.qml:268
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Medium"
+msgstr "Medii"
+
+#: package/contents/ui/ConfigIcons.qml:269
+#, kde-format
+msgid "Wide"
+msgstr "Late"
+
+#: package/contents/ui/ConfigIcons.qml:277
+#, kde-format
+msgid "Text lines:"
+msgstr "Linii textuale:"
+
+#: package/contents/ui/ConfigIcons.qml:293
+#, kde-format
+msgid "Features:"
+msgstr "Caracteristici:"
+
+#: package/contents/ui/ConfigIcons.qml:295
+#, kde-format
+msgid "Tooltips"
+msgstr "Indicii"
+
+#: package/contents/ui/ConfigIcons.qml:302
+#, kde-format
+msgid "Selection markers"
+msgstr "Marcatori de selecție"
+
+#: package/contents/ui/ConfigIcons.qml:309
+#, kde-format
+msgid "Folder preview popups"
+msgstr "Bule cu previzualizări de dosare"
+
+#: package/contents/ui/ConfigIcons.qml:315
+#, kde-format
+msgid "Preview thumbnails"
+msgstr "Miniaturi cu previzualizări"
+
+#: package/contents/ui/ConfigIcons.qml:323
+#, kde-format
+msgid "Configure Preview Plugins..."
+msgstr "Configurare extensii de previzualizare..."
+
+#: package/contents/ui/ConfigLocation.qml:93
+#, kde-format
+msgid "Show:"
+msgstr "Arată:"
+
+#: package/contents/ui/ConfigLocation.qml:95
+#, kde-format
+msgid "Desktop folder"
+msgstr "Dosarul biroului"
+
+#: package/contents/ui/ConfigLocation.qml:102
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr "Fișiere legate de activitatea curentă"
+
+#: package/contents/ui/ConfigLocation.qml:109
+#, kde-format
+msgid "Places panel item:"
+msgstr "Element în panoul Locuri:"
+
+#: package/contents/ui/ConfigLocation.qml:142
+#, kde-format
+msgid "Custom location:"
+msgstr "Amplasare personalizată:"
+
+#: package/contents/ui/ConfigLocation.qml:150
+#, kde-format
+msgid "Type path or URL..."
+msgstr "Tastați o cale sau URL..."
+
+#: package/contents/ui/ConfigLocation.qml:191
+#, kde-format
+msgid "Title:"
+msgstr "Titlu:"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "None"
+msgstr "Niciunul"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Default"
+msgstr "Implicit"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Full path"
+msgstr "Cale completă"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Custom title"
+msgstr "Titlu personalizat"
+
+#: package/contents/ui/ConfigLocation.qml:208
+#, kde-format
+msgid "Enter custom title..."
+msgstr "Introduceți titlul personalizat..."
+
+#: package/contents/ui/ConfigOverlay.qml:101
+#, kde-format
+msgid "Rotate"
+msgstr "Rotește"
+
+#: package/contents/ui/ConfigOverlay.qml:192
+#, kde-format
+msgid "Open Externally"
+msgstr "Deschide extern"
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Hide Background"
+msgstr "Ascunde fundalul"
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Show Background"
+msgstr "Arată fundalul"
+
+#: package/contents/ui/ConfigOverlay.qml:252
+#, kde-format
+msgid "Remove"
+msgstr "Elimină"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
+#, kde-format
+msgid "Preview Plugins"
+msgstr "Extensii de previzualizare"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:94
+#, kde-format
+msgid "OK"
+msgstr "Bine"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:107
+#, kde-format
+msgid "Cancel"
+msgstr "Renunță"
+
+#: package/contents/ui/main.qml:361
+#, kde-format
+msgid "Configure Desktop and Wallpaper..."
+msgstr "Configurare birou și tapet..."
+
+#: plugins/folder/directorypicker.cpp:45
+#, kde-format
+msgid "Select Folder"
+msgstr "Alege dosarul"
+
+#: plugins/folder/foldermodel.cpp:402
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "&Reîmprospătează biroul"
+
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1610
+#, kde-format
+msgid "&Refresh View"
+msgstr "&Reîmprospătează vizualizarea"
+
+#: plugins/folder/foldermodel.cpp:1614
+#, kde-format
+msgid "&Create Folder"
+msgstr "&Creează dosar"
+
+#: plugins/folder/foldermodel.cpp:1622
+#, kde-format
+msgid "&Empty Trash"
+msgstr "Gol&ește gunoiul"
+
+#: plugins/folder/foldermodel.cpp:1625
+#, kde-format
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr "Restabilește"
+
+#: plugins/folder/foldermodel.cpp:1630
+#, kde-format
+msgid "&Open"
+msgstr "&Deschide"
+
+#: plugins/folder/foldermodel.cpp:1747
+#, kde-format
+msgid "&Paste"
+msgstr "Li&pește"
+
+#: plugins/folder/foldermodel.cpp:1861
+#, kde-format
+msgid "&Properties"
+msgstr "&Proprietăți"
+
+#: plugins/folder/viewpropertiesmenu.cpp:31
+#, kde-format
+msgid "Sort By"
+msgstr "Sortează după"
+
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, kde-format
+msgid "Unsorted"
+msgstr "Nesortat"
+
+#: plugins/folder/viewpropertiesmenu.cpp:57
+#, kde-format
+msgid "Folders First"
+msgstr "Întâi dosarele"
+
+#: plugins/folder/viewpropertiesmenu.cpp:60
+#, kde-format
+msgid "Icon Size"
+msgstr "Dimensiune pictograme"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Tiny"
+msgstr "Minusculă"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small Medium"
+msgstr "Medie mică"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Huge"
+msgstr "Imensă"
+
+#: plugins/folder/viewpropertiesmenu.cpp:73
+#, kde-format
+msgid "Arrange In"
+msgstr "Aranjează în"
+
+#: plugins/folder/viewpropertiesmenu.cpp:85
+#, kde-format
+msgid "Align"
+msgstr "Aliniază"
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Left"
+msgstr "Stânga"
+
+#: plugins/folder/viewpropertiesmenu.cpp:92
+#, kde-format
+msgid "Right"
+msgstr "Dreapta"
+
+#: plugins/folder/viewpropertiesmenu.cpp:97
+#, kde-format
+msgid "Show Previews"
+msgstr "Arată previzualizări"
+
+#: plugins/folder/viewpropertiesmenu.cpp:100
+#, kde-format
+msgid "Locked"
+msgstr "Blocat"

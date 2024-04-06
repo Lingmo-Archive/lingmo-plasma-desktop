@@ -1,0 +1,191 @@
+# translation of kcmkded.po to Turkish
+# Copyright (C) 2003, 2004, 2008 Free Software Foundation, Inc.
+#
+# Görkem Çetin <gorkem@kde.org>, 2002,2003, 2004.
+# Adil Yıldız <adil_yildiztr@yahoo.com>, 2004.
+# Serdar Soytetir <tulliana@gmail.com>, 2008.
+# Volkan Gezer <volkangezer@gmail.com>, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkded\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-04 02:14+0200\n"
+"PO-Revision-Date: 2017-04-24 16:33+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Görkem Çetin"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "gorkem@kde.org"
+
+#: kcmkded.cpp:67
+#, fuzzy, kde-format
+#| msgid "Startup Services"
+msgid "Background Services"
+msgstr "Başlangıç Servisleri"
+
+#: kcmkded.cpp:69
+#, fuzzy, kde-format
+#| msgid "(c) 2002 Daniel Molkentin"
+msgid "(c) 2002 Daniel Molkentin, (c) 2020 Kai Uwe Broulik"
+msgstr "(c) 2002 Daniel Molkentin"
+
+#: kcmkded.cpp:71
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#: kcmkded.cpp:72
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr ""
+
+#: kcmkded.cpp:145
+#, fuzzy, kde-format
+#| msgid "Unable to stop service <em>%1</em>."
+msgid "Failed to stop service: %1"
+msgstr "Hizmet <em>%1</em> durdurulamadı."
+
+#: kcmkded.cpp:147
+#, fuzzy, kde-format
+#| msgid "Unable to start server <em>%1</em>."
+msgid "Failed to start service: %1"
+msgstr "Sunucu başlatılamadı <em>%1</em>."
+
+#: kcmkded.cpp:154
+#, fuzzy, kde-format
+#| msgid "Unable to stop service <em>%1</em>."
+msgid "Failed to stop service."
+msgstr "Hizmet <em>%1</em> durdurulamadı."
+
+#: kcmkded.cpp:156
+#, fuzzy, kde-format
+#| msgid "Unable to start server <em>%1</em>."
+msgid "Failed to start service."
+msgstr "Sunucu başlatılamadı <em>%1</em>."
+
+#: kcmkded.cpp:254
+#, kde-format
+msgid "Failed to notify KDE Service Manager (kded5) of saved changed: %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:31
+#, fuzzy, kde-format
+#| msgid ""
+#| "<h1>Service Manager</h1><p>This module allows you to have an overview of "
+#| "all plugins of the KDE Daemon, also referred to as KDE Services. "
+#| "Generally, there are two types of service:</p><ul><li>Services invoked at "
+#| "startup</li><li>Services called on demand</li></ul><p>The latter are only "
+#| "listed for convenience. The startup services can be started and stopped. "
+#| "In Administrator mode, you can also define whether services should be "
+#| "loaded at startup.</p><p><b> Use this with care: some services are vital "
+#| "for Plasma; do not deactivate services if you do not know what you are "
+#| "doing.</b></p>"
+msgid ""
+"<p>This module allows you to have an overview of all plugins of the KDE "
+"Daemon, also referred to as KDE Services. Generally, there are two types of "
+"service:</p> <ul><li>Services invoked at startup</li><li>Services called on "
+"demand</li></ul> <p>The latter are only listed for convenience. The startup "
+"services can be started and stopped. You can also define whether services "
+"should be loaded at startup.</p> <p><b>Use this with care: some services are "
+"vital for Plasma; do not deactivate services if you  do not know what you "
+"are doing.</b></p>"
+msgstr ""
+"<h1>Servis Yöneticisi</h1><p>Bu modül, KDE sistemi içindeki tüm modülleri "
+"görüntüler. Genel olarak iki tür servis vardır:</p><ul><li>Başlangıçta "
+"çalıştırılan servisler</li><li>İstek halinde çalıştırılan servisler</li></"
+"ul><p>İkinci seçenekteki servisleri sadece görüntüleyebilme imkanı vardır. "
+"İlk seçenekteki başlangıç servislerini ise çalıştırabilir ve "
+"durdurabilirsiniz.</p><p><b> Bu seçeneği dikkatli kullanın. Bazı servisler "
+"Plasma'nın düzgün çalışması için gereklidir.</b></p>"
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid ""
+"The background services manager (kded5) is currently not running. Make sure "
+"it is installed correctly."
+msgstr ""
+
+#: package/contents/ui/main.qml:57
+#, kde-format
+msgid ""
+"Some services disable themselves again when manually started if they are not "
+"useful in the current environment."
+msgstr ""
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid ""
+"Some services were automatically started/stopped when the background "
+"services manager (kded5) was restarted to apply your changes."
+msgstr ""
+
+#: package/contents/ui/main.qml:108
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "All Services"
+msgstr "Servis"
+
+#: package/contents/ui/main.qml:109
+#, fuzzy, kde-format
+#| msgid "Running"
+msgctxt "List running services"
+msgid "Running"
+msgstr "Çalışıyor"
+
+#: package/contents/ui/main.qml:110
+#, fuzzy, kde-format
+#| msgid "Not running"
+msgctxt "List not running services"
+msgid "Not Running"
+msgstr "Çalışmıyor"
+
+#: package/contents/ui/main.qml:146
+#, fuzzy, kde-format
+#| msgid "Startup Services"
+msgid "Startup Services"
+msgstr "Başlangıç Servisleri"
+
+#: package/contents/ui/main.qml:147
+#, kde-format
+msgid "Load-on-Demand Services"
+msgstr "İstek Anında Yüklenen Servisler"
+
+#: package/contents/ui/main.qml:164
+#, kde-format
+msgid "Toggle automatically loading this service on startup"
+msgstr ""
+
+#: package/contents/ui/main.qml:227
+#, kde-format
+msgid "Not running"
+msgstr "Çalışmıyor"
+
+#: package/contents/ui/main.qml:228
+#, kde-format
+msgid "Running"
+msgstr "Çalışıyor"
+
+#: package/contents/ui/main.qml:247
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "Stop Service"
+msgstr "Servis"
+
+#: package/contents/ui/main.qml:247
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "Start Service"
+msgstr "Servis"

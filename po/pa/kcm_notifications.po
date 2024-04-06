@@ -1,0 +1,255 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# A S Alam <alam.yellow@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-11 02:28+0200\n"
+"PO-Revision-Date: 2019-12-28 15:32-0800\n"
+"Last-Translator: A S Alam <alam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "alam.yellow@gmail.com"
+
+#: kcm.cpp:79
+#, kde-format
+msgid "Notifications"
+msgstr "ਨੋਟੀਫਿਕੇਸ਼ਨ"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr "ਕੋਈ ਉਵੇ ਬਰੋਉਲਿਕ"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Toggle do not disturb"
+msgstr "ਤੰਗ ਨਾ ਕਰੋ ਨੂੰ ਬਦਲੋ"
+
+#: kcm.cpp:218
+#, kde-format
+msgid "Configure Notifications"
+msgstr "ਸੂਚਨਾਵਾਂ ਲਈ ਸੰਰਚਨਾ"
+
+#: package/contents/ui/ApplicationConfiguration.qml:77
+#, kde-format
+msgid "Show popups"
+msgstr "ਪੋਪਅੱਪ ਵੇਖਾਓ"
+
+#: package/contents/ui/ApplicationConfiguration.qml:91
+#, kde-format
+msgid "Show in do not disturb mode"
+msgstr "ਤੰਗ ਨਾ ਕਰੋ ਢੰਗ ਵਿੱਚ ਵੇਖਾਓ"
+
+#: package/contents/ui/ApplicationConfiguration.qml:104
+#: package/contents/ui/main.qml:150
+#, kde-format
+msgid "Show in history"
+msgstr "ਅਤੀਤ ਵਿੱਚ ਵੇਖਾਓ"
+
+#: package/contents/ui/ApplicationConfiguration.qml:115
+#, kde-format
+msgid "Show notification badges"
+msgstr "ਨੋਟੀਫਿਕੇਸ਼ਨ ਬਿੱਲੇ ਵੇਖਾਓ"
+
+#: package/contents/ui/ApplicationConfiguration.qml:133
+#, kde-format
+msgid "Configure Events..."
+msgstr "ਈਵੈਟਾਂ ਦੀ ਸੰਰਚਨਾ..."
+
+#: package/contents/ui/ApplicationConfiguration.qml:144
+#, kde-format
+msgid ""
+"This application does not support configuring notifications on a per-event "
+"basis."
+msgstr ""
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "This module lets you manage application and system notifications."
+msgstr "ਇਹ ਮੋਡੀਊਲ ਤੁਹਾਨੂੰ ਐਪਲੀਕੇਸ਼ਨ ਅਤੇ ਸਿਸਟਮ ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਦੇ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ।"
+
+#: package/contents/ui/main.qml:56
+#, kde-format
+msgid ""
+"Could not find a 'Notifications' widget which is required for displaying "
+"notifications."
+msgstr ""
+
+#: package/contents/ui/main.qml:67
+#, kde-format
+msgctxt "Vendor and product name"
+msgid "Notifications are currently provided by '%1 %2' instead of Plasma."
+msgstr "ਇਸ ਵੇਲੇ ਨੋਟੀਫਿਕੇਸ਼ਨ ਪਲਾਜ਼ਮਾ ਦੀ ਬਜਾਏ '%1 %2' ਵਲੋਂ ਦਿੱਤੇ ਜਾ ਰਹੇ ਹਨ।"
+
+#: package/contents/ui/main.qml:71
+#, kde-format
+msgid "Notifications are currently not provided by Plasma."
+msgstr "ਇਸ ਵੇਲੇ ਨੋਟੀਫਿਕੇਸ਼ਨ ਪਲਾਜ਼ਮਾ ਵਲੋਂ ਨਹੀਂ ਦਿੱਤੇ ਜਾ ਰਹੇ ਹਨ।"
+
+#: package/contents/ui/main.qml:78
+#, fuzzy, kde-format
+#| msgid "Do not disturb:"
+msgid "Do Not Disturb mode:"
+msgstr "ਤੰਗ ਨਾ ਕਰੋ:"
+
+#: package/contents/ui/main.qml:79
+#, fuzzy, kde-format
+#| msgctxt "Do not disturb when screens are mirrored"
+#| msgid "When screens are mirrored"
+msgctxt "Do not disturb when screens are mirrored"
+msgid "Enable when screens are mirrored"
+msgstr "ਜਦੋਂ ਸਕਰੀਨਾਂ ਨੂੰ ਮਿੱਰਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ"
+
+#: package/contents/ui/main.qml:91
+#, kde-format
+msgid "Show critical notifications"
+msgstr "ਗੰਭੀਰ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵੇਖਾਓ"
+
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgctxt "Turn do not disturb mode on/off with keyboard shortcut"
+msgid "Toggle with:"
+msgstr "ਇਸ ਨਾਲ ਬਦਲੋ:"
+
+#: package/contents/ui/main.qml:120
+#, kde-format
+msgid "Critical notifications:"
+msgstr "ਗੰਭੀਰ ਨੋਟੀਫਿਕੇਸ਼ਨ:"
+
+#: package/contents/ui/main.qml:121
+#, kde-format
+msgid "Always keep on top"
+msgstr "ਹਮੇਸ਼ਾ ਸਭ ਤੋਂ ਉੱਤੇ ਰੱਖੋ"
+
+#: package/contents/ui/main.qml:137
+#, kde-format
+msgid "Low priority notifications:"
+msgstr "ਘੱਟ ਤਰਜੀਹ ਨੋਟੀਫਿਕੇਸ਼ਨ:"
+
+#: package/contents/ui/main.qml:138
+#, kde-format
+msgid "Show popup"
+msgstr "ਪੋਪਅੱਪ ਵੇਖਾਓ"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Popup:"
+msgstr ""
+
+#: package/contents/ui/main.qml:173
+#, fuzzy, kde-format
+#| msgctxt "Popup position near notification plasmoid"
+#| msgid "Near the notification icon"
+msgctxt "Popup position near notification plasmoid"
+msgid "Show near notification icon"
+msgstr "ਨੋਟੀਫਿਕੇਸ਼ਨ ਆਈਕਾਨ ਦੇ ਨੇੜੇ"
+
+#: package/contents/ui/main.qml:210
+#, kde-format
+msgid "Choose Custom Position..."
+msgstr "ਕਸਟਮ ਸਥਿਤੀ ਚੁਣੋ..."
+
+#: package/contents/ui/main.qml:219 package/contents/ui/main.qml:243
+#, kde-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 ਸਕਿੰਟ"
+msgstr[1] "%1 ਸਕਿੰਟ"
+
+#: package/contents/ui/main.qml:228
+#, fuzzy, kde-format
+#| msgid "Hide popup after:"
+msgctxt "Part of a sentence like, 'Hide popup after n seconds'"
+msgid "Hide after:"
+msgstr "ਪੋਪਅੱਪ ਦੇ ਬਾਅਦ ਲੁਕਾਓ:"
+
+#: package/contents/ui/main.qml:260
+#, kde-format
+msgid "Application progress:"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਤਰੱਕੀ:"
+
+#: package/contents/ui/main.qml:261 package/contents/ui/main.qml:305
+#, kde-format
+msgid "Show in task manager"
+msgstr "ਟਾਸਕ ਮੈਨੇਜਰ ਵਿੱਚ ਵੇਖਾਓ"
+
+#: package/contents/ui/main.qml:273
+#, kde-format
+msgctxt "Show application jobs in notification widget"
+msgid "Show in notifications"
+msgstr "ਨੋਟੀਫਿਕੇਸ਼ਨ ਵਿੱਚ ਵੇਖਾਓ"
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgctxt "Keep application job popup open for entire duration of job"
+msgid "Keep popup open during progress"
+msgstr "ਤਰੱਕੀ ਦੇ ਦੌਰਾਨ ਪੋਪਅੱਪ ਰੱਖੋ"
+
+#: package/contents/ui/main.qml:304
+#, kde-format
+msgid "Notification badges:"
+msgstr "ਨੋਟੀਫਿਕੇਸ਼ਨ ਬਿੱਲੇ:"
+
+#: package/contents/ui/main.qml:320
+#, kde-format
+msgid "Applications:"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ:"
+
+#: package/contents/ui/main.qml:321
+#, kde-format
+msgid "Configure..."
+msgstr "ਸੰਰਚਨਾ..."
+
+#: package/contents/ui/PopupPositionPage.qml:29
+#, kde-format
+msgid "Popup Position"
+msgstr "ਪੌਪ ਸਥਿਤੀ"
+
+#: package/contents/ui/SourcesPage.qml:32
+#, kde-format
+msgid "Application Settings"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ"
+
+#: package/contents/ui/SourcesPage.qml:103
+#, kde-format
+msgid "Applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨਾਂ"
+
+#: package/contents/ui/SourcesPage.qml:104
+#, kde-format
+msgid "System Services"
+msgstr "ਸਿਸਟਮ ਸੇਵਾਵਾਂ"
+
+#: package/contents/ui/SourcesPage.qml:133
+#, kde-format
+msgid "No application or event matches your search term."
+msgstr "ਤੁਹਾਡੇ ਖੋਜ ਸ਼ਬਦ ਨਾਲ ਮਿਲਦੀ ਕੋਈ ਐਪਲੀਕੇਸ਼ਨ ਜਾਂ ਈਵੈਂਟ ਹੈ"
+
+#: package/contents/ui/SourcesPage.qml:153
+#, kde-format
+msgid ""
+"Select an application from the list to configure its notification settings "
+"and behavior."
+msgstr ""
+
+#: sourcesmodel.cpp:353
+#, kde-format
+msgid "Other Applications"
+msgstr "ਹੋਰ ਐਪਲੀਕੇਸ਼ਨਾਂ"

@@ -1,0 +1,279 @@
+# Translation for kcm_users.po to Euskara/Basque (eu).
+# Copyright (C) 2020, This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# KDE euskaratzeko proiektuko arduraduna <xalba@euskalnet.net>.
+#
+# Translators:
+# Iñigo Salvador Azurmendi <xalba@ni.eus>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-12 08:34+0100\n"
+"PO-Revision-Date: 2020-12-25 23:33+0100\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
+"Language-Team: Basque <kde-i18n-eu@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Iñigo Salvador Azurmendi"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "xalba@euskalnet.net"
+
+#: package/contents/ui/ChangePassword.qml:41
+#: package/contents/ui/UserDetailsPage.qml:179
+#, kde-format
+msgid "Change Password"
+msgstr "Aldatu pasahitza"
+
+#: package/contents/ui/ChangePassword.qml:54
+#, kde-format
+msgid "Password"
+msgstr "Pasahitza"
+
+#: package/contents/ui/ChangePassword.qml:66
+#, kde-format
+msgid "Confirm password"
+msgstr "Berretsi pasahitza:"
+
+#: package/contents/ui/ChangePassword.qml:82
+#: package/contents/ui/CreateUser.qml:80
+#, kde-format
+msgid "Passwords must match"
+msgstr "Pasahitzak bat etorri behar du"
+
+#: package/contents/ui/ChangePassword.qml:87
+#, kde-format
+msgid "Set Password"
+msgstr "Ezarri pasahitza"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Create User"
+msgstr "Sortu erabiltzailea"
+
+#: package/contents/ui/CreateUser.qml:44
+#, kde-format
+msgid "Name:"
+msgstr "Izena:"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:153
+#, kde-format
+msgid "Username:"
+msgstr "Erabiltzaile-izena:"
+
+#: package/contents/ui/CreateUser.qml:59
+#: package/contents/ui/UserDetailsPage.qml:161
+#, kde-format
+msgid "Standard"
+msgstr "Arrunta"
+
+#: package/contents/ui/CreateUser.qml:60
+#: package/contents/ui/UserDetailsPage.qml:162
+#, kde-format
+msgid "Administrator"
+msgstr "Administratzailea"
+
+#: package/contents/ui/CreateUser.qml:63
+#: package/contents/ui/UserDetailsPage.qml:165
+#, kde-format
+msgid "Account type:"
+msgstr "Kontu mota:"
+
+#: package/contents/ui/CreateUser.qml:68
+#, kde-format
+msgid "Password:"
+msgstr "Pasahitza:"
+
+#: package/contents/ui/CreateUser.qml:73
+#, kde-format
+msgid "Confirm password:"
+msgstr "Berretsi pasahitza::"
+
+#: package/contents/ui/CreateUser.qml:84
+#, kde-format
+msgid "Create"
+msgstr "Sortu"
+
+#: package/contents/ui/main.qml:35
+#, kde-format
+msgid "Manage Users"
+msgstr "Kudeatu erabiltzaileak"
+
+#: package/contents/ui/main.qml:108
+#, kde-format
+msgid "Add New User"
+msgstr "Gehitu erabiltzaile berria"
+
+#: package/contents/ui/UserDetailsPage.qml:93
+#, kde-format
+msgid "Choose a picture"
+msgstr "Hautatu irudi bat"
+
+#: package/contents/ui/UserDetailsPage.qml:145
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "Jone Agirre"
+
+#: package/contents/ui/UserDetailsPage.qml:174
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "jone.agirre@kde.org"
+
+#: package/contents/ui/UserDetailsPage.qml:175
+#, kde-format
+msgid "Email address:"
+msgstr "E-posta helbidea:"
+
+#: package/contents/ui/UserDetailsPage.qml:199
+#, kde-format
+msgid "Delete files"
+msgstr "Ezabatu fitxategiak"
+
+#: package/contents/ui/UserDetailsPage.qml:208
+#, kde-format
+msgid "Keep files"
+msgstr "Mantendu fitxategiak"
+
+#: package/contents/ui/UserDetailsPage.qml:217
+#, kde-format
+msgid "Delete User..."
+msgstr "Ezabatu erabiltzailea..."
+
+#: package/contents/ui/UserDetailsPage.qml:228
+#, kde-format
+msgid "Change Avatar"
+msgstr "Aldatu abatarra"
+
+#: package/contents/ui/UserDetailsPage.qml:268
+#, kde-format
+msgid "Choose File..."
+msgstr "Hautatu fitxategia..."
+
+#: package/contents/ui/UserDetailsPage.qml:401
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr "Flamenko bizia"
+
+#: package/contents/ui/UserDetailsPage.qml:402
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr "Herensugearen fruta"
+
+#: package/contents/ui/UserDetailsPage.qml:403
+#, kde-format
+msgid "Sweet Potato"
+msgstr "Batata"
+
+#: package/contents/ui/UserDetailsPage.qml:404
+#, kde-format
+msgid "Ambient Amber"
+msgstr "Giroko anbar"
+
+#: package/contents/ui/UserDetailsPage.qml:405
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr "Eguzki-izpiaren distira"
+
+#: package/contents/ui/UserDetailsPage.qml:406
+#, kde-format
+msgid "Lemon-Lime"
+msgstr "Lima-limoia"
+
+#: package/contents/ui/UserDetailsPage.qml:407
+#, kde-format
+msgid "Verdant Charm"
+msgstr "Xarma berdea"
+
+#: package/contents/ui/UserDetailsPage.qml:408
+#, kde-format
+msgid "Mellow Meadow"
+msgstr "Larre gozoa"
+
+#: package/contents/ui/UserDetailsPage.qml:409
+#, kde-format
+msgid "Tepid Teal"
+msgstr "Berde-urdinxka epela"
+
+#: package/contents/ui/UserDetailsPage.qml:410
+#, kde-format
+msgid "Plasma Blue"
+msgstr "Plasma urdina"
+
+#: package/contents/ui/UserDetailsPage.qml:411
+#, kde-format
+msgid "Pon Purple"
+msgstr "Pon purpura"
+
+#: package/contents/ui/UserDetailsPage.qml:412
+#, kde-format
+msgid "Bajo Purple"
+msgstr "Bajo purpura"
+
+#: package/contents/ui/UserDetailsPage.qml:413
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr "Erretako egur-ikatza"
+
+#: package/contents/ui/UserDetailsPage.qml:414
+#, kde-format
+msgid "Paper Perfection"
+msgstr "Papereko perfekzioa"
+
+#: package/contents/ui/UserDetailsPage.qml:415
+#, kde-format
+msgid "Cafétera Brown"
+msgstr "Kafeontziko marroia"
+
+#: package/contents/ui/UserDetailsPage.qml:416
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "Hostozabalen zur bizia"
+
+#: src/kcm.cpp:51
+#, kde-format
+msgid "Manage user accounts"
+msgstr "Kudeatu erabiltzaile-kontuak"
+
+#: src/kcm.cpp:53
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:54
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:231
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr "Ezin izan da %1 erabiltzailea gordetzeko baimenik lortu"
+
+#: src/user.cpp:235
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr "Errore bat gertatu da aldaketak gordetzean"
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Your Account"
+msgstr "Zure kontua"
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Other Accounts"
+msgstr "Beste kontu batzuk"

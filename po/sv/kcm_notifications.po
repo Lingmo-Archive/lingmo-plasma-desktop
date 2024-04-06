@@ -1,0 +1,254 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-11 02:28+0200\n"
+"PO-Revision-Date: 2020-01-06 14:05+0100\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Stefan Asserhäll"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stefan.asserhall@bredband.net"
+
+#: kcm.cpp:79
+#, kde-format
+msgid "Notifications"
+msgstr "Underrättelser"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Toggle do not disturb"
+msgstr "Ändra stör ej"
+
+#: kcm.cpp:218
+#, kde-format
+msgid "Configure Notifications"
+msgstr "Anpassa underrättelser"
+
+#: package/contents/ui/ApplicationConfiguration.qml:77
+#, kde-format
+msgid "Show popups"
+msgstr "Visa meddelanderutor"
+
+#: package/contents/ui/ApplicationConfiguration.qml:91
+#, kde-format
+msgid "Show in do not disturb mode"
+msgstr "Visa vid stör ej"
+
+#: package/contents/ui/ApplicationConfiguration.qml:104
+#: package/contents/ui/main.qml:150
+#, kde-format
+msgid "Show in history"
+msgstr "Visa i historik"
+
+#: package/contents/ui/ApplicationConfiguration.qml:115
+#, kde-format
+msgid "Show notification badges"
+msgstr "Visa underrättelsebrickor"
+
+#: package/contents/ui/ApplicationConfiguration.qml:133
+#, kde-format
+msgid "Configure Events..."
+msgstr "Anpassa händelser..."
+
+#: package/contents/ui/ApplicationConfiguration.qml:144
+#, kde-format
+msgid ""
+"This application does not support configuring notifications on a per-event "
+"basis."
+msgstr "Programmet stöder inte att anpassa underrättelser per händelse."
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "This module lets you manage application and system notifications."
+msgstr "Modulen låter dig hantera program- och systemunderrättelser."
+
+#: package/contents/ui/main.qml:56
+#, kde-format
+msgid ""
+"Could not find a 'Notifications' widget which is required for displaying "
+"notifications."
+msgstr ""
+"Kunde inte hitta den grafiska komponenten 'Underrättelser' som krävs för att "
+"visa underrättelser."
+
+#: package/contents/ui/main.qml:67
+#, kde-format
+msgctxt "Vendor and product name"
+msgid "Notifications are currently provided by '%1 %2' instead of Plasma."
+msgstr ""
+"Underrättelser tillhandahålls för närvarande av '%1 %2' istället för Plasma."
+
+#: package/contents/ui/main.qml:71
+#, kde-format
+msgid "Notifications are currently not provided by Plasma."
+msgstr "Underrättelser tillhandahålls för närvarande inte av Plasma."
+
+#: package/contents/ui/main.qml:78
+#, kde-format
+msgid "Do Not Disturb mode:"
+msgstr "Stör ej:"
+
+#: package/contents/ui/main.qml:79
+#, kde-format
+msgctxt "Do not disturb when screens are mirrored"
+msgid "Enable when screens are mirrored"
+msgstr "Aktivera när skärmar är speglade"
+
+#: package/contents/ui/main.qml:91
+#, kde-format
+msgid "Show critical notifications"
+msgstr "Visa kritiska underrättelser"
+
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgctxt "Turn do not disturb mode on/off with keyboard shortcut"
+msgid "Toggle with:"
+msgstr "Ändra med:"
+
+#: package/contents/ui/main.qml:120
+#, kde-format
+msgid "Critical notifications:"
+msgstr "Kritiska underrättelser:"
+
+#: package/contents/ui/main.qml:121
+#, kde-format
+msgid "Always keep on top"
+msgstr "Behåll alltid överst"
+
+#: package/contents/ui/main.qml:137
+#, kde-format
+msgid "Low priority notifications:"
+msgstr "Lågprioriterade underrättelser:"
+
+#: package/contents/ui/main.qml:138
+#, kde-format
+msgid "Show popup"
+msgstr "Visa meddelanderuta"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Popup:"
+msgstr "Meddelanderuta:"
+
+#: package/contents/ui/main.qml:173
+#, kde-format
+msgctxt "Popup position near notification plasmoid"
+msgid "Show near notification icon"
+msgstr "Visa nära underrättelseikon"
+
+#: package/contents/ui/main.qml:210
+#, kde-format
+msgid "Choose Custom Position..."
+msgstr "Välj egen position..."
+
+#: package/contents/ui/main.qml:219 package/contents/ui/main.qml:243
+#, kde-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 sekund"
+msgstr[1] "%1 sekunder"
+
+#: package/contents/ui/main.qml:228
+#, kde-format
+msgctxt "Part of a sentence like, 'Hide popup after n seconds'"
+msgid "Hide after:"
+msgstr "Dölj efter:"
+
+#: package/contents/ui/main.qml:260
+#, kde-format
+msgid "Application progress:"
+msgstr "Programförlopp:"
+
+#: package/contents/ui/main.qml:261 package/contents/ui/main.qml:305
+#, kde-format
+msgid "Show in task manager"
+msgstr "Visa i aktivitetshanterare"
+
+#: package/contents/ui/main.qml:273
+#, kde-format
+msgctxt "Show application jobs in notification widget"
+msgid "Show in notifications"
+msgstr "Visa i underrättelser"
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgctxt "Keep application job popup open for entire duration of job"
+msgid "Keep popup open during progress"
+msgstr "Behåll meddelanderuta öppen under förlopp"
+
+#: package/contents/ui/main.qml:304
+#, kde-format
+msgid "Notification badges:"
+msgstr "Underrättelsebrickor:"
+
+#: package/contents/ui/main.qml:320
+#, kde-format
+msgid "Applications:"
+msgstr "Program:"
+
+#: package/contents/ui/main.qml:321
+#, kde-format
+msgid "Configure..."
+msgstr "Anpassa..."
+
+#: package/contents/ui/PopupPositionPage.qml:29
+#, kde-format
+msgid "Popup Position"
+msgstr "Meddelanderutans position"
+
+#: package/contents/ui/SourcesPage.qml:32
+#, kde-format
+msgid "Application Settings"
+msgstr "Programinställningar"
+
+#: package/contents/ui/SourcesPage.qml:103
+#, kde-format
+msgid "Applications"
+msgstr "Program"
+
+#: package/contents/ui/SourcesPage.qml:104
+#, kde-format
+msgid "System Services"
+msgstr "Systemtjänster"
+
+#: package/contents/ui/SourcesPage.qml:133
+#, kde-format
+msgid "No application or event matches your search term."
+msgstr "Inget program eller händelse motsvarar sökbegreppet."
+
+#: package/contents/ui/SourcesPage.qml:153
+#, kde-format
+msgid ""
+"Select an application from the list to configure its notification settings "
+"and behavior."
+msgstr ""
+"Välj ett program i listan för att anpassa dess underrättelseinställningar "
+"och beteende."
+
+#: sourcesmodel.cpp:353
+#, kde-format
+msgid "Other Applications"
+msgstr "Övriga program"

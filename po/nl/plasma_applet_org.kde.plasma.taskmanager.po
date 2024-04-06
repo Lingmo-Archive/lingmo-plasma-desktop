@@ -1,0 +1,531 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2014, 2015, 2016, 2017, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-17 08:24+0200\n"
+"PO-Revision-Date: 2020-08-30 15:52+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.0\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+#: package/contents/config/config.qml:31
+#, kde-format
+msgid "Behavior"
+msgstr "Gedrag"
+
+#: package/contents/ui/Badge.qml:48
+#, kde-format
+msgctxt "Invalid number of new messages, overlay, keep short"
+msgid "—"
+msgstr "—"
+
+#: package/contents/ui/Badge.qml:50
+#, kde-format
+msgctxt "Over 9999 new messages, overlay, keep short"
+msgid "9,999+"
+msgstr "9.999+"
+
+#: package/contents/ui/ConfigAppearance.qml:48
+#, kde-format
+msgid "General:"
+msgstr "Algemeen:"
+
+#: package/contents/ui/ConfigAppearance.qml:49
+#, kde-format
+msgid "Show tooltips"
+msgstr "Tekstballonnen tonen"
+
+#: package/contents/ui/ConfigAppearance.qml:54
+#, kde-format
+msgid "Highlight windows when hovering over tasks"
+msgstr "Vensters accentueren bij zweven boven taken"
+
+#: package/contents/ui/ConfigAppearance.qml:59
+#, kde-format
+msgid "Mark applications that play audio"
+msgstr "Toepassingen markeren die geluid afspelen"
+
+#: package/contents/ui/ConfigAppearance.qml:73
+#, kde-format
+msgid "Icon size:"
+msgstr "Pictogramgrootte:"
+
+#: package/contents/ui/ConfigAppearance.qml:85
+#, kde-format
+msgid "Small"
+msgstr "Klein"
+
+#: package/contents/ui/ConfigAppearance.qml:94
+#, kde-format
+msgid "Large"
+msgstr "Groot"
+
+#: package/contents/ui/ConfigAppearance.qml:105
+#, kde-format
+msgid "Maximum columns:"
+msgstr "Maximum aantal kolommen:"
+
+#: package/contents/ui/ConfigAppearance.qml:105
+#, kde-format
+msgid "Maximum rows:"
+msgstr "Maximum aantal rijen:"
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, kde-format
+msgid "Always arrange tasks in rows of as many columns"
+msgstr "Taken altijd in rijen van zo veel mogelijke kolommen plaatsen"
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, kde-format
+msgid "Always arrange tasks in columns of as many rows"
+msgstr "Taken altijd in kolommen van zo veel mogelijke rijen plaatsen"
+
+#: package/contents/ui/ConfigBehavior.qml:59
+#, kde-format
+msgid "Group:"
+msgstr "Groep:"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgid "Do not group"
+msgstr "Niet groeperen"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgid "By program name"
+msgstr "Op programmanaam"
+
+#: package/contents/ui/ConfigBehavior.qml:67
+#, kde-format
+msgid "Clicking grouped task:"
+msgstr "Op gegroepeerde taak klikken:"
+
+#: package/contents/ui/ConfigBehavior.qml:75
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task cycles through tasks' "
+msgid "Cycles through tasks"
+msgstr "Loopt door taken"
+
+#: package/contents/ui/ConfigBehavior.qml:76
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows tooltip window "
+"thumbnails' "
+msgid "Shows tooltip window thumbnails"
+msgstr "Tekstballonvensterminiaturen wordt getoond"
+
+#: package/contents/ui/ConfigBehavior.qml:77
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows 'Present Windows' "
+"effect' "
+msgid "Shows 'Present Windows' effect"
+msgstr "'Aanwezig venster'-effect wordt getoond"
+
+#: package/contents/ui/ConfigBehavior.qml:78
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task shows textual list' "
+msgid "Shows textual list"
+msgstr "Tekstuele lijst wordt getoond"
+
+#: package/contents/ui/ConfigBehavior.qml:86
+#, kde-format
+msgid ""
+"Tooltips are disabled, so the 'Present Windows' effect will be displayed "
+"instead."
+msgstr ""
+"Tekstballonnen zijn uitgeschakeld, dus zal in plaats daarvan het 'Aanwezig "
+"venster'-effect worden getoond."
+
+#: package/contents/ui/ConfigBehavior.qml:93
+#, kde-format
+msgid ""
+"Tooltips are disabled, and the 'Present Windows' effect is not enabled or "
+"otherwise available right now, so a textual list will be displayed instead"
+msgstr ""
+"Tekstballonnen zijn uitgeschakeld en het 'Aanwezig venster'-effect is niet "
+"ingeschakeld of nu anders beschikbaar, dus zal in plaats daarvan een "
+"tekstuele lijst worden getoond"
+
+#: package/contents/ui/ConfigBehavior.qml:100
+#, kde-format
+msgid ""
+"The 'Present Windows' effect is not enabled or otherwise available right "
+"now, so a textual list will be displayed instead."
+msgstr ""
+"Het 'Aanwezig venster'-effect is niet ingeschakeld of nu anders beschikbaar, "
+"dus zal in plaats daarvan een tekstuele lijst worden getoond."
+
+#: package/contents/ui/ConfigBehavior.qml:110
+#, kde-format
+msgid "Combine into single button"
+msgstr "In een enkele knop gecombineerd"
+
+#: package/contents/ui/ConfigBehavior.qml:117
+#, kde-format
+msgid "Group only when the Task Manager is full"
+msgstr "Alleen groeperen wanneer de taakbeheerder vol is"
+
+#: package/contents/ui/ConfigBehavior.qml:130
+#, kde-format
+msgid "Sort:"
+msgstr "Sorteren:"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Do not sort"
+msgstr "Niet sorteren"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Manually"
+msgstr "Handmatig"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Alphabetically"
+msgstr "Alfabetisch"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "By desktop"
+msgstr "Op bureaublad"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "By activity"
+msgstr "Op activiteit"
+
+#: package/contents/ui/ConfigBehavior.qml:138
+#, kde-format
+msgid "Keep launchers separate"
+msgstr "Programmastarters apart houden"
+
+#: package/contents/ui/ConfigBehavior.qml:149
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Clicking active task:"
+msgstr "Op actieve taak klikken:"
+
+#: package/contents/ui/ConfigBehavior.qml:150
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Minimizes the task"
+msgstr "Minimaliseert de taak"
+
+#: package/contents/ui/ConfigBehavior.qml:156
+#, kde-format
+msgid "Middle-clicking any task:"
+msgstr "Op een taak midden-klikken:"
+
+#: package/contents/ui/ConfigBehavior.qml:159
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task does nothing'"
+msgid "Does nothing"
+msgstr "Doet niets"
+
+#: package/contents/ui/ConfigBehavior.qml:160
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task closes window or group'"
+msgid "Closes window or group"
+msgstr "Sluit venster of groep"
+
+#: package/contents/ui/ConfigBehavior.qml:161
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task opens a new instance'"
+msgid "Opens a new instance"
+msgstr "Opent een nieuw exemplaar"
+
+#: package/contents/ui/ConfigBehavior.qml:162
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task minimizes/restores window or "
+"group'"
+msgid "Minimizes/Restores window or group"
+msgstr "Minimaliseert/herstelt venster of groep "
+
+#: package/contents/ui/ConfigBehavior.qml:163
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task toggles grouping'"
+msgid "Toggles grouping"
+msgstr "Schakelt groepering om"
+
+#: package/contents/ui/ConfigBehavior.qml:164
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task brings it to the current "
+"virtual desktop'"
+msgid "Brings it to the current virtual desktop"
+msgstr "Brengt het naar het huidige virtuele bureaublad"
+
+#: package/contents/ui/ConfigBehavior.qml:174
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Mouse wheel:"
+msgstr "Muiswiel:"
+
+#: package/contents/ui/ConfigBehavior.qml:175
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Cycles through tasks"
+msgstr "Loopt door taken"
+
+#: package/contents/ui/ConfigBehavior.qml:184
+#, kde-format
+msgid "Show only tasks:"
+msgstr "Alleen taken tonen:"
+
+#: package/contents/ui/ConfigBehavior.qml:185
+#, kde-format
+msgid "From current screen"
+msgstr "Uit huidig scherm"
+
+#: package/contents/ui/ConfigBehavior.qml:190
+#, kde-format
+msgid "From current desktop"
+msgstr "Uit huidig bureaublad"
+
+#: package/contents/ui/ConfigBehavior.qml:195
+#, kde-format
+msgid "From current activity"
+msgstr "Uit huidige activiteit"
+
+#: package/contents/ui/ConfigBehavior.qml:200
+#, kde-format
+msgid "That are minimized"
+msgstr "Die geminimaliseerd zijn"
+
+#: package/contents/ui/ContextMenu.qml:99
+#, kde-format
+msgid "Places"
+msgstr "Plaatsen"
+
+#: package/contents/ui/ContextMenu.qml:104
+#, kde-format
+msgid "Recent Files"
+msgstr "Recente bestanden"
+
+#: package/contents/ui/ContextMenu.qml:109
+#, kde-format
+msgid "Actions"
+msgstr "Acties"
+
+#: package/contents/ui/ContextMenu.qml:167
+#, kde-format
+msgctxt "Play previous track"
+msgid "Previous Track"
+msgstr "Vorige track"
+
+#: package/contents/ui/ContextMenu.qml:181
+#, kde-format
+msgctxt "Pause playback"
+msgid "Pause"
+msgstr "Pauzeren"
+
+#: package/contents/ui/ContextMenu.qml:181
+#, kde-format
+msgctxt "Start playback"
+msgid "Play"
+msgstr "Afspelen"
+
+#: package/contents/ui/ContextMenu.qml:199
+#, kde-format
+msgctxt "Play next track"
+msgid "Next Track"
+msgstr "Volgende track"
+
+#: package/contents/ui/ContextMenu.qml:210
+#, kde-format
+msgctxt "Stop playback"
+msgid "Stop"
+msgstr "Stoppen"
+
+#: package/contents/ui/ContextMenu.qml:230
+#, kde-format
+msgctxt "Quit media player app"
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: package/contents/ui/ContextMenu.qml:245
+#, kde-format
+msgctxt "Open or bring to the front window of media player app"
+msgid "Restore"
+msgstr "Terugzetten"
+
+#: package/contents/ui/ContextMenu.qml:271
+#, kde-format
+msgid "Mute"
+msgstr "Dempen"
+
+#: package/contents/ui/ContextMenu.qml:285
+#, kde-format
+msgid "Start New Instance"
+msgstr "Een nieuw exemplaar starten"
+
+#: package/contents/ui/ContextMenu.qml:301
+#, kde-format
+msgid "Move to &Desktop"
+msgstr "Naar bureaubla&d verplaatsen"
+
+#: package/contents/ui/ContextMenu.qml:325
+#, kde-format
+msgid "Move &To Current Desktop"
+msgstr "&Naar huidig bureaublad verplaatsen"
+
+#: package/contents/ui/ContextMenu.qml:334
+#, kde-format
+msgid "&All Desktops"
+msgstr "&Alle bureaubladen"
+
+#: package/contents/ui/ContextMenu.qml:348
+#, kde-format
+msgctxt "1 = number of desktop, 2 = desktop name"
+msgid "&%1 %2"
+msgstr "&%1 %2"
+
+#: package/contents/ui/ContextMenu.qml:362
+#, kde-format
+msgid "&New Desktop"
+msgstr "&Nieuw bureaublad"
+
+#: package/contents/ui/ContextMenu.qml:381
+#, kde-format
+msgid "Show in &Activities"
+msgstr "In Ac&tiviteiten tonen"
+
+#: package/contents/ui/ContextMenu.qml:403
+#, kde-format
+msgid "Add To Current Activity"
+msgstr "Aan huidige activiteit toevoegen"
+
+#: package/contents/ui/ContextMenu.qml:413
+#, kde-format
+msgid "All Activities"
+msgstr "Alle activiteiten"
+
+#: package/contents/ui/ContextMenu.qml:472
+#, kde-format
+msgid "More Actions"
+msgstr "Meer acties"
+
+#: package/contents/ui/ContextMenu.qml:481
+#, kde-format
+msgid "&Move"
+msgstr "&Verplaatsen"
+
+#: package/contents/ui/ContextMenu.qml:490
+#, kde-format
+msgid "Re&size"
+msgstr "&Grootte wijzigen"
+
+#: package/contents/ui/ContextMenu.qml:504
+#, kde-format
+msgid "Ma&ximize"
+msgstr "Ma&ximaliseren"
+
+#: package/contents/ui/ContextMenu.qml:518
+#, kde-format
+msgid "Mi&nimize"
+msgstr "Mi&nimaliseren"
+
+#: package/contents/ui/ContextMenu.qml:528
+#, kde-format
+msgid "Keep &Above Others"
+msgstr "Boven &anderen houden"
+
+#: package/contents/ui/ContextMenu.qml:538
+#, kde-format
+msgid "Keep &Below Others"
+msgstr "Onder an&deren houden"
+
+#: package/contents/ui/ContextMenu.qml:550
+#, kde-format
+msgid "&Fullscreen"
+msgstr "&Volledig scherm"
+
+#: package/contents/ui/ContextMenu.qml:562
+#, kde-format
+msgid "&Shade"
+msgstr "Op&rollen"
+
+#: package/contents/ui/ContextMenu.qml:578
+#, kde-format
+msgid "Allow this program to be grouped"
+msgstr "Toestaan dat dit programma wordt gegroepeerd"
+
+#: package/contents/ui/ContextMenu.qml:630
+#: package/contents/ui/ContextMenu.qml:645
+#, kde-format
+msgid "&Pin to Task Manager"
+msgstr "&Pin naar takenbeheerder"
+
+#: package/contents/ui/ContextMenu.qml:698
+#, kde-format
+msgid "On All Activities"
+msgstr "Op alle activiteiten"
+
+#: package/contents/ui/ContextMenu.qml:704
+#, kde-format
+msgid "On The Current Activity"
+msgstr "Op de huidige activiteit"
+
+#: package/contents/ui/ContextMenu.qml:728
+#, kde-format
+msgid "Unpin from Task Manager"
+msgstr "Unpin uit takenbeheerder"
+
+#: package/contents/ui/ContextMenu.qml:742
+#, kde-format
+msgid "&Close"
+msgstr "Sl&uiten"
+
+#: package/contents/ui/ToolTipInstance.qml:389
+#, kde-format
+msgctxt "Comma-separated list of desktops"
+msgid "On %1"
+msgstr "Op %1"
+
+#: package/contents/ui/ToolTipInstance.qml:399
+#, kde-format
+msgctxt "Which virtual desktop a window is currently on"
+msgid "Available on all activities"
+msgstr "Beschikbaar op alle activiteiten"
+
+#: package/contents/ui/ToolTipInstance.qml:421
+#, kde-format
+msgctxt "Activities a window is currently on (apart from the current one)"
+msgid "Also available on %1"
+msgstr "Ook beschikbaar op %1"
+
+#: package/contents/ui/ToolTipInstance.qml:425
+#, kde-format
+msgctxt "Which activities a window is currently on"
+msgid "Available on %1"
+msgstr "Beschikbaar op %1"
+
+#: plugin/backend.cpp:280
+#, kde-format
+msgctxt "Show all user Places"
+msgid "%1 more Place"
+msgid_plural "%1 more Places"
+msgstr[0] "%1 plaats meer"
+msgstr[1] "%1 plaatsen meer"
+
+#: plugin/backend.cpp:353
+#, kde-format
+msgid "Forget Recent Files"
+msgstr "Recente bestanden vergeten"

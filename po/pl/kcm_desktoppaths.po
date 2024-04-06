@@ -1,0 +1,155 @@
+# translation of kcmkonq.po to
+# translation of kcmkonq.po to
+# Version: $Revision: 1581574 $
+# translation of kcmkonq.po to Polish
+# translation of kcmkonq.po to
+# translation of kcmkonq.po to
+# translation of kcmkonq.po to
+# translation of kcmkonq.po to
+# translation of kcmkonq.po to
+# Michał Rudolf <mrudolf@kdewebdev.org>, 2002.
+# Michal Rudolf <mrudolf@kdewebdev.org>, 2002,2003.
+# Michal Rudolf <mrudolf@kdewebdev.org>, 2004, 2005, 2006, 2008, 2009.
+# Krzysztof Lichota <lichota@mimuw.edu.pl>, 2005, 2006.
+# Marta Rybczynska <kde-i18n@rybczynska.net>, 2009.
+# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2017, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-17 02:31+0200\n"
+"PO-Revision-Date: 2020-10-04 08:20+0200\n"
+"Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
+"Language-Team: Polish <kde-i18n-doc@kde.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+">\n"
+">\n"
+">\n"
+"X-Generator: Lokalize 20.08.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: globalpaths.cpp:58
+#, kde-format
+msgid ""
+"<h1>Paths</h1>\n"
+"This module allows you to choose where in the filesystem the files on your "
+"desktop should be stored.\n"
+"Use the \"Whats This?\" (Shift+F1) to get help on specific options."
+msgstr ""
+"<h1>Ścieżki</h1>\n"
+"Moduł pozwala na konfigurację katalogów, w których\n"
+"przechowywane są różne pliki pulpitu.\n"
+"Użyj \"Co to jest?\" (Shift+F1), by uzyskać pomoc o konkretnych opcjach."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: globalpaths.ui:17
+#, kde-format
+msgid "Desktop path:"
+msgstr "Ścieżka do pulpitu:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_desktopLocation)
+#: globalpaths.ui:24
+#, kde-format
+msgid ""
+"This folder contains all the files which you see on your desktop. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+"Katalog ten zawiera wszystkie pliki, widoczne na pulpicie. Można zmienić "
+"położenie tego katalogu, jego zawartość zostanie automatycznie przeniesiona "
+"na nowe miejsce."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: globalpaths.ui:34
+#, kde-format
+msgid "Autostart path:"
+msgstr "Ścieżka do programów Autostartu:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_autostartLocation)
+#: globalpaths.ui:41
+#, kde-format
+msgid ""
+"This folder contains applications or links to applications (shortcuts) that "
+"you want to have started automatically whenever the session starts. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+"Ten katalog zawiera programy i skróty do programów, uruchamiane samoczynnie "
+"przy każdym rozpoczęciu sesji. Można zmienić położenie tego katalogu, jego "
+"zawartość zostanie samoczynnie przeniesiona na nowe miejsce."
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: globalpaths.ui:51
+#, kde-format
+msgid "Documents path:"
+msgstr "Ścieżka do dokumentów:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_documentsLocation)
+#: globalpaths.ui:58
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save documents from or to."
+msgstr ""
+"Ten katalog będzie używany jako domyślne miejsce wczytywania i zapisywania "
+"dokumentów."
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: globalpaths.ui:68
+#, kde-format
+msgid "Downloads path:"
+msgstr "Ścieżka do pobranych:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_downloadsLocation)
+#: globalpaths.ui:75
+#, kde-format
+msgid "This folder will be used by default to save your downloaded items."
+msgstr ""
+"Ten katalog będzie używany jako domyślne miejsce zapisywania pobieranych "
+"elementów."
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: globalpaths.ui:85
+#, kde-format
+msgid "Videos path:"
+msgstr "Ścieżka do filmów:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_videosLocation)
+#: globalpaths.ui:92
+#, kde-format
+msgid "This folder will be used by default to load or save movies from or to."
+msgstr ""
+"Ten katalog będzie używany jako domyślne miejsce wczytywania i zapisywania "
+"filmów."
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: globalpaths.ui:102
+#, kde-format
+msgid "Pictures path:"
+msgstr "Ścieżka do obrazków:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_picturesLocation)
+#: globalpaths.ui:109
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save pictures from or to."
+msgstr ""
+"Ten katalog będzie używany jako domyślne miejsce wczytywania i zapisywania "
+"obrazków."
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: globalpaths.ui:119
+#, kde-format
+msgid "Music path:"
+msgstr "Ścieżka do muzyki:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_musicLocation)
+#: globalpaths.ui:126
+#, kde-format
+msgid "This folder will be used by default to load or save music from or to."
+msgstr ""
+"Ten katalog będzie używany jako domyślne miejsce wczytywania i zapisywania "
+"muzyki."

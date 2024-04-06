@@ -1,0 +1,155 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Xəyyam Qocayev <xxmn77@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-26 02:16+0200\n"
+"PO-Revision-Date: 2020-07-05 21:52+0400\n"
+"Last-Translator: Xəyyam Qocayev <xxmn77@gmail.com>\n"
+"Language-Team: Azerbaijani <kde-i18n-doc@kde.org>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#: package/contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Əsas"
+
+#: package/contents/ui/configGeneral.qml:84
+#, kde-format
+msgid "General:"
+msgstr "Əsas:"
+
+#: package/contents/ui/configGeneral.qml:86
+#, kde-format
+msgid "Show application icons on window outlines"
+msgstr "Tətbiq nişanlarını pəncərə konturlarında göstərmək"
+
+#: package/contents/ui/configGeneral.qml:91
+#, kde-format
+msgid "Show only current screen"
+msgstr "Yalnız cari ekranı göstərmək"
+
+#: package/contents/ui/configGeneral.qml:96
+#, kde-format
+msgid "Navigation wraps around"
+msgstr "Dairəvi naviqasiya"
+
+#: package/contents/ui/configGeneral.qml:108
+#, kde-format
+msgid "Layout:"
+msgstr "İstiqamət:"
+
+#: package/contents/ui/configGeneral.qml:110
+#, kde-format
+msgctxt "The pager layout"
+msgid "Default"
+msgstr "Standart"
+
+#: package/contents/ui/configGeneral.qml:110
+#, kde-format
+msgid "Horizontal"
+msgstr "Üfüqi"
+
+#: package/contents/ui/configGeneral.qml:110
+#, kde-format
+msgid "Vertical"
+msgstr "Şaquli"
+
+#: package/contents/ui/configGeneral.qml:124
+#, kde-format
+msgid "Text display:"
+msgstr "Ekran mətni:"
+
+#: package/contents/ui/configGeneral.qml:127
+#, kde-format
+msgid "No text"
+msgstr "Mətn yoxdur"
+
+#: package/contents/ui/configGeneral.qml:133
+#, kde-format
+msgid "Activity number"
+msgstr "İş Otağı nömrəsi"
+
+#: package/contents/ui/configGeneral.qml:133
+#, kde-format
+msgid "Desktop number"
+msgstr "İş Masası nömrəsi"
+
+#: package/contents/ui/configGeneral.qml:139
+#, kde-format
+msgid "Activity name"
+msgstr "İş Otağının adı"
+
+#: package/contents/ui/configGeneral.qml:139
+#, kde-format
+msgid "Desktop name"
+msgstr "İş Masasının adı"
+
+#: package/contents/ui/configGeneral.qml:152
+#, kde-format
+msgid "Selecting current Activity:"
+msgstr "Cari İş Otağının seçimi:"
+
+#: package/contents/ui/configGeneral.qml:152
+#, kde-format
+msgid "Selecting current virtual desktop:"
+msgstr "Cari virtual İş Masasının seçimi:"
+
+#: package/contents/ui/configGeneral.qml:155
+#, kde-format
+msgid "Does nothing"
+msgstr "Edilməli bir şey yoxdur"
+
+#: package/contents/ui/configGeneral.qml:161
+#, kde-format
+msgid "Shows the desktop"
+msgstr "İş Masasını göstərmək"
+
+#: package/contents/ui/main.qml:321
+#, kde-format
+msgid "...and %1 other window"
+msgid_plural "...and %1 other windows"
+msgstr[0] "   və %1 başqa pəncərə"
+msgstr[1] "   və %1 başqa pəncərə"
+
+#: package/contents/ui/main.qml:345
+#, kde-format
+msgid "%1 Window:"
+msgid_plural "%1 Windows:"
+msgstr[0] "%1 Pəncərə:"
+msgstr[1] "%1 Pəncərə:"
+
+#: package/contents/ui/main.qml:354
+#, kde-format
+msgid "%1 Minimized Window:"
+msgid_plural "%1 Minimized Windows:"
+msgstr[0] "%1 Kiçildilmiş pəncərə:"
+msgstr[1] "%1 Kiçildilmiş pəncərə:"
+
+#: package/contents/ui/main.qml:529
+#, kde-format
+msgid "Show Activity Manager..."
+msgstr "İş Otağı menecerini göstərmək..."
+
+#: package/contents/ui/main.qml:532
+#, kde-format
+msgid "Add Virtual Desktop"
+msgstr "Virtual İş Masası əlavə etmək"
+
+#: package/contents/ui/main.qml:533
+#, kde-format
+msgid "Remove Virtual Desktop"
+msgstr "Virtual İş Masasını silmək"
+
+#: package/contents/ui/main.qml:538
+#, kde-format
+msgid "Configure Virtual Desktops..."
+msgstr "Virtual İş Masasını tənzimləmək..."

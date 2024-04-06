@@ -1,0 +1,531 @@
+# translation of plasma_applet_org.kde.plasma.taskmanager.po to Slovak
+# Roman Paholik <wizzardsk@gmail.com>, 2014, 2015, 2016, 2017, 2019.
+# Mthw <jari_45@hotmail.com>, 2018, 2019.
+# Matej Mrenica <matejm98mthw@gmail.com>, 2019, 2020.
+# Dušan Kazik <prescott66@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.taskmanager\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-17 08:24+0200\n"
+"PO-Revision-Date: 2020-10-14 14:04+0200\n"
+"Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
+"Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.08.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "Appearance"
+msgstr "Vzhľad"
+
+#: package/contents/config/config.qml:31
+#, kde-format
+msgid "Behavior"
+msgstr "Správanie"
+
+#: package/contents/ui/Badge.qml:48
+#, kde-format
+msgctxt "Invalid number of new messages, overlay, keep short"
+msgid "—"
+msgstr "—"
+
+#: package/contents/ui/Badge.qml:50
+#, kde-format
+msgctxt "Over 9999 new messages, overlay, keep short"
+msgid "9,999+"
+msgstr "9999+"
+
+#: package/contents/ui/ConfigAppearance.qml:48
+#, kde-format
+msgid "General:"
+msgstr "Všeobecné:"
+
+#: package/contents/ui/ConfigAppearance.qml:49
+#, kde-format
+msgid "Show tooltips"
+msgstr "Zobrazovať popisky"
+
+#: package/contents/ui/ConfigAppearance.qml:54
+#, kde-format
+msgid "Highlight windows when hovering over tasks"
+msgstr "Zvýrazniť okná pri prechádzaní ponad úlohami"
+
+#: package/contents/ui/ConfigAppearance.qml:59
+#, kde-format
+msgid "Mark applications that play audio"
+msgstr "Označiť aplikácie, ktoré prehrávajú zvuk"
+
+#: package/contents/ui/ConfigAppearance.qml:73
+#, kde-format
+msgid "Icon size:"
+msgstr "Veľkosť ikon:"
+
+#: package/contents/ui/ConfigAppearance.qml:85
+#, kde-format
+msgid "Small"
+msgstr "Malé"
+
+#: package/contents/ui/ConfigAppearance.qml:94
+#, kde-format
+msgid "Large"
+msgstr "Veľké"
+
+#: package/contents/ui/ConfigAppearance.qml:105
+#, kde-format
+msgid "Maximum columns:"
+msgstr "Maximálny počet stĺpcov:"
+
+#: package/contents/ui/ConfigAppearance.qml:105
+#, kde-format
+msgid "Maximum rows:"
+msgstr "Maximálny počet riadkov:"
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, kde-format
+msgid "Always arrange tasks in rows of as many columns"
+msgstr "Vždy usporiadať úlohy v stĺpcoch s rovnakým počtom riadkov"
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, kde-format
+msgid "Always arrange tasks in columns of as many rows"
+msgstr "Vždy usporiadať úlohy v stĺpcoch s rovnakým počtom riadkov"
+
+#: package/contents/ui/ConfigBehavior.qml:59
+#, kde-format
+msgid "Group:"
+msgstr "Zoskupovať:"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgid "Do not group"
+msgstr "Nezoskupovať"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgid "By program name"
+msgstr "Podľa názvu programu"
+
+#: package/contents/ui/ConfigBehavior.qml:67
+#, kde-format
+msgid "Clicking grouped task:"
+msgstr "Kliknutím na zoskupenú úlohu:"
+
+#: package/contents/ui/ConfigBehavior.qml:75
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task cycles through tasks' "
+msgid "Cycles through tasks"
+msgstr "Prepína cez úlohy"
+
+#: package/contents/ui/ConfigBehavior.qml:76
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows tooltip window "
+"thumbnails' "
+msgid "Shows tooltip window thumbnails"
+msgstr "Zobrazí náhľady okien"
+
+#: package/contents/ui/ConfigBehavior.qml:77
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows 'Present Windows' "
+"effect' "
+msgid "Shows 'Present Windows' effect"
+msgstr "Zobrazí efekt 'Aktuálne okná'"
+
+#: package/contents/ui/ConfigBehavior.qml:78
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task shows textual list' "
+msgid "Shows textual list"
+msgstr "Zobrazí textový zoznam"
+
+#: package/contents/ui/ConfigBehavior.qml:86
+#, kde-format
+msgid ""
+"Tooltips are disabled, so the 'Present Windows' effect will be displayed "
+"instead."
+msgstr ""
+"Popisky sú zakázané, preto sa namiesto toho zobrazí efekt „Aktuálne okná“."
+
+#: package/contents/ui/ConfigBehavior.qml:93
+#, kde-format
+msgid ""
+"Tooltips are disabled, and the 'Present Windows' effect is not enabled or "
+"otherwise available right now, so a textual list will be displayed instead"
+msgstr ""
+"Popisky sú zakázané a efekt „Aktuálne okná“ nie je momentálne povolený ani "
+"inak dostupný, takže namiesto neho sa zobrazí textový zoznam."
+
+#: package/contents/ui/ConfigBehavior.qml:100
+#, kde-format
+msgid ""
+"The 'Present Windows' effect is not enabled or otherwise available right "
+"now, so a textual list will be displayed instead."
+msgstr ""
+"Efekt „Aktuálne okná“ nie je momentálne povolený ani inak dostupný, preto sa "
+"namiesto neho zobrazí textový zoznam."
+
+#: package/contents/ui/ConfigBehavior.qml:110
+#, kde-format
+msgid "Combine into single button"
+msgstr "Skombinovať do jedného tlačidla"
+
+#: package/contents/ui/ConfigBehavior.qml:117
+#, kde-format
+msgid "Group only when the Task Manager is full"
+msgstr "Zoskupiť iba, ak je správca úloh plný"
+
+#: package/contents/ui/ConfigBehavior.qml:130
+#, kde-format
+msgid "Sort:"
+msgstr "Zoradenie:"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Do not sort"
+msgstr "Nezoraďovať"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Manually"
+msgstr "Ručne"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Alphabetically"
+msgstr "Abecedne"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "By desktop"
+msgstr "Podľa pracovnej plochy"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "By activity"
+msgstr "Podľa aktivity"
+
+#: package/contents/ui/ConfigBehavior.qml:138
+#, kde-format
+msgid "Keep launchers separate"
+msgstr "Ponechať spúšťače oddelené"
+
+#: package/contents/ui/ConfigBehavior.qml:149
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Clicking active task:"
+msgstr "Kliknutie na aktívnu úlohu:"
+
+#: package/contents/ui/ConfigBehavior.qml:150
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Minimizes the task"
+msgstr "Minimalizuje úlohu"
+
+#: package/contents/ui/ConfigBehavior.qml:156
+#, kde-format
+msgid "Middle-clicking any task:"
+msgstr "Kliknutie stredným tlačidlom na úlohu:"
+
+#: package/contents/ui/ConfigBehavior.qml:159
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task does nothing'"
+msgid "Does nothing"
+msgstr "Neurobí nič"
+
+#: package/contents/ui/ConfigBehavior.qml:160
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task closes window or group'"
+msgid "Closes window or group"
+msgstr "Zatvorí okno alebo skupinu"
+
+#: package/contents/ui/ConfigBehavior.qml:161
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task opens a new instance'"
+msgid "Opens a new instance"
+msgstr "Otvorí novú inštanciu"
+
+#: package/contents/ui/ConfigBehavior.qml:162
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task minimizes/restores window or "
+"group'"
+msgid "Minimizes/Restores window or group"
+msgstr "Minimalizuje/obnoví okno alebo skupinu"
+
+#: package/contents/ui/ConfigBehavior.qml:163
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task toggles grouping'"
+msgid "Toggles grouping"
+msgstr "Prepne zoskupovanie"
+
+#: package/contents/ui/ConfigBehavior.qml:164
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task brings it to the current "
+"virtual desktop'"
+msgid "Brings it to the current virtual desktop"
+msgstr "Prenesie to na aktuálnu virtuálnu plochu"
+
+#: package/contents/ui/ConfigBehavior.qml:174
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Mouse wheel:"
+msgstr "Koliesko myši:"
+
+#: package/contents/ui/ConfigBehavior.qml:175
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Cycles through tasks"
+msgstr "Prepína úlohy"
+
+#: package/contents/ui/ConfigBehavior.qml:184
+#, kde-format
+msgid "Show only tasks:"
+msgstr "Zobrazovať iba úlohy:"
+
+#: package/contents/ui/ConfigBehavior.qml:185
+#, kde-format
+msgid "From current screen"
+msgstr "Z aktuálnej obrazovky"
+
+#: package/contents/ui/ConfigBehavior.qml:190
+#, kde-format
+msgid "From current desktop"
+msgstr "Z aktuálnej plochy"
+
+#: package/contents/ui/ConfigBehavior.qml:195
+#, kde-format
+msgid "From current activity"
+msgstr "Z aktuálnej aktivity"
+
+#: package/contents/ui/ConfigBehavior.qml:200
+#, kde-format
+msgid "That are minimized"
+msgstr "Ktoré sú minimalizované"
+
+#: package/contents/ui/ContextMenu.qml:99
+#, kde-format
+msgid "Places"
+msgstr "Miesta"
+
+#: package/contents/ui/ContextMenu.qml:104
+#, kde-format
+msgid "Recent Files"
+msgstr "Nedávne dokumenty"
+
+#: package/contents/ui/ContextMenu.qml:109
+#, kde-format
+msgid "Actions"
+msgstr "Akcie"
+
+#: package/contents/ui/ContextMenu.qml:167
+#, kde-format
+msgctxt "Play previous track"
+msgid "Previous Track"
+msgstr "Predchádzajúca skladba"
+
+#: package/contents/ui/ContextMenu.qml:181
+#, kde-format
+msgctxt "Pause playback"
+msgid "Pause"
+msgstr "Pozastaviť"
+
+#: package/contents/ui/ContextMenu.qml:181
+#, kde-format
+msgctxt "Start playback"
+msgid "Play"
+msgstr "Prehrať"
+
+#: package/contents/ui/ContextMenu.qml:199
+#, kde-format
+msgctxt "Play next track"
+msgid "Next Track"
+msgstr "Nasledujúca skladba"
+
+#: package/contents/ui/ContextMenu.qml:210
+#, kde-format
+msgctxt "Stop playback"
+msgid "Stop"
+msgstr "Zastaviť"
+
+#: package/contents/ui/ContextMenu.qml:230
+#, kde-format
+msgctxt "Quit media player app"
+msgid "Quit"
+msgstr "Ukončiť"
+
+#: package/contents/ui/ContextMenu.qml:245
+#, kde-format
+msgctxt "Open or bring to the front window of media player app"
+msgid "Restore"
+msgstr "Obnoviť"
+
+#: package/contents/ui/ContextMenu.qml:271
+#, kde-format
+msgid "Mute"
+msgstr "Stlmiť"
+
+#: package/contents/ui/ContextMenu.qml:285
+#, kde-format
+msgid "Start New Instance"
+msgstr "Spustiť novú inštanciu"
+
+#: package/contents/ui/ContextMenu.qml:301
+#, kde-format
+msgid "Move to &Desktop"
+msgstr "Presunúť na &plochu"
+
+#: package/contents/ui/ContextMenu.qml:325
+#, kde-format
+msgid "Move &To Current Desktop"
+msgstr "Presunúť na &aktuálnu plochu"
+
+#: package/contents/ui/ContextMenu.qml:334
+#, kde-format
+msgid "&All Desktops"
+msgstr "&Všetky plochy"
+
+#: package/contents/ui/ContextMenu.qml:348
+#, kde-format
+msgctxt "1 = number of desktop, 2 = desktop name"
+msgid "&%1 %2"
+msgstr "&%1 %2"
+
+#: package/contents/ui/ContextMenu.qml:362
+#, kde-format
+msgid "&New Desktop"
+msgstr "Nová plocha"
+
+#: package/contents/ui/ContextMenu.qml:381
+#, kde-format
+msgid "Show in &Activities"
+msgstr "Zobraziť v ak&tivitách"
+
+#: package/contents/ui/ContextMenu.qml:403
+#, kde-format
+msgid "Add To Current Activity"
+msgstr "Pridať do aktuálnej aktivity"
+
+#: package/contents/ui/ContextMenu.qml:413
+#, kde-format
+msgid "All Activities"
+msgstr "Všetky aktivity"
+
+#: package/contents/ui/ContextMenu.qml:472
+#, kde-format
+msgid "More Actions"
+msgstr "Viac akcií"
+
+#: package/contents/ui/ContextMenu.qml:481
+#, kde-format
+msgid "&Move"
+msgstr "&Presunúť"
+
+#: package/contents/ui/ContextMenu.qml:490
+#, kde-format
+msgid "Re&size"
+msgstr "Z&meniť veľkosť"
+
+#: package/contents/ui/ContextMenu.qml:504
+#, kde-format
+msgid "Ma&ximize"
+msgstr "Ma&ximalizovať"
+
+#: package/contents/ui/ContextMenu.qml:518
+#, kde-format
+msgid "Mi&nimize"
+msgstr "Mi&nimalizovať"
+
+#: package/contents/ui/ContextMenu.qml:528
+#, kde-format
+msgid "Keep &Above Others"
+msgstr "Držať na&d ostatnými"
+
+#: package/contents/ui/ContextMenu.qml:538
+#, kde-format
+msgid "Keep &Below Others"
+msgstr "Držať &pod ostatnými"
+
+#: package/contents/ui/ContextMenu.qml:550
+#, kde-format
+msgid "&Fullscreen"
+msgstr "&Celá obrazovka"
+
+#: package/contents/ui/ContextMenu.qml:562
+#, kde-format
+msgid "&Shade"
+msgstr "Za&baliť"
+
+#: package/contents/ui/ContextMenu.qml:578
+#, kde-format
+msgid "Allow this program to be grouped"
+msgstr "Povoliť programu zoskupovanie"
+
+#: package/contents/ui/ContextMenu.qml:630
+#: package/contents/ui/ContextMenu.qml:645
+#, kde-format
+msgid "&Pin to Task Manager"
+msgstr "Pripnúť na Správcu úloh"
+
+#: package/contents/ui/ContextMenu.qml:698
+#, kde-format
+msgid "On All Activities"
+msgstr "Na všetkých aktivitách"
+
+#: package/contents/ui/ContextMenu.qml:704
+#, kde-format
+msgid "On The Current Activity"
+msgstr "Na aktuálnej aktivite"
+
+#: package/contents/ui/ContextMenu.qml:728
+#, kde-format
+msgid "Unpin from Task Manager"
+msgstr "Odopnúť od Správcu úloh"
+
+#: package/contents/ui/ContextMenu.qml:742
+#, kde-format
+msgid "&Close"
+msgstr "&Zavrieť"
+
+#: package/contents/ui/ToolTipInstance.qml:389
+#, kde-format
+msgctxt "Comma-separated list of desktops"
+msgid "On %1"
+msgstr "Na %1"
+
+#: package/contents/ui/ToolTipInstance.qml:399
+#, kde-format
+msgctxt "Which virtual desktop a window is currently on"
+msgid "Available on all activities"
+msgstr "Dostupné na všetkých aktivitách"
+
+#: package/contents/ui/ToolTipInstance.qml:421
+#, kde-format
+msgctxt "Activities a window is currently on (apart from the current one)"
+msgid "Also available on %1"
+msgstr "Dostupné aj na %1"
+
+#: package/contents/ui/ToolTipInstance.qml:425
+#, kde-format
+msgctxt "Which activities a window is currently on"
+msgid "Available on %1"
+msgstr "Dostupné na %1"
+
+#: plugin/backend.cpp:280
+#, kde-format
+msgctxt "Show all user Places"
+msgid "%1 more Place"
+msgid_plural "%1 more Places"
+msgstr[0] "%1 ďalšie miesto"
+msgstr[1] "%1 ďalšie miesta"
+msgstr[2] "%1 ďalších miest"
+
+#: plugin/backend.cpp:353
+#, kde-format
+msgid "Forget Recent Files"
+msgstr "Zabudnúť nedávne dokumenty"

@@ -1,0 +1,81 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2014, 2016, 2017, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-13 02:26+0200\n"
+"PO-Revision-Date: 2020-07-04 17:27+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Freek de Kruijf - t/m 2020"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "freekdekruijf@kde.nl"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr "Standaard webbrowser"
+
+#: componentchooser.cpp:54
+#, kde-format
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: componentchooser.cpp:57
+#, kde-format
+msgctxt "The label for the combobox: browser, terminal emulator...)"
+msgid "%1:"
+msgstr "%1:"
+
+#: componentchooserbrowser.cpp:100 componentchooseremail.cpp:89
+#: componentchooserfilemanager.cpp:109 componentchooserterminal.cpp:83
+#, kde-format
+msgid "Other..."
+msgstr "Overig..."
+
+#: componentchooserfilemanager.cpp:43
+#, kde-format
+msgid "Select preferred file manager:"
+msgstr "Bestandsbeheerder met voorkeur selecteren:"
+
+#: componentchooserterminal.cpp:114
+#, kde-format
+msgid "Select preferred terminal application:"
+msgstr "Standaard terminalprogramma selecteren:"
+
+#: kcm_componentchooser.cpp:42
+#, kde-format
+msgid "Component Chooser"
+msgstr "Componentenkiezer"
+
+#: kcm_componentchooser.cpp:44
+#, kde-format
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "(c), 2002 Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:46
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:47
+#, kde-format
+msgid "Méven Car"
+msgstr "Méven Car"

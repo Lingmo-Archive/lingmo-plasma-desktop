@@ -1,0 +1,42 @@
+Origin: https://invent.kde.org/plasma/plasma-desktop/-/commit/893aa4d83eaa6b8d959ed89a70718bddf97f9390
+From: Nate Graham <nate@kde.org>
+Date: Wed, 23 Dec 2020 13:44:27 -0700
+Subject: [PATCH] [folder view] de-duplicate switch width/height logic
+---
+ containments/desktop/package/contents/ui/main.qml | 12 +++---------
+ 1 file changed, 3 insertions(+), 9 deletions(-)
+
+diff --git a/containments/desktop/package/contents/ui/main.qml b/containments/desktop/package/contents/ui/main.qml
+index 08f35a596..cbdafc4eb 100644
+--- a/containments/desktop/package/contents/ui/main.qml
++++ b/containments/desktop/package/contents/ui/main.qml
+@@ -51,7 +51,7 @@ FolderViewDropArea {
+     Layout.maximumWidth: isPopup ? preferredWidth(false) : -1
+     Layout.maximumHeight: isPopup ? preferredHeight(false) : -1
+ 
+-    Plasmoid.switchWidth: {
++    function switchSize() {
+         // Support expanding into the full representation only on vertical panels.
+         if (isPopup && plasmoid.formFactor === PlasmaCore.Types.Vertical) {
+             return units.iconSizeHints.panel;
+@@ -60,14 +60,8 @@ FolderViewDropArea {
+         return 0;
+     }
+ 
+-    Plasmoid.switchHeight: {
+-        // Support expanding into the full representation only on vertical panels.
+-        if (isPopup && plasmoid.formFactor === PlasmaCore.Types.Vertical) {
+-            return units.iconSizeHints.panel;
+-        }
+-
+-        return 0;
+-    }
++    Plasmoid.switchWidth: { switchSize(); }
++    Plasmoid.switchHeight: { switchSize(); }
+ 
+     LayoutMirroring.enabled: Qt.application.layoutDirection === Qt.RightToLeft
+     LayoutMirroring.childrenInherit: true
+-- 
+GitLab
+
+

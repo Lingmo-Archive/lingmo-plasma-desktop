@@ -1,0 +1,88 @@
+# Translation for kcm_search.po to Euskara/Basque (eu).
+# Copyright (C) 2018, Free Software Foundation, Inc.
+# Copyright (C) 2019-2020, This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# KDE euskaratzeko proiektuko arduraduna <xalba@euskalnet.net>.
+#
+# Translators:
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-24 08:42+0200\n"
+"PO-Revision-Date: 2020-09-27 23:37+0200\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
+"Language-Team: Basque <kde-i18n-eu@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Iñigo Salvador Azurmendi"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "xalba@euskalnet.net"
+
+#: kcm.cpp:51
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Konfiguratu bilaketa-barra"
+
+#: kcm.cpp:53
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Enable or disable KRunner plugins:"
+msgstr "Gaitu edo ezgaitu «KRunner»reko pluginak:"
+
+#: kcm.cpp:67
+#, kde-format
+msgid "Clear History"
+msgstr "Garbitu historia"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Top"
+msgstr "Goian"
+
+#: kcm.cpp:83
+#, kde-format
+msgid "Center"
+msgstr "Erdian"
+
+#: kcm.cpp:87
+#, kde-format
+msgid "Position on screen:"
+msgstr "Kokapena pantailan:"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Gaitu"
+
+#: kcm.cpp:92
+#, kde-format
+msgid "History:"
+msgstr "Historia:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Atxiki aurreko bilaketa"
+
+#: kcm.cpp:151
+#, kde-format
+msgid "Available Plugins"
+msgstr "Plugin erabilgarriak"

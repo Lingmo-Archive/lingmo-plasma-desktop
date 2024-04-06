@@ -1,0 +1,498 @@
+# Indonesian translations for plasma_applet_folderview package.
+# Copyright (C) 2009 This_file_is_part_of_KDE
+# This file is distributed under the same license as the plasma_applet_folderview package.
+# Andhika Padmawan <andhika.padmawan@gmail.com>, 2010-2014.
+# Wantoyo <wantoyek@gmail.com>, 2017, 2018, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_folderview\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-11 02:28+0200\n"
+"PO-Revision-Date: 2019-12-11 08:07+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.08.3\n"
+
+#: package/contents/config/config.qml:29
+#, kde-format
+msgid "Location"
+msgstr "Lokasi"
+
+#: package/contents/config/config.qml:36
+#: package/contents/ui/ConfigIcons.qml:220
+#: package/contents/ui/FolderViewLayer.qml:412
+#, kde-format
+msgid "Icons"
+msgstr "Ikon"
+
+#: package/contents/config/config.qml:43
+#, kde-format
+msgid "Filter"
+msgstr "Filter"
+
+#: package/contents/ui/BackButtonItem.qml:116
+#, kde-format
+msgid "Back"
+msgstr "Mundur"
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, kde-format
+msgid "Files:"
+msgstr "File-file:"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, kde-format
+msgid "Show all"
+msgstr "Tampilkan semua"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, kde-format
+msgid "Show matching"
+msgstr "Tampilkan yang cocok"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, kde-format
+msgid "Hide matching"
+msgstr "Sembunyikan yang cocok"
+
+#: package/contents/ui/ConfigFilter.qml:82
+#, kde-format
+msgid "File name pattern:"
+msgstr "Pola nama file:"
+
+#: package/contents/ui/ConfigFilter.qml:88
+#, kde-format
+msgid "File types:"
+msgstr "Tipe file:"
+
+#: package/contents/ui/ConfigFilter.qml:90
+#, kde-format
+msgid "Search..."
+msgstr "Cari..."
+
+#: package/contents/ui/ConfigFilter.qml:188
+#, kde-format
+msgid "File type"
+msgstr "Tipe file"
+
+#: package/contents/ui/ConfigFilter.qml:197
+#, kde-format
+msgid "Description"
+msgstr "Deskripsi"
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: package/contents/ui/ConfigFilter.qml:222
+#, kde-format
+msgid "Deselect All"
+msgstr "Nonpilih Semua"
+
+#: package/contents/ui/ConfigIcons.qml:75
+#, kde-format
+msgid "Panel button:"
+msgstr "Tombol panel:"
+
+#: package/contents/ui/ConfigIcons.qml:81
+#, kde-format
+msgid "Use a custom icon"
+msgstr "Gunakan ikon kustom"
+
+#: package/contents/ui/ConfigIcons.qml:115
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr "Pilih..."
+
+#: package/contents/ui/ConfigIcons.qml:121
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Bersihkan Ikon"
+
+#: package/contents/ui/ConfigIcons.qml:140
+#, kde-format
+msgid "Arrangement:"
+msgstr "Penempatan:"
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:76
+#, kde-format
+msgid "Rows"
+msgstr "Baris"
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:80
+#, kde-format
+msgid "Columns"
+msgstr "Kolom"
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, kde-format
+msgid "Align left"
+msgstr "Sejajar kiri"
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, kde-format
+msgid "Align right"
+msgstr "Sejajar kanan"
+
+#: package/contents/ui/ConfigIcons.qml:164
+#, kde-format
+msgid "Lock in place"
+msgstr "Kunci di tempat"
+
+#: package/contents/ui/ConfigIcons.qml:177
+#, kde-format
+msgid "Sorting:"
+msgstr "Pengurutan:"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, kde-format
+msgid "Name"
+msgstr "Nama"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:42
+#, kde-format
+msgid "Size"
+msgstr "Ukuran"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:46
+#, kde-format
+msgid "Type"
+msgstr "Tipe"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:50
+#, kde-format
+msgid "Date"
+msgstr "Tanggal"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#, kde-format
+msgid "Manual"
+msgstr "Manual"
+
+#: package/contents/ui/ConfigIcons.qml:196
+#: plugins/folder/viewpropertiesmenu.cpp:55
+#, kde-format
+msgid "Descending"
+msgstr "Urut turun"
+
+#: package/contents/ui/ConfigIcons.qml:204
+#, kde-format
+msgid "Folders first"
+msgstr "Folder dulu"
+
+#: package/contents/ui/ConfigIcons.qml:218
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr "Mode tampilan:"
+
+#: package/contents/ui/ConfigIcons.qml:220
+#, kde-format
+msgid "List"
+msgstr "Daftar"
+
+#: package/contents/ui/ConfigIcons.qml:231
+#, kde-format
+msgid "Icon size:"
+msgstr "Ukuran ikon:"
+
+#: package/contents/ui/ConfigIcons.qml:246
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small"
+msgstr "Kecil"
+
+#: package/contents/ui/ConfigIcons.qml:255
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Large"
+msgstr "Besar"
+
+#: package/contents/ui/ConfigIcons.qml:264
+#, kde-format
+msgid "Label width:"
+msgstr "Lebar label:"
+
+#: package/contents/ui/ConfigIcons.qml:267
+#, kde-format
+msgid "Narrow"
+msgstr "Sempit"
+
+#: package/contents/ui/ConfigIcons.qml:268
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Medium"
+msgstr "Sedang"
+
+#: package/contents/ui/ConfigIcons.qml:269
+#, kde-format
+msgid "Wide"
+msgstr "Luas"
+
+#: package/contents/ui/ConfigIcons.qml:277
+#, kde-format
+msgid "Text lines:"
+msgstr "Baris teks:"
+
+#: package/contents/ui/ConfigIcons.qml:293
+#, kde-format
+msgid "Features:"
+msgstr "Fitur:"
+
+#: package/contents/ui/ConfigIcons.qml:295
+#, kde-format
+msgid "Tooltips"
+msgstr "Tip alat"
+
+#: package/contents/ui/ConfigIcons.qml:302
+#, kde-format
+msgid "Selection markers"
+msgstr "Pemilihan penanda"
+
+#: package/contents/ui/ConfigIcons.qml:309
+#, kde-format
+msgid "Folder preview popups"
+msgstr "Sembulan pratinjau folder"
+
+#: package/contents/ui/ConfigIcons.qml:315
+#, kde-format
+msgid "Preview thumbnails"
+msgstr "Gambar-mini pratinjau"
+
+#: package/contents/ui/ConfigIcons.qml:323
+#, kde-format
+msgid "Configure Preview Plugins..."
+msgstr "Konfigurasikan Plugin Pratinjau..."
+
+#: package/contents/ui/ConfigLocation.qml:93
+#, kde-format
+msgid "Show:"
+msgstr "Tampilkan:"
+
+#: package/contents/ui/ConfigLocation.qml:95
+#, kde-format
+msgid "Desktop folder"
+msgstr "Folder desktop"
+
+#: package/contents/ui/ConfigLocation.qml:102
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr "File-file yang ditautkan ke aktivitas saat ini"
+
+#: package/contents/ui/ConfigLocation.qml:109
+#, kde-format
+msgid "Places panel item:"
+msgstr "Item panel tempat:"
+
+#: package/contents/ui/ConfigLocation.qml:142
+#, kde-format
+msgid "Custom location:"
+msgstr "Lokasi kustom:"
+
+#: package/contents/ui/ConfigLocation.qml:150
+#, kde-format
+msgid "Type path or URL..."
+msgstr "Ketik alur atau URL..."
+
+#: package/contents/ui/ConfigLocation.qml:191
+#, kde-format
+msgid "Title:"
+msgstr "Judul:"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "None"
+msgstr "Nihil"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Default"
+msgstr "Baku"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Full path"
+msgstr "Alur penuh"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Custom title"
+msgstr "Judul kustom"
+
+#: package/contents/ui/ConfigLocation.qml:208
+#, kde-format
+msgid "Enter custom title..."
+msgstr "Masukkan judul kustom..."
+
+#: package/contents/ui/ConfigOverlay.qml:101
+#, kde-format
+msgid "Rotate"
+msgstr "Rotasikan"
+
+#: package/contents/ui/ConfigOverlay.qml:192
+#, kde-format
+msgid "Open Externally"
+msgstr "Buka Secara Eksternal"
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Hide Background"
+msgstr "Sembunyikan Latarbelakang"
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Show Background"
+msgstr "Tampilkan Latarbelakang"
+
+#: package/contents/ui/ConfigOverlay.qml:252
+#, kde-format
+msgid "Remove"
+msgstr "Hapus"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
+#, kde-format
+msgid "Preview Plugins"
+msgstr "Plugin Pratinjau"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:94
+#, kde-format
+msgid "OK"
+msgstr "Oke"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:107
+#, kde-format
+msgid "Cancel"
+msgstr "Batal"
+
+#: package/contents/ui/main.qml:361
+#, fuzzy, kde-format
+#| msgid "Configure Desktop..."
+msgid "Configure Desktop and Wallpaper..."
+msgstr "Konfigurasikan Desktop..."
+
+#: plugins/folder/directorypicker.cpp:45
+#, kde-format
+msgid "Select Folder"
+msgstr "Pilih Folder"
+
+#: plugins/folder/foldermodel.cpp:402
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "&Segarkan Desktop"
+
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1610
+#, kde-format
+msgid "&Refresh View"
+msgstr "&Segarkan Tampilan"
+
+#: plugins/folder/foldermodel.cpp:1614
+#, fuzzy, kde-format
+#| msgid "Create &Folder..."
+msgid "&Create Folder"
+msgstr "Buat &Folder..."
+
+#: plugins/folder/foldermodel.cpp:1622
+#, kde-format
+msgid "&Empty Trash"
+msgstr "&Bersihkan Sesampahan"
+
+#: plugins/folder/foldermodel.cpp:1625
+#, kde-format
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr "Kembalikan"
+
+#: plugins/folder/foldermodel.cpp:1630
+#, kde-format
+msgid "&Open"
+msgstr "&Buka"
+
+#: plugins/folder/foldermodel.cpp:1747
+#, kde-format
+msgid "&Paste"
+msgstr "&Tempel"
+
+#: plugins/folder/foldermodel.cpp:1861
+#, kde-format
+msgid "&Properties"
+msgstr "&Properti"
+
+#: plugins/folder/viewpropertiesmenu.cpp:31
+#, kde-format
+msgid "Sort By"
+msgstr "Urutkan Berdasarkan"
+
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, kde-format
+msgid "Unsorted"
+msgstr "Tak diurut"
+
+#: plugins/folder/viewpropertiesmenu.cpp:57
+#, kde-format
+msgid "Folders First"
+msgstr "Folder Dahulu"
+
+#: plugins/folder/viewpropertiesmenu.cpp:60
+#, kde-format
+msgid "Icon Size"
+msgstr "Ukuran Ikon"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Tiny"
+msgstr "Mungil"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small Medium"
+msgstr "Agak Kecil"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Huge"
+msgstr "Besar Banget"
+
+#: plugins/folder/viewpropertiesmenu.cpp:73
+#, kde-format
+msgid "Arrange In"
+msgstr "Penempatan Di"
+
+#: plugins/folder/viewpropertiesmenu.cpp:85
+#, kde-format
+msgid "Align"
+msgstr "Sejajar"
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Left"
+msgstr "Kiri"
+
+#: plugins/folder/viewpropertiesmenu.cpp:92
+#, kde-format
+msgid "Right"
+msgstr "Kanan"
+
+#: plugins/folder/viewpropertiesmenu.cpp:97
+#, kde-format
+msgid "Show Previews"
+msgstr "Tampilkan Pratinjau"
+
+#: plugins/folder/viewpropertiesmenu.cpp:100
+#, kde-format
+msgid "Locked"
+msgstr "Dikunci"

@@ -1,0 +1,554 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Danishka Navin <danishka@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_folderview\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-11 02:28+0200\n"
+"PO-Revision-Date: 2009-12-25 11:40+0530\n"
+"Last-Translator: Danishka Navin <danishka@gmail.com>\n"
+"Language-Team: Sinhala <danishka@gmail.com>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: package/contents/config/config.qml:29
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "Title of the page that lets the user choose which location should the "
+#| "folderview show"
+#| msgid "Location"
+msgid "Location"
+msgstr "පිහිටුම"
+
+#: package/contents/config/config.qml:36
+#: package/contents/ui/ConfigIcons.qml:220
+#: package/contents/ui/FolderViewLayer.qml:412
+#, kde-format
+msgid "Icons"
+msgstr "අයිකන"
+
+#: package/contents/config/config.qml:43
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "Title of the page that lets the user choose how to filter the folderview "
+#| "contents"
+#| msgid "Filter"
+msgid "Filter"
+msgstr "පෙරහන"
+
+#: package/contents/ui/BackButtonItem.qml:116
+#, kde-format
+msgid "Back"
+msgstr ""
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, fuzzy, kde-format
+#| msgid "File types:"
+msgid "Files:"
+msgstr "ගොනු වර්‍ග:"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy, kde-format
+#| msgid "Show a place:"
+msgid "Show all"
+msgstr "ස්ථානයක් පෙන්වන්න:"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy, kde-format
+#| msgid "Show Files Matching"
+msgid "Show matching"
+msgstr "ගොනු ගැලපුම පෙන්වන්න"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy, kde-format
+#| msgid "Hide Files Matching"
+msgid "Hide matching"
+msgstr "ගොනු ගැලපුම සඟවන්න"
+
+#: package/contents/ui/ConfigFilter.qml:82
+#, kde-format
+msgid "File name pattern:"
+msgstr "ගොනු නාම රටා:"
+
+#: package/contents/ui/ConfigFilter.qml:88
+#, kde-format
+msgid "File types:"
+msgstr "ගොනු වර්‍ග:"
+
+#: package/contents/ui/ConfigFilter.qml:90
+#, fuzzy, kde-format
+#| msgid "Search file type"
+msgid "Search..."
+msgstr "ගොනු වර්‍ගය සොයන්න"
+
+#: package/contents/ui/ConfigFilter.qml:188
+#, fuzzy, kde-format
+#| msgid "File types:"
+msgid "File type"
+msgstr "ගොනු වර්‍ග:"
+
+#: package/contents/ui/ConfigFilter.qml:197
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Select All"
+msgstr "සියල්ල තෝරන්න"
+
+#: package/contents/ui/ConfigFilter.qml:222
+#, kde-format
+msgid "Deselect All"
+msgstr "සියල්ල තේරීම අවලගු කරන්න"
+
+#: package/contents/ui/ConfigIcons.qml:75
+#, kde-format
+msgid "Panel button:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:81
+#, fuzzy, kde-format
+#| msgid "Custom Title:"
+msgid "Use a custom icon"
+msgstr "රුචි මාතෘකාවන්:"
+
+#: package/contents/ui/ConfigIcons.qml:115
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:121
+#, fuzzy, kde-format
+#| msgid "Sort Icons"
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "අයිකන පෙළගස්වන්න "
+
+#: package/contents/ui/ConfigIcons.qml:140
+#, fuzzy, kde-format
+#| msgid "Arrangement:"
+msgid "Arrangement:"
+msgstr "පෙළගැස්ම:"
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:76
+#, kde-format
+msgid "Rows"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:80
+#, kde-format
+msgid "Columns"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, fuzzy, kde-format
+#| msgid "Align to grid:"
+msgid "Align left"
+msgstr "ජාලයට එල්ල කරන්න"
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, fuzzy, kde-format
+#| msgid "Align to grid:"
+msgid "Align right"
+msgstr "ජාලයට එල්ල කරන්න"
+
+#: package/contents/ui/ConfigIcons.qml:164
+#, fuzzy, kde-format
+#| msgid "Lock in place:"
+msgid "Lock in place"
+msgstr "ස්ථානයේ අගුළුලන්න:"
+
+#: package/contents/ui/ConfigIcons.qml:177
+#, fuzzy, kde-format
+#| msgid "Sorting:"
+msgid "Sorting:"
+msgstr "පෙළගසමින්:"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Name"
+msgid "Name"
+msgstr "නමෙන්"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:42
+#, fuzzy, kde-format
+#| msgid "Size:"
+msgid "Size"
+msgstr "ප්‍රමාණය:"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:46
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Type"
+msgid "Type"
+msgstr "වර්‍ගයෙන්"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Date"
+msgid "Date"
+msgstr "දිනයෙන්"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#, kde-format
+msgid "Manual"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:196
+#: plugins/folder/viewpropertiesmenu.cpp:55
+#, kde-format
+msgid "Descending"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:204
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "Folders First"
+msgid "Folders first"
+msgstr "බහාළුම් ප්‍රථමයෙන්"
+
+#: package/contents/ui/ConfigIcons.qml:218
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:220
+#, kde-format
+msgid "List"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:231
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Size"
+msgid "Icon size:"
+msgstr "ප්‍රමාණයෙන්"
+
+#: package/contents/ui/ConfigIcons.qml:246
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small"
+msgstr "කුඩා"
+
+#: package/contents/ui/ConfigIcons.qml:255
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Large"
+msgstr "විශාල"
+
+#: package/contents/ui/ConfigIcons.qml:264
+#, kde-format
+msgid "Label width:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:267
+#, kde-format
+msgid "Narrow"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:268
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Medium"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:269
+#, kde-format
+msgid "Wide"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:277
+#, fuzzy, kde-format
+#| msgid " lines"
+msgid "Text lines:"
+msgstr "පේළි"
+
+#: package/contents/ui/ConfigIcons.qml:293
+#, fuzzy, kde-format
+#| msgctxt "On a camera"
+#| msgid "Aperture:"
+msgid "Features:"
+msgstr "කාච විවරය:"
+
+#: package/contents/ui/ConfigIcons.qml:295
+#, kde-format
+msgid "Tooltips"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:302
+#, fuzzy, kde-format
+#| msgid "Select All"
+msgid "Selection markers"
+msgstr "සියල්ල තෝරන්න"
+
+#: package/contents/ui/ConfigIcons.qml:309
+#, kde-format
+msgid "Folder preview popups"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:315
+#, fuzzy, kde-format
+#| msgid "Previews:"
+msgid "Preview thumbnails"
+msgstr "පෙරදැකීම්:"
+
+#: package/contents/ui/ConfigIcons.qml:323
+#, fuzzy, kde-format
+#| msgid "More Preview Options..."
+msgid "Configure Preview Plugins..."
+msgstr "තවත් පෙරදැකීම් අභිප්‍රේත..."
+
+#: package/contents/ui/ConfigLocation.qml:93
+#, kde-format
+msgid "Show:"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:95
+#, fuzzy, kde-format
+#| msgid "Show the Desktop folder"
+msgid "Desktop folder"
+msgstr "වැඩතල බහාළුම පෙන්වන්න"
+
+#: package/contents/ui/ConfigLocation.qml:102
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:109
+#, kde-format
+msgid "Places panel item:"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:142
+#, fuzzy, kde-format
+#| msgid "Custom Title:"
+msgid "Custom location:"
+msgstr "රුචි මාතෘකාවන්:"
+
+#: package/contents/ui/ConfigLocation.qml:150
+#, fuzzy, kde-format
+#| msgid "Type a path or a URL here"
+msgid "Type path or URL..."
+msgstr "මාර්‍ගයක් හෝ URL ලිපිනයක් මෙහි ඇතුළු කරන්න"
+
+#: package/contents/ui/ConfigLocation.qml:191
+#, fuzzy, kde-format
+#| msgctxt "Music"
+#| msgid "Title:"
+msgid "Title:"
+msgstr "මාතෘකාව:"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "None"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Default"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Full path"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, fuzzy, kde-format
+#| msgid "Custom Title:"
+msgid "Custom title"
+msgstr "රුචි මාතෘකාවන්:"
+
+#: package/contents/ui/ConfigLocation.qml:208
+#, fuzzy, kde-format
+#| msgid "Enter a customized title"
+msgid "Enter custom title..."
+msgstr "රුචිකල හැකි මාතෘකාවක් එක් කරන්න"
+
+#: package/contents/ui/ConfigOverlay.qml:101
+#, kde-format
+msgid "Rotate"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:192
+#, kde-format
+msgid "Open Externally"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Hide Background"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Show Background"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:252
+#, kde-format
+msgid "Remove"
+msgstr ""
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
+#, fuzzy, kde-format
+#| msgid "Previews:"
+msgid "Preview Plugins"
+msgstr "පෙරදැකීම්:"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:94
+#, kde-format
+msgid "OK"
+msgstr ""
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:107
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: package/contents/ui/main.qml:361
+#, fuzzy, kde-format
+#| msgid "&Refresh Desktop"
+msgid "Configure Desktop and Wallpaper..."
+msgstr "වැඩතලය නැවුම් කරන්න (&R)"
+
+#: plugins/folder/directorypicker.cpp:45
+#, fuzzy, kde-format
+#| msgid "Select All"
+msgid "Select Folder"
+msgstr "සියල්ල තෝරන්න"
+
+#: plugins/folder/foldermodel.cpp:402
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "වැඩතලය නැවුම් කරන්න (&R)"
+
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1610
+#, kde-format
+msgid "&Refresh View"
+msgstr "දසුන නැවුම් කරන්න (&R)"
+
+#: plugins/folder/foldermodel.cpp:1614
+#, fuzzy, kde-format
+#| msgid "Desktop Folder"
+msgid "&Create Folder"
+msgstr "වැඩතල ගොනුව"
+
+#: plugins/folder/foldermodel.cpp:1622
+#, fuzzy, kde-format
+#| msgid "&Empty Trash Bin"
+msgid "&Empty Trash"
+msgstr "ඉවතලන බඳුන හිස් කරන්න (&E)"
+
+#: plugins/folder/foldermodel.cpp:1625
+#, kde-format
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr ""
+
+#: plugins/folder/foldermodel.cpp:1630
+#, kde-format
+msgid "&Open"
+msgstr ""
+
+#: plugins/folder/foldermodel.cpp:1747
+#, kde-format
+msgid "&Paste"
+msgstr "අලවන්න (&P)"
+
+#: plugins/folder/foldermodel.cpp:1861
+#, kde-format
+msgid "&Properties"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:31
+#, fuzzy, kde-format
+#| msgid "Sorting:"
+msgid "Sort By"
+msgstr "පෙළගසමින්:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, fuzzy, kde-format
+#| msgctxt "Sort Icons"
+#| msgid "Unsorted"
+msgid "Unsorted"
+msgstr "පෙළ නොගැසූ"
+
+#: plugins/folder/viewpropertiesmenu.cpp:57
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "Folders First"
+msgid "Folders First"
+msgstr "බහාළුම් ප්‍රථමයෙන්"
+
+#: plugins/folder/viewpropertiesmenu.cpp:60
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Size"
+msgid "Icon Size"
+msgstr "ප්‍රමාණයෙන්"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Tiny"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small Medium"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Huge"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:73
+#, fuzzy, kde-format
+#| msgid "Arrangement:"
+msgid "Arrange In"
+msgstr "පෙළගැස්ම:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:85
+#, fuzzy, kde-format
+#| msgid "Align to grid:"
+msgid "Align"
+msgstr "ජාලයට එල්ල කරන්න"
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Left"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:92
+#, kde-format
+msgid "Right"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:97
+#, fuzzy, kde-format
+#| msgid "Previews:"
+msgid "Show Previews"
+msgstr "පෙරදැකීම්:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:100
+#, kde-format
+msgid "Locked"
+msgstr ""

@@ -1,0 +1,556 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_folderview\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-11 02:28+0200\n"
+"PO-Revision-Date: 2010-07-07 15:16+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: package/contents/config/config.qml:29
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "Title of the page that lets the user choose which location should the "
+#| "folderview show"
+#| msgid "Location"
+msgid "Location"
+msgstr "ตำแหน่ง"
+
+#: package/contents/config/config.qml:36
+#: package/contents/ui/ConfigIcons.qml:220
+#: package/contents/ui/FolderViewLayer.qml:412
+#, kde-format
+msgid "Icons"
+msgstr "ไอคอน"
+
+#: package/contents/config/config.qml:43
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "Title of the page that lets the user choose how to filter the folderview "
+#| "contents"
+#| msgid "Filter"
+msgid "Filter"
+msgstr "กรอง"
+
+#: package/contents/ui/BackButtonItem.qml:116
+#, kde-format
+msgid "Back"
+msgstr ""
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, fuzzy, kde-format
+#| msgid "File types:"
+msgid "Files:"
+msgstr "ชนิดของแฟ้ม:"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy, kde-format
+#| msgid "Show a place:"
+msgid "Show all"
+msgstr "แสดงสถานที่:"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy, kde-format
+#| msgid "Show Files Matching"
+msgid "Show matching"
+msgstr "แสดงแฟ้มที่เข้าเงื่อนไข"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy, kde-format
+#| msgid "Hide Files Matching"
+msgid "Hide matching"
+msgstr "ซ่อนแฟ้มที่เข้าเงื่อนไข"
+
+#: package/contents/ui/ConfigFilter.qml:82
+#, kde-format
+msgid "File name pattern:"
+msgstr "รูปแบบชื่อแฟ้ม:"
+
+#: package/contents/ui/ConfigFilter.qml:88
+#, kde-format
+msgid "File types:"
+msgstr "ชนิดของแฟ้ม:"
+
+#: package/contents/ui/ConfigFilter.qml:90
+#, fuzzy, kde-format
+#| msgid "Search file type"
+msgid "Search..."
+msgstr "ค้นหาชนิดของแฟ้ม"
+
+#: package/contents/ui/ConfigFilter.qml:188
+#, fuzzy, kde-format
+#| msgid "File types:"
+msgid "File type"
+msgstr "ชนิดของแฟ้ม:"
+
+#: package/contents/ui/ConfigFilter.qml:197
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Select All"
+msgstr "เลือกทั้งหมด"
+
+#: package/contents/ui/ConfigFilter.qml:222
+#, kde-format
+msgid "Deselect All"
+msgstr "ยกเลิกเลือกทั้งหมด"
+
+#: package/contents/ui/ConfigIcons.qml:75
+#, kde-format
+msgid "Panel button:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:81
+#, fuzzy, kde-format
+#| msgid "Custom title:"
+msgid "Use a custom icon"
+msgstr "หัวเรื่องกำหนดเอง:"
+
+#: package/contents/ui/ConfigIcons.qml:115
+#, fuzzy, kde-format
+#| msgctxt "@title:menu in Copy To or Move To submenu"
+#| msgid "Browse..."
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr "เลือก..."
+
+#: package/contents/ui/ConfigIcons.qml:121
+#, fuzzy, kde-format
+#| msgid "Sort Icons"
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "เรียงไอคอน"
+
+#: package/contents/ui/ConfigIcons.qml:140
+#, fuzzy, kde-format
+#| msgid "Arrangement:"
+msgid "Arrangement:"
+msgstr "การจัดเรียง:"
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:76
+#, kde-format
+msgid "Rows"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:142
+#: plugins/folder/viewpropertiesmenu.cpp:80
+#, kde-format
+msgid "Columns"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, fuzzy, kde-format
+#| msgid "Align to grid:"
+msgid "Align left"
+msgstr "เรียงเข้ากับแนวตาราง:"
+
+#: package/contents/ui/ConfigIcons.qml:149
+#, fuzzy, kde-format
+#| msgid "Align to grid:"
+msgid "Align right"
+msgstr "เรียงเข้ากับแนวตาราง:"
+
+#: package/contents/ui/ConfigIcons.qml:164
+#, fuzzy, kde-format
+#| msgid "Lock in place:"
+msgid "Lock in place"
+msgstr "ล็อคให้อยู่กับที่:"
+
+#: package/contents/ui/ConfigIcons.qml:177
+#, fuzzy, kde-format
+#| msgid "Sorting:"
+msgid "Sorting:"
+msgstr "การเรียงลำดับ:"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Name"
+msgid "Name"
+msgstr "ตามชื่อ"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:42
+#, fuzzy, kde-format
+#| msgid "Size:"
+msgid "Size"
+msgstr "ขนาด:"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:46
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Type"
+msgid "Type"
+msgstr "ตามชนิด"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#: plugins/folder/viewpropertiesmenu.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "By Date"
+msgid "Date"
+msgstr "ตามวันที่"
+
+#: package/contents/ui/ConfigIcons.qml:185
+#, kde-format
+msgid "Manual"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:196
+#: plugins/folder/viewpropertiesmenu.cpp:55
+#, kde-format
+msgid "Descending"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:204
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "Folders First"
+msgid "Folders first"
+msgstr "เรียงโฟลเดอร์ก่อน"
+
+#: package/contents/ui/ConfigIcons.qml:218
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:220
+#, kde-format
+msgid "List"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:231
+#, fuzzy, kde-format
+#| msgid "Icon size:"
+msgid "Icon size:"
+msgstr "ขนาดไอคอน:"
+
+#: package/contents/ui/ConfigIcons.qml:246
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small"
+msgstr "เล็ก"
+
+#: package/contents/ui/ConfigIcons.qml:255
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Large"
+msgstr "ใหญ่"
+
+#: package/contents/ui/ConfigIcons.qml:264
+#, fuzzy, kde-format
+#| msgid "Label:"
+msgid "Label width:"
+msgstr "ป้ายข้อความ:"
+
+#: package/contents/ui/ConfigIcons.qml:267
+#, kde-format
+msgid "Narrow"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:268
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Medium"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:269
+#, kde-format
+msgid "Wide"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:277
+#, fuzzy, kde-format
+#| msgid " lines"
+msgid "Text lines:"
+msgstr " บรรทัด"
+
+#: package/contents/ui/ConfigIcons.qml:293
+#, fuzzy, kde-format
+#| msgctxt "On a camera"
+#| msgid "Aperture:"
+msgid "Features:"
+msgstr "ขนาดรูรับแสง:"
+
+#: package/contents/ui/ConfigIcons.qml:295
+#, kde-format
+msgid "Tooltips"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:302
+#, fuzzy, kde-format
+#| msgid "Select All"
+msgid "Selection markers"
+msgstr "เลือกทั้งหมด"
+
+#: package/contents/ui/ConfigIcons.qml:309
+#, kde-format
+msgid "Folder preview popups"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:315
+#, fuzzy, kde-format
+#| msgid "Previews:"
+msgid "Preview thumbnails"
+msgstr "แสดงตัวอย่าง:"
+
+#: package/contents/ui/ConfigIcons.qml:323
+#, fuzzy, kde-format
+#| msgid "More Preview Options..."
+msgid "Configure Preview Plugins..."
+msgstr "ตัวเลือกเพิ่มเติมของการแสดงตัวอย่าง..."
+
+#: package/contents/ui/ConfigLocation.qml:93
+#, kde-format
+msgid "Show:"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:95
+#, fuzzy, kde-format
+#| msgid "Show the Desktop folder"
+msgid "Desktop folder"
+msgstr "แสดงโฟลเดอร์พื้นที่ทำงาน"
+
+#: package/contents/ui/ConfigLocation.qml:102
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:109
+#, kde-format
+msgid "Places panel item:"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:142
+#, fuzzy, kde-format
+#| msgid "Custom title:"
+msgid "Custom location:"
+msgstr "หัวเรื่องกำหนดเอง:"
+
+#: package/contents/ui/ConfigLocation.qml:150
+#, fuzzy, kde-format
+#| msgid "Type a path or a URL here"
+msgid "Type path or URL..."
+msgstr "ป้อนพาธหรือที่อยู่ URL ที่นี่"
+
+#: package/contents/ui/ConfigLocation.qml:191
+#, fuzzy, kde-format
+#| msgctxt "Music"
+#| msgid "Title:"
+msgid "Title:"
+msgstr "ชื่อเพลง:"
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "None"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Default"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
+msgid "Full path"
+msgstr ""
+
+#: package/contents/ui/ConfigLocation.qml:193
+#, fuzzy, kde-format
+#| msgid "Custom title:"
+msgid "Custom title"
+msgstr "หัวเรื่องกำหนดเอง:"
+
+#: package/contents/ui/ConfigLocation.qml:208
+#, fuzzy, kde-format
+#| msgid "Enter a customized title"
+msgid "Enter custom title..."
+msgstr "ป้อนชื่อที่จะกำหนดเอง"
+
+#: package/contents/ui/ConfigOverlay.qml:101
+#, kde-format
+msgid "Rotate"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:192
+#, kde-format
+msgid "Open Externally"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Hide Background"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
+msgid "Show Background"
+msgstr ""
+
+#: package/contents/ui/ConfigOverlay.qml:252
+#, kde-format
+msgid "Remove"
+msgstr ""
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
+#, fuzzy, kde-format
+#| msgid "Previews:"
+msgid "Preview Plugins"
+msgstr "แสดงตัวอย่าง:"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:94
+#, kde-format
+msgid "OK"
+msgstr ""
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:107
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: package/contents/ui/main.qml:361
+#, fuzzy, kde-format
+#| msgid "&Refresh Desktop"
+msgid "Configure Desktop and Wallpaper..."
+msgstr "&ปรับปรุงพื้นที่ทำงานอีกครั้ง"
+
+#: plugins/folder/directorypicker.cpp:45
+#, fuzzy, kde-format
+#| msgid "Select All"
+msgid "Select Folder"
+msgstr "เลือกทั้งหมด"
+
+#: plugins/folder/foldermodel.cpp:402
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "&ปรับปรุงพื้นที่ทำงานอีกครั้ง"
+
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1610
+#, kde-format
+msgid "&Refresh View"
+msgstr "&ปรับปรุงมุมมองอีกครั้ง"
+
+#: plugins/folder/foldermodel.cpp:1614
+#, fuzzy, kde-format
+#| msgid "Create &Folder..."
+msgid "&Create Folder"
+msgstr "สร้างโ&ฟลเดอร์ใหม่..."
+
+#: plugins/folder/foldermodel.cpp:1622
+#, fuzzy, kde-format
+#| msgid "&Empty Trash Bin"
+msgid "&Empty Trash"
+msgstr "&เทถังขยะทิ้ง"
+
+#: plugins/folder/foldermodel.cpp:1625
+#, fuzzy, kde-format
+#| msgid "&Restore"
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr "เ&รียกคืน"
+
+#: plugins/folder/foldermodel.cpp:1630
+#, kde-format
+msgid "&Open"
+msgstr "เ&ปิด"
+
+#: plugins/folder/foldermodel.cpp:1747
+#, kde-format
+msgid "&Paste"
+msgstr "&วาง"
+
+#: plugins/folder/foldermodel.cpp:1861
+#, kde-format
+msgid "&Properties"
+msgstr "คุณ&สมบัติ"
+
+#: plugins/folder/viewpropertiesmenu.cpp:31
+#, fuzzy, kde-format
+#| msgid "Sorting:"
+msgid "Sort By"
+msgstr "การเรียงลำดับ:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, fuzzy, kde-format
+#| msgctxt "Sort Icons"
+#| msgid "Unsorted"
+msgid "Unsorted"
+msgstr "ไม่มีการเรียงลำดับ"
+
+#: plugins/folder/viewpropertiesmenu.cpp:57
+#, fuzzy, kde-format
+#| msgctxt "Sort icons"
+#| msgid "Folders First"
+msgid "Folders First"
+msgstr "เรียงโฟลเดอร์ก่อน"
+
+#: plugins/folder/viewpropertiesmenu.cpp:60
+#, fuzzy, kde-format
+#| msgid "Icon size:"
+msgid "Icon Size"
+msgstr "ขนาดไอคอน:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Tiny"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Small Medium"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:64
+#, kde-format
+msgid "Huge"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:73
+#, fuzzy, kde-format
+#| msgid "Arrange icons:"
+msgid "Arrange In"
+msgstr "จัดเรียงไอคอน:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:85
+#, fuzzy, kde-format
+#| msgid "Align to grid:"
+msgid "Align"
+msgstr "เรียงเข้ากับแนวตาราง:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Left"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:92
+#, kde-format
+msgid "Right"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:97
+#, fuzzy, kde-format
+#| msgid "Previews:"
+msgid "Show Previews"
+msgstr "แสดงตัวอย่าง:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:100
+#, kde-format
+msgid "Locked"
+msgstr ""

@@ -1,0 +1,149 @@
+# translation of kcm_autostart.po to Punjabi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amanpreet Singh <aalam@users.sf.net>, 2008.
+# A S Alam <aalam@users.sf.net>, 2008, 2010.
+# Amanpreet Singh Alam <aalam@users.sf.net>, 2009, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_autostart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-24 08:06+0100\n"
+"PO-Revision-Date: 2013-01-05 08:31+0530\n"
+"Last-Translator: A S Alam <aalam@users.sf.net>\n"
+"Language-Team: Punjabi/Panjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aalam@users.sf.net"
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Autostart"
+msgstr ""
+
+#: autostart.cpp:37
+#, fuzzy, kde-format
+#| msgid "KDE Autostart Manager Control Panel Module"
+msgid "Session Autostart Manager Control Panel Module"
+msgstr "KDE ਆਟੋਸਟਾਰਟ ਮੈਨੇਜਰ ਕੰਟਰੋਲ ਪੈਨਲ ਮੋਡੀਊਲ"
+
+#: autostart.cpp:37
+#, fuzzy, kde-format
+#| msgid "Copyright © 2006–2010 Autostart Manager team"
+msgid "Copyright © 2006–2020 Autostart Manager team"
+msgstr "Copyright © 2006–2010 Autostart Manager team"
+
+#: autostart.cpp:38
+#, kde-format
+msgid "Stephen Leaf"
+msgstr "Stephen Leaf"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Montel Laurent"
+msgstr "Montel Laurent"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Maintainer"
+msgstr "ਪਰਬੰਧਕ"
+
+#: autostart.cpp:40
+#, kde-format
+msgid "Nicolas Fella"
+msgstr ""
+
+#: autostartmodel.cpp:312
+#, fuzzy, kde-format
+#| msgid "\"%1\" is not an absolute path."
+msgid "\"%1\" is not an absolute url."
+msgstr "\"%1\" ਅਸਲ ਪਾਥ ਨਹੀਂ ਹੈ।"
+
+#: autostartmodel.cpp:315
+#, kde-format
+msgid "\"%1\" does not exist."
+msgstr "\"%1 ਮੌਜੂਦ ਨਹੀਂ ਹੈ।"
+
+#: autostartmodel.cpp:318
+#, kde-format
+msgid "\"%1\" is not a file."
+msgstr "\"%1\" ਫਾਈਲ ਨਹੀਂ ਹੈ।"
+
+#: autostartmodel.cpp:321
+#, kde-format
+msgid "\"%1\" is not readable."
+msgstr "\"%1\" ਪੜ੍ਹਨਯੋਗ ਨਹੀਂ।"
+
+#: package/contents/ui/main.qml:75
+#, fuzzy, kde-format
+#| msgid "&Properties..."
+msgid "Properties"
+msgstr "...ਵਿਸ਼ੇਸ਼ਤਾ(&P)"
+
+#: package/contents/ui/main.qml:81
+#, fuzzy, kde-format
+#| msgid "&Remove"
+msgid "Remove"
+msgstr "ਹਟਾਓ(&R)"
+
+#: package/contents/ui/main.qml:92
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#: package/contents/ui/main.qml:95
+#, kde-format
+msgid "Login Scripts"
+msgstr ""
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Logout Scripts"
+msgstr ""
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Choose Startup Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:135
+#, kde-format
+msgid "Choose Logout Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:153
+#, fuzzy, kde-format
+#| msgid "Advanced..."
+msgid "Add..."
+msgstr "...ਤਕਨੀਕੀ"
+
+#: package/contents/ui/main.qml:179
+#, kde-format
+msgid "Add Application..."
+msgstr ""
+
+#: package/contents/ui/main.qml:185
+#, fuzzy, kde-format
+#| msgid "Add Script..."
+msgid "Add Login Script..."
+msgstr "ਸਕ੍ਰਿਪਟ ਸ਼ਾਮਲ..."
+
+#: package/contents/ui/main.qml:191
+#, fuzzy, kde-format
+#| msgid "Add Script..."
+msgid "Add Logout Script..."
+msgstr "ਸਕ੍ਰਿਪਟ ਸ਼ਾਮਲ..."

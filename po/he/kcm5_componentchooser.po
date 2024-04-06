@@ -1,0 +1,93 @@
+# translation of kcmcomponentchooser.po to hebrew
+# KDE Hebrew Localization Project
+#
+# In addition to the copyright owners of the program
+# which this translation accompanies, this translation is
+# Copyright (C) 2002 Meni Livne <livne@kde.org>
+#
+# This translation is subject to the same Open Source
+# license as the program which it accompanies.
+#
+# Dror Levin <spatz@012.net.il>, 2003.
+# Diego Iastrubni <elcuco@kdemail.net>, 2004.
+# Diego Iastrubni <elcuco@kde.org>, 2005, 2007, 2008, 2009, 2012.
+# tahmar1900 <tahmar1900@gmail.com>, 2009.
+# Elkana Bardugo <ttv200@gmail.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm5_componentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-13 02:26+0200\n"
+"PO-Revision-Date: 2017-05-16 11:28-0400\n"
+"Last-Translator: Elkana Bardugo <ttv200@gmail.com>\n"
+"Language-Team: Hebrew <kde-i18n-doc@kde.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "דרור לוין"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "spatz@012.net.il"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr ""
+
+#: componentchooser.cpp:54
+#, kde-format
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: componentchooser.cpp:57
+#, kde-format
+msgctxt "The label for the combobox: browser, terminal emulator...)"
+msgid "%1:"
+msgstr ""
+
+#: componentchooserbrowser.cpp:100 componentchooseremail.cpp:89
+#: componentchooserfilemanager.cpp:109 componentchooserterminal.cpp:83
+#, kde-format
+msgid "Other..."
+msgstr ""
+
+#: componentchooserfilemanager.cpp:43
+#, fuzzy, kde-format
+#| msgid "Select preferred email client:"
+msgid "Select preferred file manager:"
+msgstr "בחר את תוכנית הדוא\"ל המועדפת:"
+
+#: componentchooserterminal.cpp:114
+#, kde-format
+msgid "Select preferred terminal application:"
+msgstr "בחר את יישום המסוף המועדף:"
+
+#: kcm_componentchooser.cpp:42
+#, kde-format
+msgid "Component Chooser"
+msgstr "בוחר הרכיבים"
+
+#: kcm_componentchooser.cpp:44
+#, kde-format
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "(c), 2002 Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:46
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:47
+#, kde-format
+msgid "Méven Car"
+msgstr ""

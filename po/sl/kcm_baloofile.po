@@ -1,0 +1,125 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrej Mernik <andrejm@ubuntu.si>, 2013, 2014, 2017, 2018.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-15 02:24+0200\n"
+"PO-Revision-Date: 2020-07-07 09:56+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Lokalize 19.12.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrej Mernik,Matjaž Jeran"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "andrejm@ubuntu.si,matjaz.jeran@amis.net"
+
+#: kcm.cpp:54
+#, kde-format
+msgid "File Search"
+msgstr "Iskanje datotek"
+
+#: kcm.cpp:56
+#, kde-format
+msgid "Copyright 2007-2010 Sebastian Trüg"
+msgstr "Copyright 2007-2010 Sebastian Trüg"
+
+#: kcm.cpp:58
+#, kde-format
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: kcm.cpp:59
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:60
+#, kde-format
+msgid "Tomaz Canabrava"
+msgstr "Tomaz Canabrava"
+
+#: package/contents/ui/main.qml:34
+#, kde-format
+msgid ""
+"This module lets you configure the file indexer and search functionality."
+msgstr "Ta modul omogoča nastavitev kazala datotek in funkcionalnosti iskanja."
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid ""
+"File Search helps you quickly locate all your files based on their content."
+msgstr ""
+"Iskanje datotek vam pomaga hitro najti vaše datoteke glede na njihovo "
+"vsebino."
+
+#: package/contents/ui/main.qml:45
+#, kde-format
+msgid "Enable File Search"
+msgstr "Omogoči Iskanje datotek"
+
+#: package/contents/ui/main.qml:67
+#, kde-format
+msgid "Also index file content"
+msgstr "V kazalo vključi tudi vsebino datotek"
+
+#: package/contents/ui/main.qml:79
+#, kde-format
+msgid "Index hidden files and folders"
+msgstr "Pokaži skrite datoteke in mape"
+
+#: package/contents/ui/main.qml:96
+#, kde-format
+msgid "Folder specific configuration:"
+msgstr "Posebna nastavitev za mapo:"
+
+#: package/contents/ui/main.qml:121
+#, kde-format
+msgid "Add folder configuration..."
+msgstr "Dodaj nastavitev mape..."
+
+#: package/contents/ui/main.qml:146
+#, kde-format
+msgid "Start indexing a folder..."
+msgstr "Začni indeksirati mapo..."
+
+#: package/contents/ui/main.qml:155
+#, kde-format
+msgid "Stop indexing a folder..."
+msgstr "Zaustavi indeksiranje mape..."
+
+#: package/contents/ui/main.qml:206
+#, kde-format
+msgid "Not indexed"
+msgstr "Ni indeksirano"
+
+#: package/contents/ui/main.qml:207
+#, kde-format
+msgid "Indexed"
+msgstr "Indeksirano"
+
+#: package/contents/ui/main.qml:237
+#, kde-format
+msgid "Delete entry"
+msgstr "Izbriši vnos"
+
+#: package/contents/ui/main.qml:252
+#, kde-format
+msgid "Select a folder to filter"
+msgstr "Izberite filter mape"

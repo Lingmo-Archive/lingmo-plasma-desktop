@@ -1,0 +1,373 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Joëlle Cornavin <jcorn@free.fr>, 2013, 2014.
+# Yoann Laissus <yoann.laissus@gmail.com>, 2015, 2016, 2017.
+# Vincent Pinon <vpinon@kde.org>, 2016, 2017.
+# Simon Depiets <sdepiets@gmail.com>, 2018, 2019, 2020.
+# Xavier Besnard <xavier.besnard@neuf.fr>, 2020, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-26 22:58+0100\n"
+"PO-Revision-Date: 2020-08-07 13:00+0200\n"
+"Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
+"Language-Team: FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.12.0\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: contents/activitymanager/ActivityItem.qml:225
+msgid "Currently being used"
+msgstr "En cours d'utilisation"
+
+#: contents/activitymanager/ActivityItem.qml:265
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Déplacer vers\n"
+"cette activité"
+
+#: contents/activitymanager/ActivityItem.qml:295
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Afficher aussi\n"
+"dans cette activité"
+
+#: contents/activitymanager/ActivityItem.qml:355
+msgid "Configure"
+msgstr "Configurer"
+
+#: contents/activitymanager/ActivityItem.qml:372
+msgid "Stop activity"
+msgstr "Arrêter l'activité"
+
+#: contents/activitymanager/ActivityList.qml:155
+msgid "Stopped activities:"
+msgstr "Activités arrêtées :"
+
+#: contents/activitymanager/ActivityManager.qml:140
+msgid "Create activity..."
+msgstr "Créer une activité..."
+
+#: contents/activitymanager/Heading.qml:74
+msgid "Activities"
+msgstr "Activités"
+
+#: contents/activitymanager/Heading.qml:89
+#: contents/explorer/WidgetExplorer.qml:243
+msgid "Search..."
+msgstr "Rechercher..."
+
+#: contents/activitymanager/StoppedActivityItem.qml:146
+msgid "Configure activity"
+msgstr "Configurer l'activité"
+
+#: contents/activitymanager/StoppedActivityItem.qml:161
+msgid "Delete"
+msgstr "Supprimer"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "Envoyer un courriel à %1"
+
+#: contents/configuration/AboutPlugin.qml:95
+msgid "Copyright"
+msgstr "Droit d'auteur"
+
+#: contents/configuration/AboutPlugin.qml:115 contents/explorer/Tooltip.qml:106
+msgid "License:"
+msgstr "Licence :"
+
+#: contents/configuration/AboutPlugin.qml:128
+msgid "Authors"
+msgstr "Auteurs"
+
+#: contents/configuration/AboutPlugin.qml:138
+msgid "Credits"
+msgstr "Remerciements"
+
+#: contents/configuration/AboutPlugin.qml:149
+msgid "Translators"
+msgstr "Traducteurs"
+
+#: contents/configuration/AppletConfiguration.qml:53
+msgid "Keyboard Shortcuts"
+msgstr "Raccourcis clavier"
+
+#: contents/configuration/AppletConfiguration.qml:130
+msgid "Apply Settings"
+msgstr "Appliquer les paramètres"
+
+#: contents/configuration/AppletConfiguration.qml:131
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Les paramètres du module actuel ont changé. Voulez-vous appliquer les "
+"changements ou les abandonner ?"
+
+#: contents/configuration/AppletConfiguration.qml:219
+msgid "About"
+msgstr "À propos"
+
+#: contents/configuration/AppletConfiguration.qml:433
+msgid "OK"
+msgstr "Ok"
+
+#: contents/configuration/AppletConfiguration.qml:440
+msgid "Apply"
+msgstr "Appliquer"
+
+#: contents/configuration/AppletConfiguration.qml:446
+#: contents/explorer/AppletAlternatives.qml:185
+msgid "Cancel"
+msgstr "Annuler"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Left-Button"
+msgstr "Bouton gauche"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Right-Button"
+msgstr "Bouton droit"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Middle-Button"
+msgstr "Bouton central"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:34
+msgid "Back-Button"
+msgstr "Bouton retour"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:35
+msgid "Forward-Button"
+msgstr "Bouton avance"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:37
+msgid "Vertical-Scroll"
+msgstr "Défilement vertical"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:38
+msgid "Horizontal-Scroll"
+msgstr "Défilement horizontal"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:40
+msgid "Shift"
+msgstr "Maj"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:41
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:42
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:43
+msgid "Meta"
+msgstr "Méta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:83
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:163
+#: contents/configuration/MouseEventInputButton.qml:27
+msgid "Add Action"
+msgstr "Ajouter une action"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:75
+msgid "Layout changes have been restricted by the system administrator"
+msgstr ""
+"Les changements de disposition ont été restreints par l'administrateur "
+"système"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:90
+msgid "Layout:"
+msgstr "Disposition :"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:105
+msgid "Wallpaper Type:"
+msgstr "Type de fond d'écran :"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:122
+msgid "Get New Plugins..."
+msgstr "Obtenir de nouveaux modules externes..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:140
+msgid "Layout changes must be applied before other changes can be made"
+msgstr ""
+"Les changements de disposition doivent être appliqués avant de pouvoir faire "
+"d'autres changements"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:146
+msgid "Apply now"
+msgstr "Appliquer maintenant"
+
+#: contents/configuration/ConfigurationShortcuts.qml:39
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "Ce raccourci activera l'applet comme si vous aviez cliqué dessus."
+
+#: contents/configuration/ContainmentConfiguration.qml:43
+msgid "Wallpaper"
+msgstr "Fond d'écran"
+
+#: contents/configuration/ContainmentConfiguration.qml:48
+msgid "Mouse Actions"
+msgstr "Actions de la souris"
+
+#: contents/configuration/MouseEventInputButton.qml:34
+msgid "Input Here"
+msgstr "Saisir ici"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Screen Edge"
+msgstr "Bord de l'écran"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:40
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr ""
+"Cliquer et faire glisser le bouton vers le bord de l'écran afin d'y déplacer "
+"le panneau"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:46
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:145
+msgid "Remove Panel"
+msgstr "Supprimer le tableau de bord"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Panel Alignment"
+msgstr "Alignement du tableau de bord"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Top"
+msgstr "Haut"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Left"
+msgstr "Gauche"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:74
+msgid "Center"
+msgstr "Centre"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Bottom"
+msgstr "Bas"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Right"
+msgstr "Droite"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:103
+msgid "Always Visible"
+msgstr "Toujours visible"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:111
+msgid "Auto Hide"
+msgstr "Cacher automatiquement"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:119
+msgid "Windows Can Cover"
+msgstr "Les fenêtres peuvent recouvrir"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:127
+msgid "Windows Go Below"
+msgstr "Les fenêtres se placent dessous"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:136
+msgid "Maximize Panel"
+msgstr "Maximiser le tableau de bord"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:34
+msgid "Add Widgets..."
+msgstr "Ajouter des composants graphiques..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:35
+msgid "Add Spacer"
+msgstr "Ajouter un élément séparateur"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:36
+msgid "More Options..."
+msgstr "Plus d'options..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel width:"
+msgstr "Largeur du panneau :"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel height:"
+msgstr "Hauteur de panneau :"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:197
+msgid "Close"
+msgstr "Fermer"
+
+#: contents/explorer/AppletAlternatives.qml:83
+msgid "Alternative Widgets"
+msgstr "Composants graphiques alternatifs"
+
+#: contents/explorer/AppletAlternatives.qml:174
+msgid "Switch"
+msgstr "Changer"
+
+#: contents/explorer/AppletDelegate.qml:179
+msgid "Undo uninstall"
+msgstr "Annuler la désinstallation"
+
+#: contents/explorer/AppletDelegate.qml:180
+msgid "Uninstall widget"
+msgstr "Désinstaller le composant graphique"
+
+#: contents/explorer/Tooltip.qml:115
+msgid "Author:"
+msgstr "Auteur :"
+
+#: contents/explorer/Tooltip.qml:123
+msgid "Email:"
+msgstr "Adresse électronique :"
+
+#: contents/explorer/Tooltip.qml:142
+msgid "Uninstall"
+msgstr "Désinstaller"
+
+#: contents/explorer/WidgetExplorer.qml:142
+#: contents/explorer/WidgetExplorer.qml:255
+msgid "All Widgets"
+msgstr "Tous les composants graphiques"
+
+#: contents/explorer/WidgetExplorer.qml:217
+msgid "Widgets"
+msgstr "Composants graphiques"
+
+#: contents/explorer/WidgetExplorer.qml:225
+msgid "Get New Widgets..."
+msgstr "Obtenir de nouveaux composants graphiques..."
+
+#: contents/explorer/WidgetExplorer.qml:254
+msgid "Categories"
+msgstr "Catégories"
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets matched the search terms"
+msgstr "Aucun composant graphique ne correspond aux mots clés de la recherche"
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets available"
+msgstr "Aucun composant graphique disponible"

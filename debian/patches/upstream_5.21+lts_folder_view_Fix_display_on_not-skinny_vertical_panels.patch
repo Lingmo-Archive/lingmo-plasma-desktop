@@ -1,0 +1,40 @@
+Origin: https://invent.kde.org/plasma/plasma-desktop/-/commit/dec75f0da52562b719b4d259b9061a3665b6c16b
+From: Nate Graham <nate@kde.org>
+Date: Wed, 23 Dec 2020 13:45:13 -0700
+Subject: [PATCH] [folder view] Fix display on not-skinny vertical panels
+
+Folder view has some logic to switch between its compact and full
+representations for vertical panels, but it is faulty, and causes the
+switch to happen at approximately 50px width. At this width, the display
+is completely unusable as the text is elided away into nothingness.
+
+This commit remedies the situation by imposing a more sane minimum width
+based on gridUnit. With the default 10pt font, the minimum thickness is
+now 144px, which leaves enough room for the labels to be at least
+partially visible. At lower panel widths, the applet displays its compact
+representation.
+
+BUG: 406806
+FIXED-IN: 5.18.7
+---
+ containments/desktop/package/contents/ui/main.qml | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/containments/desktop/package/contents/ui/main.qml b/containments/desktop/package/contents/ui/main.qml
+index cbdafc4eb..632659346 100644
+--- a/containments/desktop/package/contents/ui/main.qml
++++ b/containments/desktop/package/contents/ui/main.qml
+@@ -52,9 +52,9 @@ FolderViewDropArea {
+     Layout.maximumHeight: isPopup ? preferredHeight(false) : -1
+ 
+     function switchSize() {
+-        // Support expanding into the full representation only on vertical panels.
++        // Support expanding into the full representation on very thick vertical panels.
+         if (isPopup && plasmoid.formFactor === PlasmaCore.Types.Vertical) {
+-            return units.iconSizeHints.panel;
++            return PlasmaCore.Units.gridUnit * 8;
+         }
+ 
+         return 0;
+-- 
+GitLab

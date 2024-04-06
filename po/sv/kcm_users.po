@@ -1,0 +1,276 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-12 08:34+0100\n"
+"PO-Revision-Date: 2020-11-04 08:16+0100\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Stefan Asserhäll"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stefan.asserhall@bredband.net"
+
+#: package/contents/ui/ChangePassword.qml:41
+#: package/contents/ui/UserDetailsPage.qml:179
+#, kde-format
+msgid "Change Password"
+msgstr "Ändra lösenord"
+
+#: package/contents/ui/ChangePassword.qml:54
+#, kde-format
+msgid "Password"
+msgstr "Lösenord"
+
+#: package/contents/ui/ChangePassword.qml:66
+#, kde-format
+msgid "Confirm password"
+msgstr "Bekräfta lösenord"
+
+#: package/contents/ui/ChangePassword.qml:82
+#: package/contents/ui/CreateUser.qml:80
+#, kde-format
+msgid "Passwords must match"
+msgstr "Lösenord måste stämma"
+
+#: package/contents/ui/ChangePassword.qml:87
+#, kde-format
+msgid "Set Password"
+msgstr "Ange lösenord"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Create User"
+msgstr "Skapa användare"
+
+#: package/contents/ui/CreateUser.qml:44
+#, kde-format
+msgid "Name:"
+msgstr "Namn:"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:153
+#, kde-format
+msgid "Username:"
+msgstr "Användarnamn:"
+
+#: package/contents/ui/CreateUser.qml:59
+#: package/contents/ui/UserDetailsPage.qml:161
+#, kde-format
+msgid "Standard"
+msgstr "Standard"
+
+#: package/contents/ui/CreateUser.qml:60
+#: package/contents/ui/UserDetailsPage.qml:162
+#, kde-format
+msgid "Administrator"
+msgstr "Administratör"
+
+#: package/contents/ui/CreateUser.qml:63
+#: package/contents/ui/UserDetailsPage.qml:165
+#, kde-format
+msgid "Account type:"
+msgstr "Kontotyp:"
+
+#: package/contents/ui/CreateUser.qml:68
+#, kde-format
+msgid "Password:"
+msgstr "Lösenord:"
+
+#: package/contents/ui/CreateUser.qml:73
+#, kde-format
+msgid "Confirm password:"
+msgstr "Bekräfta lösenord:"
+
+#: package/contents/ui/CreateUser.qml:84
+#, kde-format
+msgid "Create"
+msgstr "Skapa"
+
+#: package/contents/ui/main.qml:35
+#, kde-format
+msgid "Manage Users"
+msgstr "Hantera användare"
+
+#: package/contents/ui/main.qml:108
+#, kde-format
+msgid "Add New User"
+msgstr "Lägg till ny användare"
+
+#: package/contents/ui/UserDetailsPage.qml:93
+#, kde-format
+msgid "Choose a picture"
+msgstr "Välj en bild"
+
+#: package/contents/ui/UserDetailsPage.qml:145
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "Sven Svensson"
+
+#: package/contents/ui/UserDetailsPage.qml:174
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "sven.svensson@kde.org"
+
+#: package/contents/ui/UserDetailsPage.qml:175
+#, kde-format
+msgid "Email address:"
+msgstr "E-postadress:"
+
+#: package/contents/ui/UserDetailsPage.qml:199
+#, kde-format
+msgid "Delete files"
+msgstr "Ta bort filer"
+
+#: package/contents/ui/UserDetailsPage.qml:208
+#, kde-format
+msgid "Keep files"
+msgstr "Behåll filer"
+
+#: package/contents/ui/UserDetailsPage.qml:217
+#, kde-format
+msgid "Delete User..."
+msgstr "Ta bort användare..."
+
+#: package/contents/ui/UserDetailsPage.qml:228
+#, kde-format
+msgid "Change Avatar"
+msgstr "Byt avatar"
+
+#: package/contents/ui/UserDetailsPage.qml:268
+#, kde-format
+msgid "Choose File..."
+msgstr "Välj fil..."
+
+#: package/contents/ui/UserDetailsPage.qml:401
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr "Frejdig flamingo"
+
+#: package/contents/ui/UserDetailsPage.qml:402
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr "Drakfrukt"
+
+#: package/contents/ui/UserDetailsPage.qml:403
+#, kde-format
+msgid "Sweet Potato"
+msgstr "Sötpotatis"
+
+#: package/contents/ui/UserDetailsPage.qml:404
+#, kde-format
+msgid "Ambient Amber"
+msgstr "Bärnstensstämning"
+
+#: package/contents/ui/UserDetailsPage.qml:405
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr "Glittrande solstråle"
+
+#: package/contents/ui/UserDetailsPage.qml:406
+#, kde-format
+msgid "Lemon-Lime"
+msgstr "Citron-lime"
+
+#: package/contents/ui/UserDetailsPage.qml:407
+#, kde-format
+msgid "Verdant Charm"
+msgstr "Grönskande charm"
+
+#: package/contents/ui/UserDetailsPage.qml:408
+#, kde-format
+msgid "Mellow Meadow"
+msgstr "Mjuk äng"
+
+#: package/contents/ui/UserDetailsPage.qml:409
+#, kde-format
+msgid "Tepid Teal"
+msgstr "Sval grönblå"
+
+#: package/contents/ui/UserDetailsPage.qml:410
+#, kde-format
+msgid "Plasma Blue"
+msgstr "Plasmablå"
+
+#: package/contents/ui/UserDetailsPage.qml:411
+#, kde-format
+msgid "Pon Purple"
+msgstr "Purpur"
+
+#: package/contents/ui/UserDetailsPage.qml:412
+#, kde-format
+msgid "Bajo Purple"
+msgstr "Basviolett"
+
+#: package/contents/ui/UserDetailsPage.qml:413
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr "Bränt träkol"
+
+#: package/contents/ui/UserDetailsPage.qml:414
+#, kde-format
+msgid "Paper Perfection"
+msgstr "Pappersperfektion"
+
+#: package/contents/ui/UserDetailsPage.qml:415
+#, kde-format
+msgid "Cafétera Brown"
+msgstr "Kafébrun"
+
+#: package/contents/ui/UserDetailsPage.qml:416
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "Rikt ädelträ"
+
+#: src/kcm.cpp:51
+#, kde-format
+msgid "Manage user accounts"
+msgstr "Hantera användarkonton"
+
+#: src/kcm.cpp:53
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:54
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:231
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr "Kunde inte erhålla rättighet att spara användare %1"
+
+#: src/user.cpp:235
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr "Ett fel uppstod när ändringarna skulle sparas"
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Your Account"
+msgstr "Ditt konto"
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Other Accounts"
+msgstr "Övriga konton"

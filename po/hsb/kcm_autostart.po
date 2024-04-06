@@ -1,0 +1,142 @@
+# translation of desktop_kdebase.po to Upper Sorbian
+# Prof. Dr. Eduard Werner <e.werner@rz.uni-leipzig.de>, 2003.
+# Eduard Werner <edi.werner@gmx.de>, 2005, 2008.
+# Bianka Šwejdźic <hertn@gmx.de>, 2005, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-24 08:06+0100\n"
+"PO-Revision-Date: 2008-11-06 22:08+0100\n"
+"Last-Translator: Eduard Werner <edi.werner@gmx.de>\n"
+"Language-Team: en_US <kde-i18n-doc@lists.kde.org>\n"
+"Language: hsb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KAider 0.1\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Autostart"
+msgstr ""
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Session Autostart Manager Control Panel Module"
+msgstr ""
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Copyright © 2006–2020 Autostart Manager team"
+msgstr ""
+
+#: autostart.cpp:38
+#, kde-format
+msgid "Stephen Leaf"
+msgstr ""
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Montel Laurent"
+msgstr ""
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Maintainer"
+msgstr ""
+
+#: autostart.cpp:40
+#, kde-format
+msgid "Nicolas Fella"
+msgstr ""
+
+#: autostartmodel.cpp:312
+#, kde-format
+msgid "\"%1\" is not an absolute url."
+msgstr ""
+
+#: autostartmodel.cpp:315
+#, kde-format
+msgid "\"%1\" does not exist."
+msgstr ""
+
+#: autostartmodel.cpp:318
+#, kde-format
+msgid "\"%1\" is not a file."
+msgstr ""
+
+#: autostartmodel.cpp:321
+#, kde-format
+msgid "\"%1\" is not readable."
+msgstr ""
+
+#: package/contents/ui/main.qml:75
+#, kde-format
+msgid "Properties"
+msgstr ""
+
+#: package/contents/ui/main.qml:81
+#, fuzzy, kde-format
+#| msgid "&Remove"
+msgid "Remove"
+msgstr "Wotst&ronić"
+
+#: package/contents/ui/main.qml:92
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#: package/contents/ui/main.qml:95
+#, kde-format
+msgid "Login Scripts"
+msgstr ""
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Logout Scripts"
+msgstr ""
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Choose Startup Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:135
+#, kde-format
+msgid "Choose Logout Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:153
+#, kde-format
+msgid "Add..."
+msgstr ""
+
+#: package/contents/ui/main.qml:179
+#, kde-format
+msgid "Add Application..."
+msgstr ""
+
+#: package/contents/ui/main.qml:185
+#, fuzzy, kde-format
+#| msgid "Run script..."
+msgid "Add Login Script..."
+msgstr "Skript wuwjesć ..."
+
+#: package/contents/ui/main.qml:191
+#, fuzzy, kde-format
+#| msgid "Run script..."
+msgid "Add Logout Script..."
+msgstr "Skript wuwjesć ..."

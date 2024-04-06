@@ -1,0 +1,82 @@
+# Uyghur translation for kcmcomponentchooser.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sahran <sahran.ug@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-13 02:26+0200\n"
+"PO-Revision-Date: 2013-09-08 07:05+0900\n"
+"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ئابدۇقادىر ئابلىز, غەيرەت كەنجى"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sahran.ug@gmail.com,  gheyret@gmail.com"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr ""
+
+#: componentchooser.cpp:54
+#, kde-format
+msgid "Unknown"
+msgstr "نامەلۇم"
+
+#: componentchooser.cpp:57
+#, kde-format
+msgctxt "The label for the combobox: browser, terminal emulator...)"
+msgid "%1:"
+msgstr ""
+
+#: componentchooserbrowser.cpp:100 componentchooseremail.cpp:89
+#: componentchooserfilemanager.cpp:109 componentchooserterminal.cpp:83
+#, kde-format
+msgid "Other..."
+msgstr ""
+
+#: componentchooserfilemanager.cpp:43
+#, fuzzy, kde-format
+#| msgid "Select preferred email client:"
+msgid "Select preferred file manager:"
+msgstr "ياخشى كۆرگەن ئېلخەت خېرىدارىنى تاللاڭ:"
+
+#: componentchooserterminal.cpp:114
+#, kde-format
+msgid "Select preferred terminal application:"
+msgstr "ياخشى كۆرگەن تېرمىنال پروگراممىسىنى تاللاڭ:"
+
+#: kcm_componentchooser.cpp:42
+#, kde-format
+msgid "Component Chooser"
+msgstr "بۆلەك تاللىغۇچ"
+
+#: kcm_componentchooser.cpp:44
+#, kde-format
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "(c)، 2002 Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:46
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:47
+#, kde-format
+msgid "Méven Car"
+msgstr ""

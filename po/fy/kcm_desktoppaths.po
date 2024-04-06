@@ -1,0 +1,138 @@
+# translation of kcmkonq.po to Frysk
+#
+# Rinse de Vries <rinsedevries@kde.nl>, 2006, 2007, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-17 02:31+0200\n"
+"PO-Revision-Date: 2009-12-19 18:43+0100\n"
+"Last-Translator: Berend Ytsma <berendy@gmail.com>\n"
+"Language-Team: Frysk <kde-i18n-fry@kde.org>\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: globalpaths.cpp:58
+#, kde-format
+msgid ""
+"<h1>Paths</h1>\n"
+"This module allows you to choose where in the filesystem the files on your "
+"desktop should be stored.\n"
+"Use the \"Whats This?\" (Shift+F1) to get help on specific options."
+msgstr ""
+"<h1>Paden</h1>\n"
+"Yn dizze module kinne jo bepale wêr de triemmen op jo buroblêd bewarre "
+"wurde.\n"
+"Brûk de \"Wat is dit?\" (Shift+F1) om mear ynfo oer in\n"
+"bepaalde opsje te krijen."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: globalpaths.ui:17
+#, kde-format
+msgid "Desktop path:"
+msgstr "Buroblêdpaad:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_desktopLocation)
+#: globalpaths.ui:24
+#, kde-format
+msgid ""
+"This folder contains all the files which you see on your desktop. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+"Dizze map befettet alle triemmen dy har op jo buroblêd befine. As jo wolle "
+"dan is de lokaasje te wizigjen. De ynhâld fan it buroblêd ferhûzet "
+"automatysk mei nei de nije lokaasje."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: globalpaths.ui:34
+#, kde-format
+msgid "Autostart path:"
+msgstr "Autostartpaad:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_autostartLocation)
+#: globalpaths.ui:41
+#, fuzzy, kde-format
+#| msgid ""
+#| "This folder contains applications or links to applications (shortcuts) "
+#| "that you want to have started automatically whenever KDE starts. You can "
+#| "change the location of this folder if you want to, and the contents will "
+#| "move automatically to the new location as well."
+msgid ""
+"This folder contains applications or links to applications (shortcuts) that "
+"you want to have started automatically whenever the session starts. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+"Dizze map befettet applikaasjes of keppelings nei applikaasjes (fluchtoets) "
+"dy jo automatysk begjinne mei KDE. As jo wolle dan si de lokaasje hjirfan te "
+"wizigjen. De ynhâld fan it buroblêd ferhûzet automatysk mei nei de nije "
+"lokaasje."
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: globalpaths.ui:51
+#, kde-format
+msgid "Documents path:"
+msgstr "Dokumintenpaad:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_documentsLocation)
+#: globalpaths.ui:58
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save documents from or to."
+msgstr ""
+"Dizze map wurdt standert brûkt om dokuminten yn te bewarjen of te laden."
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: globalpaths.ui:68
+#, kde-format
+msgid "Downloads path:"
+msgstr "Ynlaadpaad:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_downloadsLocation)
+#: globalpaths.ui:75
+#, kde-format
+msgid "This folder will be used by default to save your downloaded items."
+msgstr "Dizze map wurdt standert brûkt om jo ynladen items te bewarjen."
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: globalpaths.ui:85
+#, fuzzy, kde-format
+#| msgid "Movies path:"
+msgid "Videos path:"
+msgstr "Filmpaad:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_videosLocation)
+#: globalpaths.ui:92
+#, kde-format
+msgid "This folder will be used by default to load or save movies from or to."
+msgstr "Dizze map wurdt standert brûkt om films yn te bewarjen of te laden."
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: globalpaths.ui:102
+#, kde-format
+msgid "Pictures path:"
+msgstr "Fotopaad:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_picturesLocation)
+#: globalpaths.ui:109
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save pictures from or to."
+msgstr "Dizze map wurdt standert brûkt om foto's yn te bewarjen of te laden."
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: globalpaths.ui:119
+#, kde-format
+msgid "Music path:"
+msgstr "Musykpaad:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_musicLocation)
+#: globalpaths.ui:126
+#, kde-format
+msgid "This folder will be used by default to load or save music from or to."
+msgstr "Dizze map wurdt standert brûkt om musyk yn te bewarjen of te laden."

@@ -1,0 +1,535 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Xəyyam Qocayev <xxmn77@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-17 08:24+0200\n"
+"PO-Revision-Date: 2020-08-26 08:56+0400\n"
+"Last-Translator: Kheyyam Gojayev <xxmn77@gmail.com>\n"
+"Language-Team: Azerbaijani <kde-i18n-doc@kde.org>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.08.0\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "Appearance"
+msgstr "Xarici görünüşü"
+
+#: package/contents/config/config.qml:31
+#, kde-format
+msgid "Behavior"
+msgstr "Davranış"
+
+#: package/contents/ui/Badge.qml:48
+#, kde-format
+msgctxt "Invalid number of new messages, overlay, keep short"
+msgid "—"
+msgstr "—"
+
+#: package/contents/ui/Badge.qml:50
+#, kde-format
+msgctxt "Over 9999 new messages, overlay, keep short"
+msgid "9,999+"
+msgstr "9,999+"
+
+#: package/contents/ui/ConfigAppearance.qml:48
+#, kde-format
+msgid "General:"
+msgstr "Əsas:"
+
+#: package/contents/ui/ConfigAppearance.qml:49
+#, kde-format
+msgid "Show tooltips"
+msgstr "Məsləhətləri göstərmək"
+
+#: package/contents/ui/ConfigAppearance.qml:54
+#, kde-format
+msgid "Highlight windows when hovering over tasks"
+msgstr ""
+"Tapşırıq panelindəki pəncərələr üzərində kursor dayandıqda onları vurğulamaq"
+
+#: package/contents/ui/ConfigAppearance.qml:59
+#, kde-format
+msgid "Mark applications that play audio"
+msgstr "Audio səsləndirən tətbiqləri işarələmək"
+
+#: package/contents/ui/ConfigAppearance.qml:73
+#, kde-format
+msgid "Icon size:"
+msgstr "İkon Ölçüsü:"
+
+#: package/contents/ui/ConfigAppearance.qml:85
+#, kde-format
+msgid "Small"
+msgstr "Kiçik"
+
+#: package/contents/ui/ConfigAppearance.qml:94
+#, kde-format
+msgid "Large"
+msgstr "Böyük"
+
+#: package/contents/ui/ConfigAppearance.qml:105
+#, kde-format
+msgid "Maximum columns:"
+msgstr "Maksimum sütunlar:"
+
+#: package/contents/ui/ConfigAppearance.qml:105
+#, kde-format
+msgid "Maximum rows:"
+msgstr "Maksimum sətirlər:"
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, kde-format
+msgid "Always arrange tasks in rows of as many columns"
+msgstr "Sətirlər maksimum saya çatmadan yenisini başlatmamaq"
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, kde-format
+msgid "Always arrange tasks in columns of as many rows"
+msgstr "Sütunlar maksimum saya çatmadan yenisini başlatmamaq"
+
+#: package/contents/ui/ConfigBehavior.qml:59
+#, kde-format
+msgid "Group:"
+msgstr "Qruplaşdırmaq:"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgid "Do not group"
+msgstr "Qruplaşdırmamaq"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgid "By program name"
+msgstr "Proqram adına görə"
+
+#: package/contents/ui/ConfigBehavior.qml:67
+#, kde-format
+msgid "Clicking grouped task:"
+msgstr "Qruplaşsırılmış tapşırığı klikləyərək:"
+
+#: package/contents/ui/ConfigBehavior.qml:75
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task cycles through tasks' "
+msgid "Cycles through tasks"
+msgstr "Tapşırıqlar arası keçid"
+
+#: package/contents/ui/ConfigBehavior.qml:76
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows tooltip window "
+"thumbnails' "
+msgid "Shows tooltip window thumbnails"
+msgstr "İpucları pəncərələrinin miniatürlərini göstərir"
+
+#: package/contents/ui/ConfigBehavior.qml:77
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows 'Present Windows' "
+"effect' "
+msgid "Shows 'Present Windows' effect"
+msgstr "\"Bütün Pəncərələr\" effektini göstərir"
+
+#: package/contents/ui/ConfigBehavior.qml:78
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task shows textual list' "
+msgid "Shows textual list"
+msgstr "Mətn siyahısını göstərir"
+
+#: package/contents/ui/ConfigBehavior.qml:86
+#, kde-format
+msgid ""
+"Tooltips are disabled, so the 'Present Windows' effect will be displayed "
+"instead."
+msgstr ""
+"İpucları söndürülüb, belə ki, əvəzinə \"Bütün Pəncərələr\" effekti "
+"göstəriləcək."
+
+#: package/contents/ui/ConfigBehavior.qml:93
+#, kde-format
+msgid ""
+"Tooltips are disabled, and the 'Present Windows' effect is not enabled or "
+"otherwise available right now, so a textual list will be displayed instead"
+msgstr ""
+"İpucları söndürülüb və \"Bütün Pəncərələr\" effekti aktiv edilməyib və ya "
+"mövcud deyil, ona görə də bunun əvəzinə mətn siyahısı göstəriləcək"
+
+#: package/contents/ui/ConfigBehavior.qml:100
+#, kde-format
+msgid ""
+"The 'Present Windows' effect is not enabled or otherwise available right "
+"now, so a textual list will be displayed instead."
+msgstr ""
+"\"Bütün Pəncərələr\" effekti aktiv edilməyib və ya hal-hazırda mövcud deyil, "
+"belə ki, onun əvəzinə mətn siyahısı göstəriləcək."
+
+#: package/contents/ui/ConfigBehavior.qml:110
+#, kde-format
+msgid "Combine into single button"
+msgstr "Bir düymədə birləşdirmək"
+
+#: package/contents/ui/ConfigBehavior.qml:117
+#, kde-format
+msgid "Group only when the Task Manager is full"
+msgstr "Yalnız Tapşırıq meneceri dolmadan qruplaşdırmamaq"
+
+#: package/contents/ui/ConfigBehavior.qml:130
+#, kde-format
+msgid "Sort:"
+msgstr "Çeşidləmək:"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Do not sort"
+msgstr "Çeşidləməmək"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Manually"
+msgstr "Əl ilə"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "Alphabetically"
+msgstr "Əlifba sırası ilə"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "By desktop"
+msgstr "İş Masasına görə"
+
+#: package/contents/ui/ConfigBehavior.qml:132
+#, kde-format
+msgid "By activity"
+msgstr "İş Otağına görə"
+
+#: package/contents/ui/ConfigBehavior.qml:138
+#, kde-format
+msgid "Keep launchers separate"
+msgstr "Başalama düyməsi ilə yerdəyişmə etməmək"
+
+#: package/contents/ui/ConfigBehavior.qml:149
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Clicking active task:"
+msgstr "Aktiv tapşırığı klikləyərək:"
+
+#: package/contents/ui/ConfigBehavior.qml:150
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Minimizes the task"
+msgstr "Tapşırığı endirin"
+
+#: package/contents/ui/ConfigBehavior.qml:156
+#, kde-format
+msgid "Middle-clicking any task:"
+msgstr "Hər hansı tapşırığa orta klik:"
+
+#: package/contents/ui/ConfigBehavior.qml:159
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task does nothing'"
+msgid "Does nothing"
+msgstr "Edilməli bir şey yoxdur"
+
+#: package/contents/ui/ConfigBehavior.qml:160
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task closes window or group'"
+msgid "Closes window or group"
+msgstr "Pəncərəni və ya qrupu bağlayır"
+
+#: package/contents/ui/ConfigBehavior.qml:161
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task opens a new instance'"
+msgid "Opens a new instance"
+msgstr "Yeni nümunə açır"
+
+#: package/contents/ui/ConfigBehavior.qml:162
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task minimizes/restores window or "
+"group'"
+msgid "Minimizes/Restores window or group"
+msgstr "Pəncərəni və ya pəncərələr qruplarını Yığır/Açır"
+
+#: package/contents/ui/ConfigBehavior.qml:163
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task toggles grouping'"
+msgid "Toggles grouping"
+msgstr "Qrupları dəyişdirir"
+
+#: package/contents/ui/ConfigBehavior.qml:164
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task brings it to the current "
+"virtual desktop'"
+msgid "Brings it to the current virtual desktop"
+msgstr "Cari Virtual İş Masasına gətirir"
+
+#: package/contents/ui/ConfigBehavior.qml:174
+#, fuzzy, kde-format
+#| msgid "Mouse wheel:"
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Mouse wheel:"
+msgstr "Siçan diyircəyi:"
+
+#: package/contents/ui/ConfigBehavior.qml:175
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "Completes the sentence 'Clicking grouped task cycles through tasks' "
+#| msgid "Cycles through tasks"
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Cycles through tasks"
+msgstr "Tapşırıqlar arası keçid"
+
+#: package/contents/ui/ConfigBehavior.qml:184
+#, kde-format
+msgid "Show only tasks:"
+msgstr "Yalnız tətbiqlər göstərmək:"
+
+#: package/contents/ui/ConfigBehavior.qml:185
+#, kde-format
+msgid "From current screen"
+msgstr "Cari ekrandan"
+
+#: package/contents/ui/ConfigBehavior.qml:190
+#, kde-format
+msgid "From current desktop"
+msgstr "Cari İş Masasından"
+
+#: package/contents/ui/ConfigBehavior.qml:195
+#, kde-format
+msgid "From current activity"
+msgstr "Cari İş Otağından"
+
+#: package/contents/ui/ConfigBehavior.qml:200
+#, kde-format
+msgid "That are minimized"
+msgstr "Yığılmış"
+
+#: package/contents/ui/ContextMenu.qml:99
+#, kde-format
+msgid "Places"
+msgstr "Giriş Nöqtələri"
+
+#: package/contents/ui/ContextMenu.qml:104
+#, kde-format
+msgid "Recent Files"
+msgstr "Sonuncu fayllar"
+
+#: package/contents/ui/ContextMenu.qml:109
+#, kde-format
+msgid "Actions"
+msgstr "Fəaliyyətlər"
+
+#: package/contents/ui/ContextMenu.qml:167
+#, kde-format
+msgctxt "Play previous track"
+msgid "Previous Track"
+msgstr "Əvvəlki fayla keçid"
+
+#: package/contents/ui/ContextMenu.qml:181
+#, kde-format
+msgctxt "Pause playback"
+msgid "Pause"
+msgstr "Fasilə"
+
+#: package/contents/ui/ContextMenu.qml:181
+#, kde-format
+msgctxt "Start playback"
+msgid "Play"
+msgstr "Səsləndirmək"
+
+#: package/contents/ui/ContextMenu.qml:199
+#, kde-format
+msgctxt "Play next track"
+msgid "Next Track"
+msgstr "Növbəti fayl"
+
+#: package/contents/ui/ContextMenu.qml:210
+#, kde-format
+msgctxt "Stop playback"
+msgid "Stop"
+msgstr "Dayandırmaq"
+
+#: package/contents/ui/ContextMenu.qml:230
+#, kde-format
+msgctxt "Quit media player app"
+msgid "Quit"
+msgstr "Pleyerdən çıxış"
+
+#: package/contents/ui/ContextMenu.qml:245
+#, kde-format
+msgctxt "Open or bring to the front window of media player app"
+msgid "Restore"
+msgstr "Pleyeri göstərmək"
+
+#: package/contents/ui/ContextMenu.qml:271
+#, kde-format
+msgid "Mute"
+msgstr "Susdurmaq"
+
+#: package/contents/ui/ContextMenu.qml:285
+#, kde-format
+msgid "Start New Instance"
+msgstr "Yeni nümunəni başlatmaq"
+
+#: package/contents/ui/ContextMenu.qml:301
+#, kde-format
+msgid "Move to &Desktop"
+msgstr "İş Masasına &köşürmək"
+
+#: package/contents/ui/ContextMenu.qml:325
+#, kde-format
+msgid "Move &To Current Desktop"
+msgstr "&Cari İş Masasına köçürmək"
+
+#: package/contents/ui/ContextMenu.qml:334
+#, kde-format
+msgid "&All Desktops"
+msgstr "Bütün &İş Masaları"
+
+#: package/contents/ui/ContextMenu.qml:348
+#, kde-format
+msgctxt "1 = number of desktop, 2 = desktop name"
+msgid "&%1 %2"
+msgstr "&%1 %2"
+
+#: package/contents/ui/ContextMenu.qml:362
+#, kde-format
+msgid "&New Desktop"
+msgstr "&Yeni İş Masası"
+
+#: package/contents/ui/ContextMenu.qml:381
+#, kde-format
+msgid "Show in &Activities"
+msgstr "İş &Otaqlarında göstərmək"
+
+#: package/contents/ui/ContextMenu.qml:403
+#, kde-format
+msgid "Add To Current Activity"
+msgstr "Cari İş Otağına əlavə etmək"
+
+#: package/contents/ui/ContextMenu.qml:413
+#, kde-format
+msgid "All Activities"
+msgstr "Bütün İş Otaqları"
+
+#: package/contents/ui/ContextMenu.qml:472
+#, kde-format
+msgid "More Actions"
+msgstr "Daha çox fəaliyyətlər"
+
+#: package/contents/ui/ContextMenu.qml:481
+#, kde-format
+msgid "&Move"
+msgstr "&Köçürmək"
+
+#: package/contents/ui/ContextMenu.qml:490
+#, kde-format
+msgid "Re&size"
+msgstr "&Ölçüsünü dəyişmək"
+
+#: package/contents/ui/ContextMenu.qml:504
+#, kde-format
+msgid "Ma&ximize"
+msgstr "&Genişləndirmək"
+
+#: package/contents/ui/ContextMenu.qml:518
+#, kde-format
+msgid "Mi&nimize"
+msgstr "&Yığmaq"
+
+#: package/contents/ui/ContextMenu.qml:528
+#, kde-format
+msgid "Keep &Above Others"
+msgstr "Digərilərinin üzərində &tutmaq"
+
+#: package/contents/ui/ContextMenu.qml:538
+#, kde-format
+msgid "Keep &Below Others"
+msgstr "Arxa &planda tutmaq"
+
+#: package/contents/ui/ContextMenu.qml:550
+#, kde-format
+msgid "&Fullscreen"
+msgstr "&Tam ekran"
+
+#: package/contents/ui/ContextMenu.qml:562
+#, kde-format
+msgid "&Shade"
+msgstr "&Başlığa endirmək"
+
+#: package/contents/ui/ContextMenu.qml:578
+#, kde-format
+msgid "Allow this program to be grouped"
+msgstr "Bu proqramı qruplaşdırmaq"
+
+#: package/contents/ui/ContextMenu.qml:630
+#: package/contents/ui/ContextMenu.qml:645
+#, kde-format
+msgid "&Pin to Task Manager"
+msgstr "Tapşırıq panelinə &bərkitmək"
+
+#: package/contents/ui/ContextMenu.qml:698
+#, kde-format
+msgid "On All Activities"
+msgstr "Bütün İş Otaqlarında"
+
+#: package/contents/ui/ContextMenu.qml:704
+#, kde-format
+msgid "On The Current Activity"
+msgstr "Cari İş Otağında"
+
+#: package/contents/ui/ContextMenu.qml:728
+#, kde-format
+msgid "Unpin from Task Manager"
+msgstr "Tapşırıq menecerindən ayırmaq"
+
+#: package/contents/ui/ContextMenu.qml:742
+#, kde-format
+msgid "&Close"
+msgstr "&Bağlamaq"
+
+#: package/contents/ui/ToolTipInstance.qml:389
+#, kde-format
+msgctxt "Comma-separated list of desktops"
+msgid "On %1"
+msgstr "%1 -də"
+
+#: package/contents/ui/ToolTipInstance.qml:399
+#, kde-format
+msgctxt "Which virtual desktop a window is currently on"
+msgid "Available on all activities"
+msgstr "Bütün İş Otaqlarında mövcuddur"
+
+#: package/contents/ui/ToolTipInstance.qml:421
+#, kde-format
+msgctxt "Activities a window is currently on (apart from the current one)"
+msgid "Also available on %1"
+msgstr "Yalnız %1 İş Otağında"
+
+#: package/contents/ui/ToolTipInstance.qml:425
+#, kde-format
+msgctxt "Which activities a window is currently on"
+msgid "Available on %1"
+msgstr "Yalnız %1-də"
+
+#: plugin/backend.cpp:280
+#, kde-format
+msgctxt "Show all user Places"
+msgid "%1 more Place"
+msgid_plural "%1 more Places"
+msgstr[0] "Daha %1 Giriş Nöqtəsi"
+msgstr[1] "Daha %1 Giriş Nöqtəsi"
+
+#: plugin/backend.cpp:353
+#, kde-format
+msgid "Forget Recent Files"
+msgstr "Sənədlər siyahısını unutmaq"

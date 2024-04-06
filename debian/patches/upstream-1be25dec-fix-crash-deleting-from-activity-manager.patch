@@ -1,0 +1,44 @@
+From 1be25decb52d5502ff8d922c02a3205ceee1143a Mon Sep 17 00:00:00 2001
+From: Willyanto Willyanto <willyanto39@protonmail.com>
+Date: Mon, 8 Feb 2021 20:13:05 +0700
+Subject: [PATCH] Fix crash when deleting activity from activity manager
+
+When deleting activity from activity manager, the delete button is destroyed
+while handling onClicked signal. This happens because
+ActivitySettings.deleteActivity() is calling QMessageBox::question() that
+waits for user confirmation.
+
+Change deleteActivity call to use QMetaObject with QueuedConnection as the
+connectivity type. This allows the delete button to be destroyed without
+having to wait for user confirmation.
+
+BUG: 426926
+BUG: 427593
+---
+ kcms/activities/imports/activitysettings.cpp |   14 ++++++++------
+ 1 file changed, 8 insertions(+), 6 deletions(-)
+
+--- a/kcms/activities/imports/activitysettings.cpp
++++ b/kcms/activities/imports/activitysettings.cpp
+@@ -58,13 +58,15 @@ void ActivitySettings::newActivity()
+ 
+ void ActivitySettings::deleteActivity(const QString &id)
+ {
+-    KActivities::Info info(id);
++    QMetaObject::invokeMethod(this, [id] {
++        KActivities::Info info(id);
+ 
+-    if (QMessageBox::question(nullptr, i18nc("@title:window", "Delete Activity"),
+-                              i18n("Are you sure you want to delete '%1'?",
+-                                   info.name())) == QMessageBox::Yes) {
+-        KActivities::Controller().removeActivity(id);
+-    }
++        if (QMessageBox::question(nullptr, i18nc("@title:window", "Delete Activity"),
++                                  i18n("Are you sure you want to delete '%1'?",
++                                       info.name())) == QMessageBox::Yes) {
++            KActivities::Controller().removeActivity(id);
++        }
++    }, Qt::ConnectionType::QueuedConnection);
+ }
+ 
+ void ActivitySettings::configureActivities()

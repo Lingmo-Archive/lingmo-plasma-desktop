@@ -1,0 +1,262 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Kristóf Kiszel <kiszel.kristof@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-30 08:38+0100\n"
+"PO-Revision-Date: 2020-12-09 23:18+0100\n"
+"Last-Translator: Kristóf Kiszel <kiszel.kristof@gmail.com>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 21.03.70\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kiszel.kristof@gmail.com"
+
+#: globalaccelmodel.cpp:120
+#, kde-format
+msgid "Applications"
+msgstr "Alkalmazások"
+
+#: globalaccelmodel.cpp:120 globalaccelmodel.cpp:259
+#, kde-format
+msgid "System Services"
+msgstr "Rendszerszolgáltatások"
+
+#: globalaccelmodel.cpp:191
+#, kde-format
+msgctxt ""
+"%1 is the name of the component, %2 is the action for which saving failed"
+msgid "Error while saving shortcut %1: %2"
+msgstr "Hiba a(z) %1 gyorsbillentyű mentésekor: %2"
+
+#: globalaccelmodel.cpp:319
+#, kde-format
+msgid "Error while communicating with the global shortcuts service"
+msgstr ""
+"Hiba a globális gyorsbillentyű-szolgáltatással történő kommunikáció során"
+
+#: kcm_keys.cpp:59
+#, kde-format
+msgid "Shortcuts"
+msgstr "Gyorsbillentyűk"
+
+#: kcm_keys.cpp:61
+#, kde-format
+msgid "David Redondo"
+msgstr "David Redondo"
+
+#: kcm_keys.cpp:66
+#, kde-format
+msgid "Failed to communicate with global shortcuts daemon"
+msgstr "A kommunikáció a globális gyorsbillentyű-szolgáltatással meghiúsult"
+
+#: kcm_keys.cpp:230 package/contents/ui/main.qml:126
+#: standardshortcutsmodel.cpp:43
+#, kde-format
+msgid "Common Actions"
+msgstr "Gyakori műveletek"
+
+#: kcm_keys.cpp:235
+#, kde-format
+msgctxt "%2 is the name of a category inside the 'Common Actions' section"
+msgid ""
+"Shortcut %1 is already assigned to the common %2 action '%3'.\n"
+"Do you want to reassign it?"
+msgstr ""
+"A(z) %1 gyorsbillentyűt már hozzárendelték a(z) „%3” művelethez (kategória: "
+"%2).\n"
+"Szeretné máshoz rendelni?"
+
+#: kcm_keys.cpp:236
+#, kde-format
+msgid ""
+"Shortcut %1 is already assigned to action '%2' of %3.\n"
+"Do you want to reassign it?"
+msgstr ""
+"A(z) %1 gyorsbillentyűt már hozzárendelték a(z) %3 „%2” műveletéhez.\n"
+"Szeretné máshoz rendelni?"
+
+#: kcm_keys.cpp:237
+#, kde-format
+msgctxt "@title:window"
+msgid "Found conflict"
+msgstr "Konfliktus található"
+
+#: package/contents/ui/main.qml:47
+#, kde-format
+msgid "Cannot export scheme while there are unsaved changes"
+msgstr "Nem lehet exportálni a sémákat, amíg nem mentett módosítások vannak"
+
+#: package/contents/ui/main.qml:59
+#, kde-format
+msgid ""
+"Select the components below that should be included in the exported scheme"
+msgstr ""
+"Válassza ki lentebb az exportált sémába belefoglalni kívánt komponenseket"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Save scheme"
+msgstr "Séma mentése"
+
+#: package/contents/ui/main.qml:133
+#, kde-format
+msgid "Remove all shortcuts for %1"
+msgstr "A(z) %1 összes gyorsbillentyűjének törlése"
+
+#: package/contents/ui/main.qml:144
+#, kde-format
+msgid "Undo deletion"
+msgstr "Törlés visszavonása"
+
+#: package/contents/ui/main.qml:210
+#, kde-format
+msgid "Select an item from the list to view its shortcuts here"
+msgstr "Válasszon egy elemet a listából a gyorsbillentyűi megtekintéséhez"
+
+#: package/contents/ui/main.qml:217
+#, kde-format
+msgid "Add Application..."
+msgstr "Alkalmazás hozzáadása…"
+
+#: package/contents/ui/main.qml:227
+#, kde-format
+msgid "Import Scheme..."
+msgstr "Séma importálása…"
+
+#: package/contents/ui/main.qml:232
+#, kde-format
+msgid "Cancel Export"
+msgstr "Exportálás megszakítása"
+
+#: package/contents/ui/main.qml:232
+#, kde-format
+msgid "Export Scheme..."
+msgstr "Séma exportálása…"
+
+#: package/contents/ui/main.qml:253
+#, kde-format
+msgid "Export Shortcut Scheme"
+msgstr "Gyorsbillentyűséma exportálása"
+
+#: package/contents/ui/main.qml:253 package/contents/ui/main.qml:276
+#, kde-format
+msgid "Import Shortcut Scheme"
+msgstr "Gyorsbillentyűséma importálása"
+
+#: package/contents/ui/main.qml:255
+#, kde-format
+msgctxt "Template for file dialog"
+msgid "Shortcut Scheme (*.kksrc)"
+msgstr "Gyorsbillentyűséma (*.kksrc)"
+
+#: package/contents/ui/main.qml:282
+#, kde-format
+msgid "Select the scheme to import:"
+msgstr "Az importálandó séma:"
+
+#: package/contents/ui/main.qml:294
+#, kde-format
+msgid "Custom Scheme"
+msgstr "Egyéni séma"
+
+#: package/contents/ui/main.qml:299
+#, kde-format
+msgid "Select File..."
+msgstr "Fájl kiválasztása…"
+
+#: package/contents/ui/main.qml:299
+#, kde-format
+msgid "Import"
+msgstr "Importálás"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:44
+#, kde-format
+msgctxt ""
+"%1 is the name action that is triggered by the key sequences following "
+"after :"
+msgid "%1:"
+msgstr "%1:"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:57
+#, kde-format
+msgid "No active shortcuts"
+msgstr "Nincsenek aktív gyorsbillentyűk"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:88
+#, kde-format
+msgctxt "%1 decides if singular or plural will be used"
+msgid "Default shortcut"
+msgid_plural "Default shortcuts"
+msgstr[0] "Alapértelmezett gyorsbillentyű"
+msgstr[1] "Alapértelmezett gyorsbillentyűk"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:90
+#, kde-format
+msgid "No default shortcuts"
+msgstr "Nincsenek alapértelmezett gyorsbillentyűk"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:115
+#, kde-format
+msgid "Custom shortcuts"
+msgstr "Egyéni gyorsbillentyűk"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:136
+#, kde-format
+msgid "Delete this shortcut"
+msgstr "Gyorsbillentyű törlése"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:142
+#, kde-format
+msgid "Add custom shortcut"
+msgstr "Egyéni gyorsbillentyű hozzáadása"
+
+#: package/contents/ui/ShortcutActionDelegate.qml:176
+#, kde-format
+msgid "Cancel capturing of new shortcut"
+msgstr "Új gyorsbillentyű felvételének megszakítása"
+
+#: standardshortcutsmodel.cpp:45
+#, kde-format
+msgid "File"
+msgstr "Fájl"
+
+#: standardshortcutsmodel.cpp:46
+#, kde-format
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: standardshortcutsmodel.cpp:47
+#, kde-format
+msgid "Navigation"
+msgstr "Navigáció"
+
+#: standardshortcutsmodel.cpp:48
+#, kde-format
+msgid "View"
+msgstr "Nézet"
+
+#: standardshortcutsmodel.cpp:49
+#, kde-format
+msgid "Settings"
+msgstr "Beállítások"
+
+#: standardshortcutsmodel.cpp:50
+#, kde-format
+msgid "Help"
+msgstr "Súgó"

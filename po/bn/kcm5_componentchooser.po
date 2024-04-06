@@ -1,0 +1,92 @@
+# ______________________________________________________________
+#
+# Preliminary translation of this file was done by "Anubadok",
+# A free (as in freedom) machine translator for Bengali (Bangla).
+# Visit "http://anubadok.sourceforge.net/"  to learn more.
+# ______________________________________________________________
+#
+# Bengali (Bangla) translation of kcmcomponentchooser.
+# Copyright (C) 2012, Free Software Foundation, Inc.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+#
+# Deepayan Sarkar <deepayan.sarkar@gmail.com>, 2012..
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-13 02:26+0200\n"
+"PO-Revision-Date: 2012-07-13 21:56+0530\n"
+"Last-Translator: Deepayan Sarkar <deepayan.sarkar@gmail.com>\n"
+"Language-Team: Bengali <kde-translation@bengalinux.org>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "দীপায়ন সরকার"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "deepayan.sarkar@gmail.com"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr ""
+
+#: componentchooser.cpp:54
+#, kde-format
+msgid "Unknown"
+msgstr "অজানা"
+
+#: componentchooser.cpp:57
+#, kde-format
+msgctxt "The label for the combobox: browser, terminal emulator...)"
+msgid "%1:"
+msgstr ""
+
+#: componentchooserbrowser.cpp:100 componentchooseremail.cpp:89
+#: componentchooserfilemanager.cpp:109 componentchooserterminal.cpp:83
+#, kde-format
+msgid "Other..."
+msgstr ""
+
+#: componentchooserfilemanager.cpp:43
+#, fuzzy, kde-format
+#| msgid "Select preferred email client:"
+msgid "Select preferred file manager:"
+msgstr "পছন্দের ই-মেল অ্যাপলিকেশন বেছে নিন:"
+
+#: componentchooserterminal.cpp:114
+#, kde-format
+msgid "Select preferred terminal application:"
+msgstr "পছন্দের টার্মিনাল অ্যাপলিকেশন বেছে নিন:"
+
+#: kcm_componentchooser.cpp:42
+#, kde-format
+msgid "Component Chooser"
+msgstr "উপাদান বাছাইকারক"
+
+#: kcm_componentchooser.cpp:44
+#, kde-format
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "(c), 2002 Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:46
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:47
+#, kde-format
+msgid "Méven Car"
+msgstr ""

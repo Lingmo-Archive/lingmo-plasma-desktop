@@ -1,0 +1,78 @@
+# Translation of org.kde.plasma.emojier.po to Catalan (Valencian)
+# Copyright (C) 2019-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-05 08:39+0100\n"
+"PO-Revision-Date: 2020-02-20 20:35+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: emojier.cpp:329
+#, kde-format
+msgid "Emoji Selector"
+msgstr "Selector dels emoji"
+
+#: emojier.cpp:330
+#, kde-format
+msgid "(C) 2019 Aleix Pol i Gonzalez"
+msgstr "(C) 2019 Aleix Pol i Gonzalez"
+
+#: emojier.cpp:332
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#: emojier.cpp:332
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: emojier.cpp:348
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Substitueix una instància existent"
+
+#: ui/CategoryPage.qml:59
+#, kde-format
+msgid "Search..."
+msgstr "Cerca..."
+
+#: ui/emojier.qml:50
+#, kde-format
+msgid "%1 copied to the clipboard"
+msgstr "S'ha copiat %1 al porta-retalls"
+
+#: ui/emojier.qml:54 ui/emojier.qml:76
+#, kde-format
+msgid "Search"
+msgstr "Cerca"
+
+#: ui/emojier.qml:65
+#, kde-format
+msgid "Recent"
+msgstr "Recent"
+
+#: ui/emojier.qml:87
+#, kde-format
+msgid "All"
+msgstr "Tot"
+
+#: ui/emojier.qml:94
+#, kde-format
+msgid "Categories"
+msgstr "Categories"

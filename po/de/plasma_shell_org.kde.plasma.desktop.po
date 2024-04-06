@@ -1,0 +1,364 @@
+# Frederik Schwarzer <schwarzer@kde.org>, 2014, 2016, 2020.
+# Burkhard Lück <lueck@hube-lueck.de>, 2014, 2015, 2016, 2017, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-26 22:58+0100\n"
+"PO-Revision-Date: 2020-11-26 07:05+0100\n"
+"Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#: contents/activitymanager/ActivityItem.qml:225
+msgid "Currently being used"
+msgstr "Zurzeit verwendet"
+
+#: contents/activitymanager/ActivityItem.qml:265
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Verschieben in\n"
+"diese Aktivität"
+
+#: contents/activitymanager/ActivityItem.qml:295
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Auch anzeigen\n"
+"in dieser Aktivität"
+
+#: contents/activitymanager/ActivityItem.qml:355
+msgid "Configure"
+msgstr "Einrichtung"
+
+#: contents/activitymanager/ActivityItem.qml:372
+msgid "Stop activity"
+msgstr "Aktivität anhalten"
+
+#: contents/activitymanager/ActivityList.qml:155
+msgid "Stopped activities:"
+msgstr "Angehaltene Aktivitäten:"
+
+#: contents/activitymanager/ActivityManager.qml:140
+msgid "Create activity..."
+msgstr "Aktivität erstellen ..."
+
+#: contents/activitymanager/Heading.qml:74
+msgid "Activities"
+msgstr "Aktivitäten"
+
+#: contents/activitymanager/Heading.qml:89
+#: contents/explorer/WidgetExplorer.qml:243
+msgid "Search..."
+msgstr "Suchen ..."
+
+#: contents/activitymanager/StoppedActivityItem.qml:146
+msgid "Configure activity"
+msgstr "Aktivität einrichten"
+
+#: contents/activitymanager/StoppedActivityItem.qml:161
+msgid "Delete"
+msgstr "Löschen"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "Eine E-Mail an %1 senden"
+
+#: contents/configuration/AboutPlugin.qml:95
+msgid "Copyright"
+msgstr "Copyright"
+
+#: contents/configuration/AboutPlugin.qml:115 contents/explorer/Tooltip.qml:106
+msgid "License:"
+msgstr "Lizenz:"
+
+#: contents/configuration/AboutPlugin.qml:128
+msgid "Authors"
+msgstr "Autoren"
+
+#: contents/configuration/AboutPlugin.qml:138
+msgid "Credits"
+msgstr "Danksagungen"
+
+#: contents/configuration/AboutPlugin.qml:149
+msgid "Translators"
+msgstr "Übersetzer"
+
+#: contents/configuration/AppletConfiguration.qml:53
+msgid "Keyboard Shortcuts"
+msgstr "Kurzbefehle"
+
+#: contents/configuration/AppletConfiguration.qml:130
+msgid "Apply Settings"
+msgstr "Einstellungen anwenden"
+
+#: contents/configuration/AppletConfiguration.qml:131
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Die Einstellungen im aktuellen Modul wurden geändert. Möchten Sie die "
+"Änderungen anwenden oder verwerfen?"
+
+#: contents/configuration/AppletConfiguration.qml:219
+msgid "About"
+msgstr "Über"
+
+#: contents/configuration/AppletConfiguration.qml:433
+msgid "OK"
+msgstr "OK"
+
+#: contents/configuration/AppletConfiguration.qml:440
+msgid "Apply"
+msgstr "Anwenden"
+
+#: contents/configuration/AppletConfiguration.qml:446
+#: contents/explorer/AppletAlternatives.qml:185
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Left-Button"
+msgstr "Linke Maustaste"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Right-Button"
+msgstr "Rechte Maustaste"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Middle-Button"
+msgstr "Mittlere Maustaste"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:34
+msgid "Back-Button"
+msgstr "Zurück-Knopf"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:35
+msgid "Forward-Button"
+msgstr "Vorwärts-Knopf"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:37
+msgid "Vertical-Scroll"
+msgstr "Vertikales Mausrad"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:38
+msgid "Horizontal-Scroll"
+msgstr "Horizontales Mausrad"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:40
+msgid "Shift"
+msgstr "Umschalttaste"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:41
+msgid "Ctrl"
+msgstr "Strg"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:42
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:43
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:83
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:163
+#: contents/configuration/MouseEventInputButton.qml:27
+msgid "Add Action"
+msgstr "Aktion hinzufügen"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:75
+msgid "Layout changes have been restricted by the system administrator"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:90
+msgid "Layout:"
+msgstr "Layout:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:105
+msgid "Wallpaper Type:"
+msgstr "Hintergrundbild-Typ:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:122
+msgid "Get New Plugins..."
+msgstr "Neue Module holen ..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:140
+msgid "Layout changes must be applied before other changes can be made"
+msgstr ""
+"Layout-Änderungen müssen angewendet werden, bevor eine weitere Bearbeitung "
+"möglich ist"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:146
+msgid "Apply now"
+msgstr "Jetzt anwenden"
+
+#: contents/configuration/ConfigurationShortcuts.qml:39
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr ""
+"Mit diesem Kurzbefehl wird das Miniprogramm so aktiviert wie beim Klicken "
+"darauf."
+
+#: contents/configuration/ContainmentConfiguration.qml:43
+msgid "Wallpaper"
+msgstr "Hintergrundbild"
+
+#: contents/configuration/ContainmentConfiguration.qml:48
+msgid "Mouse Actions"
+msgstr "Maus-Aktionen"
+
+#: contents/configuration/MouseEventInputButton.qml:34
+msgid "Input Here"
+msgstr "Eingabe hier"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Screen Edge"
+msgstr "Bildschirmkante"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:40
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr ""
+"Klicken und ziehen Sie den Knopf, um die Kontrollleiste zu einer "
+"Bildschirmkante zu verschieben."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:46
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:145
+msgid "Remove Panel"
+msgstr "Kontrollleiste entfernen"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Panel Alignment"
+msgstr "Ausrichtung der Kontrollleiste"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Top"
+msgstr "Oben"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Left"
+msgstr "Links"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:74
+msgid "Center"
+msgstr "Zentriert"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Bottom"
+msgstr "Unten"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Right"
+msgstr "Rechts"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Visibility"
+msgstr "Sichtbarkeit"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:103
+msgid "Always Visible"
+msgstr "Immer sichtbar"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:111
+msgid "Auto Hide"
+msgstr "Automatisch ausblenden"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:119
+msgid "Windows Can Cover"
+msgstr "Fenster können die Kontrollleiste überdecken"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:127
+msgid "Windows Go Below"
+msgstr "Fenster rutschen unter die Kontrollleiste"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:136
+msgid "Maximize Panel"
+msgstr "Kontrollleiste maximieren"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:34
+msgid "Add Widgets..."
+msgstr "Miniprogramme hinzufügen ..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:35
+msgid "Add Spacer"
+msgstr "Abstandhalter hinzufügen"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:36
+msgid "More Options..."
+msgstr "Weitere Einstellungen ..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel width:"
+msgstr "Breite der Kontrollleiste:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel height:"
+msgstr "Höhe der Kontrollleiste:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:197
+msgid "Close"
+msgstr "Schließen"
+
+#: contents/explorer/AppletAlternatives.qml:83
+msgid "Alternative Widgets"
+msgstr "Alternative Miniprogramme"
+
+#: contents/explorer/AppletAlternatives.qml:174
+msgid "Switch"
+msgstr "Wechseln"
+
+#: contents/explorer/AppletDelegate.qml:179
+msgid "Undo uninstall"
+msgstr "Deinstallation rückgängig machen"
+
+#: contents/explorer/AppletDelegate.qml:180
+msgid "Uninstall widget"
+msgstr "Miniprogramm deinstallieren"
+
+#: contents/explorer/Tooltip.qml:115
+msgid "Author:"
+msgstr "Autor:"
+
+#: contents/explorer/Tooltip.qml:123
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: contents/explorer/Tooltip.qml:142
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+#: contents/explorer/WidgetExplorer.qml:142
+#: contents/explorer/WidgetExplorer.qml:255
+msgid "All Widgets"
+msgstr "Alle Miniprogramme"
+
+#: contents/explorer/WidgetExplorer.qml:217
+msgid "Widgets"
+msgstr "Miniprogramme"
+
+#: contents/explorer/WidgetExplorer.qml:225
+msgid "Get New Widgets..."
+msgstr "Neue Miniprogramme holen ..."
+
+#: contents/explorer/WidgetExplorer.qml:254
+msgid "Categories"
+msgstr "Kategorien"
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets matched the search terms"
+msgstr ""
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets available"
+msgstr "Keine Miniprogramme verfügbar"

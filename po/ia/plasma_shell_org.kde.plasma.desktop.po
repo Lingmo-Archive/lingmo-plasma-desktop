@@ -1,0 +1,365 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Giovanni Sora <g.sora@tiscali.it>, 2013, 2014, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-26 22:58+0100\n"
+"PO-Revision-Date: 2020-11-23 21:57+0100\n"
+"Last-Translator: Giovanni Sora <g.sora@tiscali.it>\n"
+"Language-Team: Interlingua <kde-i18n-doc@kde.org>\n"
+"Language: ia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: contents/activitymanager/ActivityItem.qml:225
+msgid "Currently being used"
+msgstr "Que es usate curentemente"
+
+#: contents/activitymanager/ActivityItem.qml:265
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Mova a\n"
+"iste activitate"
+
+#: contents/activitymanager/ActivityItem.qml:295
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Monstra anque\n"
+"in iste activitate"
+
+#: contents/activitymanager/ActivityItem.qml:355
+msgid "Configure"
+msgstr "Configura"
+
+#: contents/activitymanager/ActivityItem.qml:372
+msgid "Stop activity"
+msgstr "Stoppa activitate"
+
+#: contents/activitymanager/ActivityList.qml:155
+msgid "Stopped activities:"
+msgstr "Activitates stoppate:"
+
+#: contents/activitymanager/ActivityManager.qml:140
+msgid "Create activity..."
+msgstr "Crea activitate..."
+
+#: contents/activitymanager/Heading.qml:74
+msgid "Activities"
+msgstr "Activitates"
+
+#: contents/activitymanager/Heading.qml:89
+#: contents/explorer/WidgetExplorer.qml:243
+msgid "Search..."
+msgstr "Cerca..."
+
+#: contents/activitymanager/StoppedActivityItem.qml:146
+msgid "Configure activity"
+msgstr "Configura activitate "
+
+#: contents/activitymanager/StoppedActivityItem.qml:161
+msgid "Delete"
+msgstr "Dele"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "Invia un message de e-posta a  %1"
+
+#: contents/configuration/AboutPlugin.qml:95
+msgid "Copyright"
+msgstr "Copyright"
+
+#: contents/configuration/AboutPlugin.qml:115 contents/explorer/Tooltip.qml:106
+msgid "License:"
+msgstr "Licentia:"
+
+#: contents/configuration/AboutPlugin.qml:128
+msgid "Authors"
+msgstr "Autores"
+
+#: contents/configuration/AboutPlugin.qml:138
+msgid "Credits"
+msgstr "Gratias"
+
+#: contents/configuration/AboutPlugin.qml:149
+msgid "Translators"
+msgstr "Traductores"
+
+#: contents/configuration/AppletConfiguration.qml:53
+msgid "Keyboard Shortcuts"
+msgstr "Vias breve global de claviero"
+
+#: contents/configuration/AppletConfiguration.qml:130
+msgid "Apply Settings"
+msgstr "Applica Preferentias"
+
+#: contents/configuration/AppletConfiguration.qml:131
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Le preferentias del modulo currente ha cambiate.Tu vole applicar le "
+"variationes o rejectar los?"
+
+#: contents/configuration/AppletConfiguration.qml:219
+msgid "About"
+msgstr "A proposito"
+
+#: contents/configuration/AppletConfiguration.qml:433
+msgid "OK"
+msgstr "OK"
+
+#: contents/configuration/AppletConfiguration.qml:440
+msgid "Apply"
+msgstr "Applica"
+
+#: contents/configuration/AppletConfiguration.qml:446
+#: contents/explorer/AppletAlternatives.qml:185
+msgid "Cancel"
+msgstr "Cancella"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Left-Button"
+msgstr "Button sinistre"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Right-Button"
+msgstr "Button dextere"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Middle-Button"
+msgstr "Button de centro"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:34
+msgid "Back-Button"
+msgstr "Button de retro"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:35
+msgid "Forward-Button"
+msgstr "Button de avantiar"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:37
+msgid "Vertical-Scroll"
+msgstr "Rolar de lineas vertical"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:38
+msgid "Horizontal-Scroll"
+msgstr "Rolar Horizontalmente"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:40
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:41
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:42
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:43
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:83
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:163
+#: contents/configuration/MouseEventInputButton.qml:27
+msgid "Add Action"
+msgstr "Adde Action"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:75
+msgid "Layout changes have been restricted by the system administrator"
+msgstr ""
+"Modificationes de disposition ha essite restringite per le administrator de "
+"systema"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:90
+msgid "Layout:"
+msgstr "Disposition:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:105
+msgid "Wallpaper Type:"
+msgstr "Typo de Tapete de papiro:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:122
+msgid "Get New Plugins..."
+msgstr "Obtene nove plugins..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:140
+msgid "Layout changes must be applied before other changes can be made"
+msgstr ""
+"Cambiamentos  de disposition debe esser applicate ante altere modificationes "
+"pote esser facite"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:146
+msgid "Apply now"
+msgstr "Applica hora"
+
+#: contents/configuration/ConfigurationShortcuts.qml:39
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "Iste via breve activara le applet como si illo ha essite pulsate."
+
+#: contents/configuration/ContainmentConfiguration.qml:43
+msgid "Wallpaper"
+msgstr "Tapete de papiro"
+
+#: contents/configuration/ContainmentConfiguration.qml:48
+msgid "Mouse Actions"
+msgstr "Actiones de mus"
+
+#: contents/configuration/MouseEventInputButton.qml:34
+msgid "Input Here"
+msgstr "Inserta ci"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Screen Edge"
+msgstr "Limite de schermo"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:40
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr ""
+"Pulsa e trahe le button a un limite de schermo per mover le pannello hic."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:46
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:145
+msgid "Remove Panel"
+msgstr "Remove pannello"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Panel Alignment"
+msgstr "Alineamento de pannello"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Top"
+msgstr "Culmine"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Left"
+msgstr "Sinistra"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:74
+msgid "Center"
+msgstr "Centro"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Bottom"
+msgstr "Basso"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Right"
+msgstr "Dextera"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Visibility"
+msgstr "Visibilitate"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:103
+msgid "Always Visible"
+msgstr "Sempre visibile"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:111
+msgid "Auto Hide"
+msgstr "Auto-Cela"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:119
+msgid "Windows Can Cover"
+msgstr "Fenestras pote coperir"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:127
+msgid "Windows Go Below"
+msgstr "Fenestras va a basso"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:136
+msgid "Maximize Panel"
+msgstr "Maximisar pannello"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:34
+msgid "Add Widgets..."
+msgstr "Adde Widgets..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:35
+msgid "Add Spacer"
+msgstr "Adde spatiator"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:36
+msgid "More Options..."
+msgstr "Altere optiones..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel width:"
+msgstr "Largessa de Pannello:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel height:"
+msgstr "Altessa de pannello"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:197
+msgid "Close"
+msgstr "Claude"
+
+#: contents/explorer/AppletAlternatives.qml:83
+msgid "Alternative Widgets"
+msgstr "Widgets alternative"
+
+#: contents/explorer/AppletAlternatives.qml:174
+msgid "Switch"
+msgstr "Commuta"
+
+#: contents/explorer/AppletDelegate.qml:179
+msgid "Undo uninstall"
+msgstr "Annylla De-installa"
+
+#: contents/explorer/AppletDelegate.qml:180
+msgid "Uninstall widget"
+msgstr "De-installar Widget"
+
+#: contents/explorer/Tooltip.qml:115
+msgid "Author:"
+msgstr "Autor:"
+
+#: contents/explorer/Tooltip.qml:123
+msgid "Email:"
+msgstr "E-posta:"
+
+#: contents/explorer/Tooltip.qml:142
+msgid "Uninstall"
+msgstr "De-installa"
+
+#: contents/explorer/WidgetExplorer.qml:142
+#: contents/explorer/WidgetExplorer.qml:255
+msgid "All Widgets"
+msgstr "Omne Widgets"
+
+#: contents/explorer/WidgetExplorer.qml:217
+msgid "Widgets"
+msgstr "Widgets"
+
+#: contents/explorer/WidgetExplorer.qml:225
+msgid "Get New Widgets..."
+msgstr "Obtener Nove widgets ..."
+
+#: contents/explorer/WidgetExplorer.qml:254
+msgid "Categories"
+msgstr "Categorias"
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets matched the search terms"
+msgstr "Necun widgets coincideva con le terminos de cerca"
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets available"
+msgstr "Necun widgets disponibile"

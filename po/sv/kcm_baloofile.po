@@ -1,0 +1,122 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-15 02:24+0200\n"
+"PO-Revision-Date: 2020-06-11 07:06+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Stefan Asserhäll"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stefan.asserhall@bredband.net"
+
+#: kcm.cpp:54
+#, kde-format
+msgid "File Search"
+msgstr "Filsökning"
+
+#: kcm.cpp:56
+#, kde-format
+msgid "Copyright 2007-2010 Sebastian Trüg"
+msgstr "Copyright 2007-2010 Sebastian Trüg"
+
+#: kcm.cpp:58
+#, kde-format
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: kcm.cpp:59
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:60
+#, kde-format
+msgid "Tomaz Canabrava"
+msgstr "Tomaz Canabrava"
+
+#: package/contents/ui/main.qml:34
+#, kde-format
+msgid ""
+"This module lets you configure the file indexer and search functionality."
+msgstr "Modulen låter dig anpassa filindexering och sökfunktioner."
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid ""
+"File Search helps you quickly locate all your files based on their content."
+msgstr ""
+"Filsökning hjälper dig att snabbt lokalisera alla dina filer baserat på "
+"innehåll."
+
+#: package/contents/ui/main.qml:45
+#, kde-format
+msgid "Enable File Search"
+msgstr "Aktivera filsökning"
+
+#: package/contents/ui/main.qml:67
+#, kde-format
+msgid "Also index file content"
+msgstr "Indexera också filinnehåll"
+
+#: package/contents/ui/main.qml:79
+#, kde-format
+msgid "Index hidden files and folders"
+msgstr "Indexera dolda filer och kataloger"
+
+#: package/contents/ui/main.qml:96
+#, kde-format
+msgid "Folder specific configuration:"
+msgstr "Katalogspecifik inställning:"
+
+#: package/contents/ui/main.qml:121
+#, kde-format
+msgid "Add folder configuration..."
+msgstr "Lägg till kataloginställning..."
+
+#: package/contents/ui/main.qml:146
+#, kde-format
+msgid "Start indexing a folder..."
+msgstr "Starta indexering av en katalog..."
+
+#: package/contents/ui/main.qml:155
+#, kde-format
+msgid "Stop indexing a folder..."
+msgstr "Stoppa indexering av en katalog..."
+
+#: package/contents/ui/main.qml:206
+#, kde-format
+msgid "Not indexed"
+msgstr "Inte indexerad"
+
+#: package/contents/ui/main.qml:207
+#, kde-format
+msgid "Indexed"
+msgstr "Indexerad"
+
+#: package/contents/ui/main.qml:237
+#, kde-format
+msgid "Delete entry"
+msgstr "Ta bort post"
+
+#: package/contents/ui/main.qml:252
+#, kde-format
+msgid "Select a folder to filter"
+msgstr "Välj en katalog att filtrera"

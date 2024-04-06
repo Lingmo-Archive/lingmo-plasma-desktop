@@ -1,0 +1,197 @@
+# Traduction de kcmkded en Français
+# translation of kcmkded.po to Français
+# Copyright (C) 2002,2003, 2004, 2007, 2008 Free Software Foundation, Inc.
+# Gérard Delafond <gerard@delafond.org>, 2002.
+# Gilles CAULIER <caulier.gilles@free.fr>, 2003.
+# Matthieu Robin <kde@macolu.org>, 2003.
+# Matthieu Robin <kde@macolu.org>, 2004.
+# Nicolas Ternisien <nicolast@libertysurf.fr>, 2004.
+# Nicolas Ternisien <nicolas.ternisien@gmail.com>, 2007.
+# Guillaume Pujol <guill.p@gmail.com>, 2008.
+# Sébastien Renard <Sebastien.Renard@digitalfox.org>, 2008.
+# xavier <ktranslator31@yahoo.fr>, 2013.
+# Vincent Pinon <vpinon@kde.org>, 2016, 2017.
+# Simon Depiets <sdepiets@gmail.com>, 2020.
+# William Oprandi <william.oprandi@gmail.com>, 2020.
+# Xavier Besnard <xavier.besnard@neuf.fr>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkded\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-04 02:14+0200\n"
+"PO-Revision-Date: 2020-12-04 09:12+0100\n"
+"Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
+"Language-Team: FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.3\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+"Gérard Delafond, Gilles Caulier, Nicolas Ternisien, Vincent Pinon, Simon "
+"Depiets, Xavier Besnard"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"gerard@delafond.org, caulier.gilles@free.fr, nicolas.ternisien@gmail.com, "
+"vpinon@kde.org, sdepiets@gmail.com, xavier.besnard@neuf.fr"
+
+#: kcmkded.cpp:67
+#, kde-format
+msgid "Background Services"
+msgstr "Services d'arrière plan"
+
+#: kcmkded.cpp:69
+#, kde-format
+msgid "(c) 2002 Daniel Molkentin, (c) 2020 Kai Uwe Broulik"
+msgstr "(c) 2002 Daniel Molkentin, (c) 2020 Kai Uwe Broulik"
+
+#: kcmkded.cpp:71
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#: kcmkded.cpp:72
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: kcmkded.cpp:145
+#, kde-format
+msgid "Failed to stop service: %1"
+msgstr "Impossible d'arrêter le service : %1."
+
+#: kcmkded.cpp:147
+#, kde-format
+msgid "Failed to start service: %1"
+msgstr "Impossible de démarrer le service : %1."
+
+#: kcmkded.cpp:154
+#, kde-format
+msgid "Failed to stop service."
+msgstr "Impossible d'arrêter le service."
+
+#: kcmkded.cpp:156
+#, kde-format
+msgid "Failed to start service."
+msgstr "Impossible de démarrer le service."
+
+#: kcmkded.cpp:254
+#, kde-format
+msgid "Failed to notify KDE Service Manager (kded5) of saved changed: %1"
+msgstr ""
+"Échec de la notification au gestionnaire de service KDE (kded5) de la "
+"modification enregistrée : %1"
+
+#: package/contents/ui/main.qml:31
+#, kde-format
+msgid ""
+"<p>This module allows you to have an overview of all plugins of the KDE "
+"Daemon, also referred to as KDE Services. Generally, there are two types of "
+"service:</p> <ul><li>Services invoked at startup</li><li>Services called on "
+"demand</li></ul> <p>The latter are only listed for convenience. The startup "
+"services can be started and stopped. You can also define whether services "
+"should be loaded at startup.</p> <p><b>Use this with care: some services are "
+"vital for Plasma; do not deactivate services if you  do not know what you "
+"are doing.</b></p>"
+msgstr ""
+"<p>Ce module vous permet d'avoir un aperçu de tous les modules externes du "
+"démon KDE, aussi appelés services KDE. Il y a généralement deux types de "
+"services : </p> <ul><li>Services invoqués au démarrage</li><li>Services "
+"invoqués à la demande</li></ul> <p>Les derniers ne sont listés que par "
+"commodité. Les services au démarrage peuvent être démarrés et arrêtés. Vous "
+"pouvez aussi définir si les services doivent être lancés au démarrage.</p> "
+" <p><b> Utilisez ce module avec précautions. Certains services sont vitaux "
+"pour Plasma. Ne désactivez pas des services si vous ne savez pas ce que vous "
+"faites.</b></p>"
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid ""
+"The background services manager (kded5) is currently not running. Make sure "
+"it is installed correctly."
+msgstr ""
+"Le gestionnaire de services d'arrière plan «  » n'est pas actuellement "
+"lancé. Veuillez vous assurer qu'il est installé correctement."
+
+#: package/contents/ui/main.qml:57
+#, kde-format
+msgid ""
+"Some services disable themselves again when manually started if they are not "
+"useful in the current environment."
+msgstr ""
+"Certains services se désactivent d'eux même, à nouveau, quand lancés "
+"manuellement, s'il ne sont pas utilisent dans l'environnement courant."
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid ""
+"Some services were automatically started/stopped when the background "
+"services manager (kded5) was restarted to apply your changes."
+msgstr ""
+"Certains services ont été automatiquement démarrés / arrêtés quand le "
+"gestionnaire de service d'arrière plan « kded5 » a été relancé pour prendre "
+"en compte vos modifications."
+
+#: package/contents/ui/main.qml:108
+#, kde-format
+msgid "All Services"
+msgstr "Tous les services"
+
+#: package/contents/ui/main.qml:109
+#, kde-format
+msgctxt "List running services"
+msgid "Running"
+msgstr "Lancé"
+
+#: package/contents/ui/main.qml:110
+#, kde-format
+msgctxt "List not running services"
+msgid "Not Running"
+msgstr "Non lancé"
+
+#: package/contents/ui/main.qml:146
+#, kde-format
+msgid "Startup Services"
+msgstr "Services au démarrage"
+
+#: package/contents/ui/main.qml:147
+#, kde-format
+msgid "Load-on-Demand Services"
+msgstr "Services chargés à la demande"
+
+#: package/contents/ui/main.qml:164
+#, kde-format
+msgid "Toggle automatically loading this service on startup"
+msgstr "Basculer automatiquement le chargement de ce service au démarrage"
+
+#: package/contents/ui/main.qml:227
+#, kde-format
+msgid "Not running"
+msgstr "Non lancé"
+
+#: package/contents/ui/main.qml:228
+#, kde-format
+msgid "Running"
+msgstr "En fonctionnement"
+
+#: package/contents/ui/main.qml:247
+#, kde-format
+msgid "Stop Service"
+msgstr "Service avant arrêt"
+
+#: package/contents/ui/main.qml:247
+#, kde-format
+msgid "Start Service"
+msgstr "Service au démarrage"

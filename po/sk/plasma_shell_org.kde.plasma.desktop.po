@@ -1,0 +1,361 @@
+# translation of plasma_shell_org.kde.plasma.desktop.po to Slovak
+# Roman Paholik <wizzardsk@gmail.com>, 2014, 2015, 2016, 2017.
+# Mthw <jari_45@hotmail.com>, 2018, 2019.
+# Matej Mrenica <matejm98mthw@gmail.com>, 2019, 2020.
+# Dusan Kazik <prescott66@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_shell_org.kde.plasma.desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-26 22:58+0100\n"
+"PO-Revision-Date: 2020-08-07 15:03+0200\n"
+"Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
+"Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.07.90\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: contents/activitymanager/ActivityItem.qml:225
+msgid "Currently being used"
+msgstr "Aktuálne sa používa"
+
+#: contents/activitymanager/ActivityItem.qml:265
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Presunúť do\n"
+"tejto aktivity"
+
+#: contents/activitymanager/ActivityItem.qml:295
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Zobraziť aj\n"
+"v tejto aktivite"
+
+#: contents/activitymanager/ActivityItem.qml:355
+msgid "Configure"
+msgstr "Nastaviť"
+
+#: contents/activitymanager/ActivityItem.qml:372
+msgid "Stop activity"
+msgstr "Zastaviť aktivitu"
+
+#: contents/activitymanager/ActivityList.qml:155
+msgid "Stopped activities:"
+msgstr "Zastavené aktivity:"
+
+#: contents/activitymanager/ActivityManager.qml:140
+msgid "Create activity..."
+msgstr "Vytvoriť aktivitu..."
+
+#: contents/activitymanager/Heading.qml:74
+msgid "Activities"
+msgstr "Aktivity"
+
+#: contents/activitymanager/Heading.qml:89
+#: contents/explorer/WidgetExplorer.qml:243
+msgid "Search..."
+msgstr "Hľadať..."
+
+#: contents/activitymanager/StoppedActivityItem.qml:146
+msgid "Configure activity"
+msgstr "Nastaviť aktivitu"
+
+#: contents/activitymanager/StoppedActivityItem.qml:161
+msgid "Delete"
+msgstr "Vymazať"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "Odoslať email pre %1"
+
+#: contents/configuration/AboutPlugin.qml:95
+msgid "Copyright"
+msgstr "Copyright"
+
+#: contents/configuration/AboutPlugin.qml:115 contents/explorer/Tooltip.qml:106
+msgid "License:"
+msgstr "Licencia:"
+
+#: contents/configuration/AboutPlugin.qml:128
+msgid "Authors"
+msgstr "Autori"
+
+#: contents/configuration/AboutPlugin.qml:138
+msgid "Credits"
+msgstr "Poďakovania"
+
+#: contents/configuration/AboutPlugin.qml:149
+msgid "Translators"
+msgstr "Prekladatelia"
+
+#: contents/configuration/AppletConfiguration.qml:53
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové skratky"
+
+#: contents/configuration/AppletConfiguration.qml:130
+msgid "Apply Settings"
+msgstr "Použiť nastavenie"
+
+#: contents/configuration/AppletConfiguration.qml:131
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Nastavenia aktuálneho modulu sa zmenili. Chcete použiť zmeny alebo zahodiť "
+"ich?"
+
+#: contents/configuration/AppletConfiguration.qml:219
+msgid "About"
+msgstr "O"
+
+#: contents/configuration/AppletConfiguration.qml:433
+msgid "OK"
+msgstr "OK"
+
+#: contents/configuration/AppletConfiguration.qml:440
+msgid "Apply"
+msgstr "Použiť"
+
+#: contents/configuration/AppletConfiguration.qml:446
+#: contents/explorer/AppletAlternatives.qml:185
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Left-Button"
+msgstr "Ľavé tlačidlo"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Right-Button"
+msgstr "Pravé tlačidlo"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Middle-Button"
+msgstr "Stredné tlačidlo"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:34
+msgid "Back-Button"
+msgstr "Tlačidlo vzad"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:35
+msgid "Forward-Button"
+msgstr "Tlačidlo vpred"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:37
+msgid "Vertical-Scroll"
+msgstr "Vertikálny posun"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:38
+msgid "Horizontal-Scroll"
+msgstr "Horizontálny posun"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:40
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:41
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:42
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:43
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:83
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:163
+#: contents/configuration/MouseEventInputButton.qml:27
+msgid "Add Action"
+msgstr "Pridať akciu"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:75
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "Zmeny rozloženia boli zakázané systémovým administrátorom"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:90
+msgid "Layout:"
+msgstr "Rozloženie:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:105
+msgid "Wallpaper Type:"
+msgstr "Typ tapety:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:122
+msgid "Get New Plugins..."
+msgstr "Získať nové doplnky..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:140
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "Zmeny rozloženia sa musia použiť pred inými zmenami"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:146
+msgid "Apply now"
+msgstr "Použiť teraz"
+
+#: contents/configuration/ConfigurationShortcuts.qml:39
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "Táto skratka aktivuje applet tak ako keby bolo naň kliknuté."
+
+#: contents/configuration/ContainmentConfiguration.qml:43
+msgid "Wallpaper"
+msgstr "Tapeta"
+
+#: contents/configuration/ContainmentConfiguration.qml:48
+msgid "Mouse Actions"
+msgstr "Akcie myši"
+
+#: contents/configuration/MouseEventInputButton.qml:34
+msgid "Input Here"
+msgstr "Vstup sem"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Screen Edge"
+msgstr "Hrana obrazovky"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:40
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr "Kliknite a ťahajte tlačítko na okraj obrazovky na presun panela sem."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:46
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:145
+msgid "Remove Panel"
+msgstr "Odstrániť panel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Panel Alignment"
+msgstr "Zarovnanie panelu"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Top"
+msgstr "Vrch"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:63
+msgid "Left"
+msgstr "Vľavo"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:74
+msgid "Center"
+msgstr "Vycentrovať"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Bottom"
+msgstr "Spodok"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Right"
+msgstr "Vpravo"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Visibility"
+msgstr "Viditeľnosť"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:103
+msgid "Always Visible"
+msgstr "Vždy viditeľné"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:111
+msgid "Auto Hide"
+msgstr "Automaticky skrývať"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:119
+msgid "Windows Can Cover"
+msgstr "Okná môžu prekrývať"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:127
+msgid "Windows Go Below"
+msgstr "Okná idú pod"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:136
+msgid "Maximize Panel"
+msgstr "Maximalizovať panel"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:34
+msgid "Add Widgets..."
+msgstr "Pridať miniaplikácie..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:35
+msgid "Add Spacer"
+msgstr "Pridať medzeru"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:36
+msgid "More Options..."
+msgstr "Viac možností..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel width:"
+msgstr "Šírka panelu:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:112
+msgid "Panel height:"
+msgstr "Výška panela:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:197
+msgid "Close"
+msgstr "Zavrieť"
+
+#: contents/explorer/AppletAlternatives.qml:83
+msgid "Alternative Widgets"
+msgstr "Alternatívne miniaplikácie"
+
+#: contents/explorer/AppletAlternatives.qml:174
+msgid "Switch"
+msgstr "Prepnúť"
+
+#: contents/explorer/AppletDelegate.qml:179
+msgid "Undo uninstall"
+msgstr "Vrátiť odinštalovanie"
+
+#: contents/explorer/AppletDelegate.qml:180
+msgid "Uninstall widget"
+msgstr "Odinštalovať miniaplikáciu"
+
+#: contents/explorer/Tooltip.qml:115
+msgid "Author:"
+msgstr "Autor:"
+
+#: contents/explorer/Tooltip.qml:123
+msgid "Email:"
+msgstr "E-mail:"
+
+#: contents/explorer/Tooltip.qml:142
+msgid "Uninstall"
+msgstr "Odinštalovať"
+
+#: contents/explorer/WidgetExplorer.qml:142
+#: contents/explorer/WidgetExplorer.qml:255
+msgid "All Widgets"
+msgstr "Všetky miniaplikácie"
+
+#: contents/explorer/WidgetExplorer.qml:217
+msgid "Widgets"
+msgstr "Miniaplikácie"
+
+#: contents/explorer/WidgetExplorer.qml:225
+msgid "Get New Widgets..."
+msgstr "Získať nové miniaplikácie..."
+
+#: contents/explorer/WidgetExplorer.qml:254
+msgid "Categories"
+msgstr "Kategórie"
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets matched the search terms"
+msgstr "Žiadne miniaplikácie nevyhovujú hľadaným výrazom."
+
+#: contents/explorer/WidgetExplorer.qml:349
+msgid "No widgets available"
+msgstr "Žiadne miniaplikáciw nie sú dostupné"

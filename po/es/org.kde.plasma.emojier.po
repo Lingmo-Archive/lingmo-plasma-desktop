@@ -1,0 +1,77 @@
+# Spanish translations for org.kde.plasma.emojier.po package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Automatically generated, 2019.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: org\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-05 08:39+0100\n"
+"PO-Revision-Date: 2020-02-20 19:50+0100\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.12.2\n"
+
+#: emojier.cpp:329
+#, kde-format
+msgid "Emoji Selector"
+msgstr "Selector de emojis"
+
+#: emojier.cpp:330
+#, kde-format
+msgid "(C) 2019 Aleix Pol i Gonzalez"
+msgstr "© 2019 Aleix Pol i Gonzalez"
+
+#: emojier.cpp:332
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Eloy Cuadra"
+
+#: emojier.cpp:332
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ecuadra@eloihr.net"
+
+#: emojier.cpp:348
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Sustituir una instancia existente"
+
+#: ui/CategoryPage.qml:59
+#, kde-format
+msgid "Search..."
+msgstr "Buscar..."
+
+#: ui/emojier.qml:50
+#, kde-format
+msgid "%1 copied to the clipboard"
+msgstr "%1 copiado en el portapapeles"
+
+#: ui/emojier.qml:54 ui/emojier.qml:76
+#, kde-format
+msgid "Search"
+msgstr "Buscar"
+
+#: ui/emojier.qml:65
+#, kde-format
+msgid "Recent"
+msgstr "Recientes"
+
+#: ui/emojier.qml:87
+#, kde-format
+msgid "All"
+msgstr "Todas"
+
+#: ui/emojier.qml:94
+#, kde-format
+msgid "Categories"
+msgstr "Categorías"

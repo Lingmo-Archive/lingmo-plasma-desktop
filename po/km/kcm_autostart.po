@@ -1,0 +1,147 @@
+# translation of kcm_autostart.po to Khmer
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2008, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_autostart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-24 08:06+0100\n"
+"PO-Revision-Date: 2010-11-08 09:45+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម, អេង វណ្ណៈ, អោក ពិសិដ្ឋ"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "khoemsokhem@khmeros.info,evannak@khmeros.info,piseth_dv@khmeros.info"
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Autostart"
+msgstr ""
+
+#: autostart.cpp:37
+#, fuzzy, kde-format
+#| msgid "KDE Autostart Manager Control Panel Module"
+msgid "Session Autostart Manager Control Panel Module"
+msgstr "ម៉ូឌុល​បន្ទះ​ត្រួតពិនិត្យ​របស់​កម្មវិធី​គ្រប់គ្រង​ការ​ចាប់ផ្ដើម​ដោយ​ស្វ័យប្រវត្តិ​របស់ KDE"
+
+#: autostart.cpp:37
+#, fuzzy, kde-format
+#| msgid "Copyright © 2006–2010 Autostart Manager team"
+msgid "Copyright © 2006–2020 Autostart Manager team"
+msgstr "រក្សាសិទ្ធិ​ឆ្នាំ ២០០៦-២០១០ ដោយ​ក្រុម​កម្មវិធី​គ្រប់គ្រង​ការ​ចាប់ផ្ដើម​ដោយ​ស្វ័យ​ប្រវត្តិ"
+
+#: autostart.cpp:38
+#, kde-format
+msgid "Stephen Leaf"
+msgstr "Stephen Leaf"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Montel Laurent"
+msgstr "Montel Laurent"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Maintainer"
+msgstr "អ្នកថែទាំ"
+
+#: autostart.cpp:40
+#, kde-format
+msgid "Nicolas Fella"
+msgstr ""
+
+#: autostartmodel.cpp:312
+#, kde-format
+msgid "\"%1\" is not an absolute url."
+msgstr ""
+
+#: autostartmodel.cpp:315
+#, kde-format
+msgid "\"%1\" does not exist."
+msgstr ""
+
+#: autostartmodel.cpp:318
+#, kde-format
+msgid "\"%1\" is not a file."
+msgstr ""
+
+#: autostartmodel.cpp:321
+#, kde-format
+msgid "\"%1\" is not readable."
+msgstr ""
+
+#: package/contents/ui/main.qml:75
+#, fuzzy, kde-format
+#| msgid "&Properties"
+msgid "Properties"
+msgstr "លក្ខណៈសម្បត្តិ"
+
+#: package/contents/ui/main.qml:81
+#, fuzzy, kde-format
+#| msgid "&Remove"
+msgid "Remove"
+msgstr "យក​ចេញ"
+
+#: package/contents/ui/main.qml:92
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#: package/contents/ui/main.qml:95
+#, kde-format
+msgid "Login Scripts"
+msgstr ""
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Logout Scripts"
+msgstr ""
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Choose Startup Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:135
+#, kde-format
+msgid "Choose Logout Script"
+msgstr ""
+
+#: package/contents/ui/main.qml:153
+#, fuzzy, kde-format
+#| msgid "Advanced"
+msgid "Add..."
+msgstr "កម្រិតខ្ពស់"
+
+#: package/contents/ui/main.qml:179
+#, kde-format
+msgid "Add Application..."
+msgstr ""
+
+#: package/contents/ui/main.qml:185
+#, fuzzy, kde-format
+#| msgid "Add Script..."
+msgid "Add Login Script..."
+msgstr "បន្ថែម​ស្គ្រីប..."
+
+#: package/contents/ui/main.qml:191
+#, fuzzy, kde-format
+#| msgid "Add Script..."
+msgid "Add Logout Script..."
+msgstr "បន្ថែម​ស្គ្រីប..."

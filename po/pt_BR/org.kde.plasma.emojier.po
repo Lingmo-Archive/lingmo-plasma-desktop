@@ -1,0 +1,77 @@
+# Translation of org.kde.plasma.emojier.po to Brazilian Portuguese
+# Copyright (C) 2019-2020 This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# André Marcelo Alvarenga <alvarenga@kde.org>, 2019, 2020.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-05 08:39+0100\n"
+"PO-Revision-Date: 2020-02-21 10:51-0300\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
+"Language-Team: Portuguese <kde-i18n-pt_BR@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 19.12.2\n"
+
+#: emojier.cpp:329
+#, kde-format
+msgid "Emoji Selector"
+msgstr "Seletor de Emoji"
+
+#: emojier.cpp:330
+#, kde-format
+msgid "(C) 2019 Aleix Pol i Gonzalez"
+msgstr "(C) 2019 Aleix Pol i Gonzalez"
+
+#: emojier.cpp:332
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "André Marcelo Alvarenga"
+
+#: emojier.cpp:332
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "alvarenga@kde.org"
+
+#: emojier.cpp:348
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Substituir uma instância existente"
+
+#: ui/CategoryPage.qml:59
+#, kde-format
+msgid "Search..."
+msgstr "Pesquisar..."
+
+#: ui/emojier.qml:50
+#, kde-format
+msgid "%1 copied to the clipboard"
+msgstr "%1 copiado para a área de transferência"
+
+#: ui/emojier.qml:54 ui/emojier.qml:76
+#, kde-format
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ui/emojier.qml:65
+#, kde-format
+msgid "Recent"
+msgstr "Recentes"
+
+#: ui/emojier.qml:87
+#, kde-format
+msgid "All"
+msgstr "Tudo"
+
+#: ui/emojier.qml:94
+#, kde-format
+msgid "Categories"
+msgstr "Categorias"

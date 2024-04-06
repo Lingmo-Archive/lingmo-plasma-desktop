@@ -1,0 +1,6 @@
+fix-baloo-compilation
+offer-to-change-kwallet-password-when-changing-login-password
+upstream_5.21+lts_folder_view_de-duplicate_switch_width_height_logic.patch
+upstream_5.21+lts_folder_view_Fix_display_on_not-skinny_vertical_panels.patch
+upstream-1be25dec-fix-crash-deleting-from-activity-manager.patch
+plasma-desktop-dns.patch

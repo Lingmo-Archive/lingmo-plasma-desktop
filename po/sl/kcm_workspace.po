@@ -1,0 +1,149 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrej Mernik <andrejm@ubuntu.si>, 2014, 2017, 2018.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-11 02:28+0200\n"
+"PO-Revision-Date: 2020-07-07 10:05+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Lokalize 19.12.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrej Mernik,Matjaž Jeran"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "andrejm@ubuntu.si,matjaz.jeran@amis.net"
+
+#: package/contents/ui/main.qml:38
+#, kde-format
+msgid "Visual behavior:"
+msgstr "Vizualno obnašanje:"
+
+#. i18n: ectx: label, entry (delay), group (PlasmaToolTips)
+#: package/contents/ui/main.qml:39 workspaceoptions_plasmasettings.kcfg:9
+#, kde-format
+msgid "Display informational tooltips on mouse hover"
+msgstr "Prikaži informativne orodne namige ob prehodu miške"
+
+#. i18n: ectx: label, entry (osdEnabled), group (OSD)
+#: package/contents/ui/main.qml:57 workspaceoptions_plasmasettings.kcfg:15
+#, kde-format
+msgid "Display visual feedback for status changes"
+msgstr "Prikaži vidni odziv na spremembe stanja"
+
+#: package/contents/ui/main.qml:75
+#, kde-format
+msgid "Animation speed:"
+msgstr "Hitrost animacije:"
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgctxt "Animation speed"
+msgid "Slow"
+msgstr "Počasi"
+
+#: package/contents/ui/main.qml:111
+#, kde-format
+msgctxt "Animation speed"
+msgid "Instant"
+msgstr "Trenutno"
+
+#: package/contents/ui/main.qml:126
+#, kde-format
+msgid "Click behavior:"
+msgstr "Obnašanje klika:"
+
+#: package/contents/ui/main.qml:127
+#, kde-format
+msgid "Single-click to open files and folders"
+msgstr "Enojni klik za odpiranje datotek in map"
+
+#: package/contents/ui/main.qml:140
+#, kde-format
+msgid "Double-click to open files and folders"
+msgstr "Dvojni klik za odpiranje datotek in map"
+
+#: package/contents/ui/main.qml:154
+#, kde-format
+msgid "Select by clicking on item's selection marker"
+msgstr "Izbira s klikom na marker označevanje predmeta"
+
+#: package/contents/ui/main.qml:154
+#, kde-format
+msgid "Select by single-clicking"
+msgstr "Izbira z enojnim klikom"
+
+#: package/contents/ui/main.qml:169
+#, kde-format
+msgid "Clicking in scrollbar track:"
+msgstr "Klik v drsnik:"
+
+#: package/contents/ui/main.qml:170
+#, kde-format
+msgctxt ""
+"@radio part of a complete sentence: 'Clicking in scrollbar track scrolls one "
+"page up or down'"
+msgid "Scrolls one page up or down"
+msgstr "Drsi en zaslon gor ali dol"
+
+#: package/contents/ui/main.qml:183
+#, kde-format
+msgctxt ""
+"@radio part of a complete sentence: 'Clicking in scrollbar track scrolls to "
+"the clicked location'"
+msgid "Scrolls to the clicked location"
+msgstr "Drsne na s klikom označeno mesto"
+
+#: package/contents/ui/main.qml:202
+#, kde-format
+msgid "Middle-click to scroll to clicked location"
+msgstr "Srednji klik za zdrs na s klikom označeno mesto"
+
+#: workspaceoptions.cpp:44
+#, kde-format
+msgid "General Behavior"
+msgstr "Splošno obnašanje"
+
+#: workspaceoptions.cpp:46
+#, kde-format
+msgid "System Settings module for configuring general workspace behavior."
+msgstr "Modul sistemskih nastavitev splošnega obnašanja delovnega prostora."
+
+#: workspaceoptions.cpp:49
+#, kde-format
+msgid "Furkan Tokac"
+msgstr "Furkan Tokac"
+
+#. i18n: ectx: label, entry (singleClick), group (KDE)
+#: workspaceoptions_kdeglobalssettings.kcfg:9
+#, kde-format
+msgid "Single click to open files"
+msgstr "Enojni klik za odpiranje datotek"
+
+#. i18n: ectx: label, entry (animationDurationFactor), group (KDE)
+#: workspaceoptions_kdeglobalssettings.kcfg:13
+#, kde-format
+msgid "Animation speed"
+msgstr "Hitrost animacije"
+
+#. i18n: ectx: label, entry (scrollbarLeftClickNavigatesByPage), group (KDE)
+#: workspaceoptions_kdeglobalssettings.kcfg:17
+#, kde-format
+msgid "Left-click in scrollbar track moves scrollbar by one page"
+msgstr "Levi klik v drsnik premakne drsnik za eno stran"

@@ -1,0 +1,62 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Xəyyam Qocayev <xxmn77@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-05-09 04:01+0200\n"
+"PO-Revision-Date: 2020-07-05 23:08+0400\n"
+"Last-Translator: Xəyyam Qocayev <xxmn77@gmail.com>\n"
+"Language-Team: Azerbaijani <kde-i18n-doc@kde.org>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#: applet/qml/contents/ui/touchpad.qml:50
+#, kde-format
+msgid "No touchpad was found"
+msgstr "Toxunma paneli tapılmadı"
+
+#: applet/qml/contents/ui/touchpad.qml:52
+#, kde-format
+msgid "Touchpad is enabled"
+msgstr "Toxunma paneli aktivdir"
+
+#: applet/qml/contents/ui/touchpad.qml:54
+#, kde-format
+msgid "Touchpad is disabled"
+msgstr "Toxunma paneli söndürülüb"
+
+#: applet/qml/contents/ui/touchpad.qml:66
+#, kde-format
+msgid "Disable touchpad"
+msgstr "Toxunma panelini söndürmək"
+
+#: applet/qml/contents/ui/touchpad.qml:66
+#, kde-format
+msgid "Enable touchpad"
+msgstr "Toxunma panelini aktiv etmək"
+
+#: applet/qml/contents/ui/touchpad.qml:149
+#, kde-format
+msgid "Touchpad"
+msgstr "Toxunma Paneli"
+
+#: applet/qml/contents/ui/touchpad.qml:151
+#, kde-format
+msgid ""
+"No mouse was detected.\n"
+"Are you sure you want to disable the touchpad?"
+msgstr ""
+"Siçan aşkar edilmədi.\n"
+"Toxunma panelini söndürmək istədiyinizə əminsiniz?"
+
+#: applet/qml/contents/ui/touchpad.qml:152
+#, kde-format
+msgid "Disable"
+msgstr "Söndürmək"

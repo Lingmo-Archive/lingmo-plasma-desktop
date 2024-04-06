@@ -1,0 +1,88 @@
+# translation of kcmcomponentchooser.po to Italian
+# Copyright (C) 2003, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
+# Andrea Rizzi <rizzi@kde.org>, 2003, 2004, 2005, 2007.
+# Andrea RIZZI <arizzi@pi.infn.it>, 2004.
+# Giovanni Venturi <jumpyj@tiscali.it>, 2006.
+# Nico Caprioli <nico.caprioli@gmail.com>, 2009.
+# Andrea Celli <andrea.celli@libero.it>, 2009.
+# Federico Zenith <federico.zenith@member.fsf.org>, 2009.
+# Luigi Toscano <luigi.toscano@tiscali.it>, 2016.
+# Vincenzo Reale <smart2128@baslug.org>, 2017, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-13 02:26+0200\n"
+"PO-Revision-Date: 2020-07-06 07:17+0200\n"
+"Last-Translator: Vincenzo Reale <smart2128@baslug.org>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Vincenzo Reale,Federico Zenith,Nico Caprioli"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "smart2128@baslug.org,,"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr "Browser web predefinito"
+
+#: componentchooser.cpp:54
+#, kde-format
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+#: componentchooser.cpp:57
+#, kde-format
+msgctxt "The label for the combobox: browser, terminal emulator...)"
+msgid "%1:"
+msgstr "%1:"
+
+#: componentchooserbrowser.cpp:100 componentchooseremail.cpp:89
+#: componentchooserfilemanager.cpp:109 componentchooserterminal.cpp:83
+#, kde-format
+msgid "Other..."
+msgstr "Altro..."
+
+#: componentchooserfilemanager.cpp:43
+#, kde-format
+msgid "Select preferred file manager:"
+msgstr "Seleziona il gestore di file preferito:"
+
+#: componentchooserterminal.cpp:114
+#, kde-format
+msgid "Select preferred terminal application:"
+msgstr "Seleziona l'emulatore di terminale preferito:"
+
+#: kcm_componentchooser.cpp:42
+#, kde-format
+msgid "Component Chooser"
+msgstr "Scelta dei componenti"
+
+#: kcm_componentchooser.cpp:44
+#, kde-format
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "© 2002 Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:46
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:47
+#, kde-format
+msgid "Méven Car"
+msgstr "Méven Car"

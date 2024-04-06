@@ -1,0 +1,541 @@
+# translation of kcminput.po to Estonian
+# Copyright (C) 2002, 2003 Free Software Foundation, Inc.
+#
+# Hasso Tepper <hasso@linux.ee>, 1999.
+# Hasso Tepper <hasso@estpak.ee>, 2002.
+# Marek Laane <bald@starman.ee>, 2003-2008.
+# Marek Laane <bald@smail.ee>, 2010, 2011, 2016, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcminput\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-09 02:15+0200\n"
+"PO-Revision-Date: 2020-04-10 19:47+0300\n"
+"Last-Translator: Marek Laane <qiilaq69@gmail.com>\n"
+"Language-Team: Estonian <kde-et@lists.linux.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.12.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Hasso Tepper, Marek Laane"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "hasso@estpak.ee, qiilaq69@gmail.com"
+
+#: backends/kwin_wl/kwin_wl_backend.cpp:76
+#, kde-format
+msgid "Querying input devices failed. Please reopen this settings module."
+msgstr "Sisendseadmete otsing nurjus. Palun ava seadistusmoodul."
+
+#: backends/kwin_wl/kwin_wl_backend.cpp:96
+#, kde-format
+msgid "Critical error on reading fundamental device infos of %1."
+msgstr "Kriitiline tõrge %1 põhilise seadmeinfo lugemisel."
+
+#: kcm/libinput/libinput_config.cpp:47
+#, kde-format
+msgid "Pointer device KCM"
+msgstr "Osutusseadme jutimismoodul"
+
+#: kcm/libinput/libinput_config.cpp:49
+#, kde-format
+msgid "System Settings module for managing mice and trackballs."
+msgstr "Süsteemi seadistuste moodul hiirte haldamiseks"
+
+#: kcm/libinput/libinput_config.cpp:51
+#, kde-format
+msgid "Copyright 2018 Roman Gilg"
+msgstr "Autoriõigus 2018: Roman Gilg"
+
+#: kcm/libinput/libinput_config.cpp:54 kcm/xlib/xlib_config.cpp:106
+#, kde-format
+msgid "Roman Gilg"
+msgstr "Roman Gilg"
+
+#: kcm/libinput/libinput_config.cpp:55
+#, kde-format
+msgid "Developer"
+msgstr "Arendaja"
+
+#: kcm/libinput/libinput_config.cpp:126
+#, kde-format
+msgid ""
+"Error while loading values. See logs for more information. Please restart "
+"this configuration module."
+msgstr ""
+"Tõrge väärtuste laadimisel. Täpsemat teavet annab logi. Palun käivita see "
+"seadistusmoodul uuesti."
+
+#: kcm/libinput/libinput_config.cpp:131
+#, kde-format
+msgid "No pointer device found. Connect now."
+msgstr "Osutusseadet ei leitud. Ühenda see nüüd."
+
+#: kcm/libinput/libinput_config.cpp:142
+#, kde-format
+msgid ""
+"Not able to save all changes. See logs for more information. Please restart "
+"this configuration module and try again."
+msgstr ""
+"Kõiki muudatusi ei õnnestunud salvestada. Täpsemat teavet annab logi. Palunn "
+"käivita see seadistusmoodul uuesti ja proovi veel."
+
+#: kcm/libinput/libinput_config.cpp:162
+#, kde-format
+msgid ""
+"Error while loading default values. Failed to set some options to their "
+"default values."
+msgstr ""
+"Tõrge vaikeväärtuste laadimisel. Mõnele valikule vaikimisi väärtuse "
+"määramine nurjus."
+
+#: kcm/libinput/libinput_config.cpp:184
+#, kde-format
+msgid ""
+"Error while adding newly connected device. Please reconnect it and restart "
+"this configuration module."
+msgstr ""
+"Tõrge äsja ühendatud seadme lisamisel. Palun ühenda see uuesti ja käivita "
+"see seadistusmoodul veel kord."
+
+#: kcm/libinput/libinput_config.cpp:208
+#, kde-format
+msgid "Pointer device disconnected. Closed its setting dialog."
+msgstr "Osutusseade on lahutatud. Seadistustedialoog suletakse."
+
+#: kcm/libinput/libinput_config.cpp:210
+#, kde-format
+msgid "Pointer device disconnected. No other devices found."
+msgstr "Osutusseade on lahutatud. Teisi seadmeid ei leitud."
+
+#: kcm/libinput/main.qml:88
+#, kde-format
+msgid "Device:"
+msgstr "Seade:"
+
+#: kcm/libinput/main.qml:114 kcm/libinput/main_deviceless.qml:66
+#, kde-format
+msgid "General:"
+msgstr "Üldine:"
+
+#: kcm/libinput/main.qml:116
+#, kde-format
+msgid "Device enabled"
+msgstr "Seadme lubamine"
+
+#: kcm/libinput/main.qml:135
+#, kde-format
+msgid "Accept input through this device."
+msgstr "Sisendi lubamine selle seadme abil."
+
+#: kcm/libinput/main.qml:141 kcm/libinput/main_deviceless.qml:68
+#, kde-format
+msgid "Left handed mode"
+msgstr "Vasaku käe režiim"
+
+#: kcm/libinput/main.qml:160 kcm/libinput/main_deviceless.qml:87
+#, kde-format
+msgid "Swap left and right buttons."
+msgstr "Vasaku ja parema nupu vahetamine."
+
+#: kcm/libinput/main.qml:166 kcm/libinput/main_deviceless.qml:93
+#, kde-format
+msgid "Press left and right buttons for middle-click"
+msgstr "Vasaku ja parema nupu klõps asendab keskmise nupu klõpsu"
+
+#: kcm/libinput/main.qml:185 kcm/libinput/main_deviceless.qml:112
+#, kde-format
+msgid ""
+"Clicking left and right button simultaneously sends middle button click."
+msgstr ""
+"Korraga vasakule ja paremale nupule vajutamine võrdub keskmise nupu klõpsuga."
+
+#: kcm/libinput/main.qml:195 kcm/libinput/main_deviceless.qml:122
+#, kde-format
+msgid "Pointer speed:"
+msgstr "Osutusseadme kiirus:"
+
+#: kcm/libinput/main.qml:227 kcm/libinput/main_deviceless.qml:154
+#, kde-format
+msgid "Acceleration profile:"
+msgstr "Kiirendusprofiil:"
+
+#: kcm/libinput/main.qml:258 kcm/libinput/main_deviceless.qml:185
+#, kde-format
+msgid "Flat"
+msgstr "Ühtlane"
+
+#: kcm/libinput/main.qml:261 kcm/libinput/main_deviceless.qml:188
+#, kde-format
+msgid "Cursor moves the same distance as the mouse movement."
+msgstr "Kursor liigub sama palju nagu hiir."
+
+#: kcm/libinput/main.qml:268 kcm/libinput/main_deviceless.qml:195
+#, kde-format
+msgid "Adaptive"
+msgstr "Kohanduv"
+
+#: kcm/libinput/main.qml:271 kcm/libinput/main_deviceless.qml:198
+#, kde-format
+msgid "Cursor travel distance depends on the mouse movement speed."
+msgstr "Kursori liikumiskaugus sõltub hiire liigutamise kiirusest."
+
+#: kcm/libinput/main.qml:283 kcm/libinput/main_deviceless.qml:210
+#, kde-format
+msgid "Scrolling:"
+msgstr "Kerimine:"
+
+#: kcm/libinput/main.qml:285 kcm/libinput/main_deviceless.qml:212
+#, kde-format
+msgid "Invert scroll direction"
+msgstr "Teistpidi kerimissuund"
+
+#: kcm/libinput/main.qml:300 kcm/libinput/main_deviceless.qml:227
+#, kde-format
+msgid "Touchscreen like scrolling."
+msgstr "Nagu puuteekraanil kerimine."
+
+#: kcm/libinput/main.qml:306
+#, kde-format
+msgid "Scrolling speed:"
+msgstr "Kerimiskiirus:"
+
+#: kcm/libinput/main.qml:354
+#, kde-format
+msgctxt "Slower Scroll"
+msgid "Slower"
+msgstr "Aeglasem"
+
+#: kcm/libinput/main.qml:360
+#, kde-format
+msgctxt "Faster Scroll Speed"
+msgid "Faster"
+msgstr "Kiirem"
+
+#. i18n: ectx: property (whatsThis), widget (QWidget, KCMMouse)
+#: kcm/xlib/kcmmouse.ui:14
+#, kde-format
+msgid ""
+"<h1>Mouse</h1> This module allows you to choose various options for the way "
+"in which your pointing device works. Your pointing device may be a mouse, "
+"trackball, or some other hardware that performs a similar function."
+msgstr ""
+"<h1>Hiir</h1>Selle mooduli abil saab kontrollida, kuidas töötab sinu "
+"osutamisseade. Osutamisseade võib olla hiir, juhtkuul või mõni muu "
+"riistvara, mis täidab sarnast funktsiooni."
+
+#. i18n: ectx: attribute (title), widget (QWidget, generalTab)
+#: kcm/xlib/kcmmouse.ui:36
+#, kde-format
+msgid "&General"
+msgstr "Ül&dine"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, handedBox)
+#: kcm/xlib/kcmmouse.ui:52
+#, kde-format
+msgid ""
+"If you are left-handed, you may prefer to swap the functions of the left and "
+"right buttons on your pointing device by choosing the 'left-handed' option. "
+"If your pointing device has more than two buttons, only those that function "
+"as the left and right buttons are affected. For example, if you have a three-"
+"button mouse, the middle button is unaffected."
+msgstr ""
+"Kui oled vasakukäeline, siis võid eelistada hiire vasaku ja parema nupu "
+"funktsioonide vahetamist, valides siin \"vasakukäelise\" hiire. Kui su "
+"hiirel on rohkem kui kaks nuppu, mõjutab see valik ainult hiire paremat ja "
+"vasakut. Kui hiirel on näiteks kolm nuppu, ei mõjuta see valik mingil moel "
+"keskmise nupu tööd."
+
+#. i18n: ectx: property (title), widget (QGroupBox, handedBox)
+#: kcm/xlib/kcmmouse.ui:55
+#, kde-format
+msgid "Button Order"
+msgstr "Nuppude asetus"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rightHanded)
+#: kcm/xlib/kcmmouse.ui:64
+#, kde-format
+msgid "Righ&t handed"
+msgstr "Paremakäel&ine"
+
+#. i18n: ectx: property (text), widget (QRadioButton, leftHanded)
+#: kcm/xlib/kcmmouse.ui:77
+#, kde-format
+msgid "Le&ft handed"
+msgstr "Vasakukäeli&ne"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbScrollPolarity)
+#: kcm/xlib/kcmmouse.ui:106
+#, kde-format
+msgid ""
+"Change the direction of scrolling for the mouse wheel or the 4th and 5th "
+"mouse buttons."
+msgstr "Muudab hiireratta või 4. ja 5. hiirenupuga antavat kerimissuunda."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbScrollPolarity)
+#: kcm/xlib/kcmmouse.ui:109
+#, kde-format
+msgid "Re&verse scroll direction"
+msgstr "Kerimissuuna &vahetamine"
+
+#. i18n: ectx: attribute (title), widget (QWidget, advancedTab)
+#: kcm/xlib/kcmmouse.ui:156
+#, kde-format
+msgid "Advanced"
+msgstr "Muud"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kcm/xlib/kcmmouse.ui:164
+#, kde-format
+msgid "Pointer acceleration:"
+msgstr "Kursori kiirendus:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: kcm/xlib/kcmmouse.ui:174
+#, kde-format
+msgid "Pointer threshold:"
+msgstr "Kursori lävi:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kcm/xlib/kcmmouse.ui:184
+#, kde-format
+msgid "Double click interval:"
+msgstr "Topeltklõpsu intervall:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kcm/xlib/kcmmouse.ui:194
+#, kde-format
+msgid "Drag start time:"
+msgstr "Lohistamise käivitamise aeg:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: kcm/xlib/kcmmouse.ui:204
+#, kde-format
+msgid "Drag start distance:"
+msgstr "Lohistamise käivitamise distants:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: kcm/xlib/kcmmouse.ui:214
+#, kde-format
+msgid "Mouse wheel scrolls by:"
+msgstr "Hiire ratas kerib:"
+
+#. i18n: ectx: property (whatsThis), widget (QDoubleSpinBox, accel)
+#: kcm/xlib/kcmmouse.ui:230
+#, kde-format
+msgid ""
+"<p>This option allows you to change the relationship between the distance "
+"that the mouse pointer moves on the screen and the relative movement of the "
+"physical device itself (which may be a mouse, trackball, or some other "
+"pointing device.)</p><p> A high value for the acceleration will lead to "
+"large movements of the mouse pointer on the screen even when you only make a "
+"small movement with the physical device. Selecting very high values may "
+"result in the mouse pointer flying across the screen, making it hard to "
+"control.</p>"
+msgstr ""
+"<p>Siin saab muuta vahemaa, mille läbib kursor ekraanil, ja tegeliku seadme "
+"(hiir, juhtkuul vms.) suhtelise liikumise vahelist suhet.</p><p> Mida suurem "
+"on kiirenduse väärtus, seda suurema vahemaa läbib kursor ekraanil füüsilise "
+"seadme sama liikumise juures. Väga suure väärtuse valimine võib lõppeda "
+"kursori lendamisega mööda ekraani, mis teeb selle kontrollimise võimatuks.</"
+"p>"
+
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, accel)
+#: kcm/xlib/kcmmouse.ui:233
+#, kde-format
+msgid " x"
+msgstr " x"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, thresh)
+#: kcm/xlib/kcmmouse.ui:261
+#, kde-format
+msgid ""
+"<p>The threshold is the smallest distance that the mouse pointer must move "
+"on the screen before acceleration has any effect. If the movement is smaller "
+"than the threshold, the mouse pointer moves as if the acceleration was set "
+"to 1X;</p><p> thus, when you make small movements with the physical device, "
+"there is no acceleration at all, giving you a greater degree of control over "
+"the mouse pointer. With larger movements of the physical device, you can "
+"move the mouse pointer rapidly to different areas on the screen.</p>"
+msgstr ""
+"<p>Lävi on väikseim teekond, mille peab kursor ekraanil läbima, enne kui "
+"kiirendus toimima hakkab. Kui liikumine on väiksem kui lävi, liigub kursor "
+"nii, nagu oleks kiirendus seatud 1x peale.</p><p> Niisiis, kui teed "
+"füüsilise seadmega väikseid liigutusi, ei rakendata üldse kiirendust, andes "
+"sulle suurema kontrolli hiirekursori üle. Füüsilise seadme suurema liikumise "
+"puhul saad liigutada kursorit kiirelt ekraani erinevate piirkondade vahel.</"
+"p>"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, doubleClickInterval)
+#: kcm/xlib/kcmmouse.ui:280
+#, kde-format
+msgid ""
+"The double click interval is the maximal time (in milliseconds) between two "
+"mouse clicks which turns them into a double click. If the second click "
+"happens later than this time interval after the first click, they are "
+"recognized as two separate clicks."
+msgstr ""
+"Topeltklõpsu intervall on maksimaalne aeg (millisekundites) kahe hiireklõpsu "
+"vahel, mille puhul tõlgendatakse neid topeltklõpsuna. Kui teine klõps toimub "
+"pärast esimest klõpsu hiljem kui siin määratud intervall, tõlgendatakse neid "
+"kahe eraldi klõpsuna."
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, doubleClickInterval)
+#. i18n: ectx: property (suffix), widget (QSpinBox, dragStartTime)
+#. i18n: ectx: property (suffix), widget (QSpinBox, mk_delay)
+#. i18n: ectx: property (suffix), widget (QSpinBox, mk_interval)
+#. i18n: ectx: property (suffix), widget (QSpinBox, mk_time_to_max)
+#: kcm/xlib/kcmmouse.ui:283 kcm/xlib/kcmmouse.ui:311 kcm/xlib/kcmmouse.ui:408
+#: kcm/xlib/kcmmouse.ui:450 kcm/xlib/kcmmouse.ui:482
+#, kde-format
+msgid " msec"
+msgstr " ms"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, dragStartTime)
+#: kcm/xlib/kcmmouse.ui:308
+#, kde-format
+msgid ""
+"If you click with the mouse (e.g. in a multi-line editor) and begin to move "
+"the mouse within the drag start time, a drag operation will be initiated."
+msgstr ""
+"Kui klõpsad hiirega (nt. mitmerealises redaktoris) ja hakkad hiirt liigutama "
+"lohistamise käivitamise aja jooksul, käivitatakse lohistamise protsess."
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, dragStartDist)
+#: kcm/xlib/kcmmouse.ui:333
+#, kde-format
+msgid ""
+"If you click with the mouse and begin to move the mouse at least the drag "
+"start distance, a drag operation will be initiated."
+msgstr ""
+"Kui teed hiirega klõpsu ja liigutad hiirt vähemalt lohistamise käivitamise "
+"distantsi võrra, käivitatakse lohistamise protsess."
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, wheelScrollLines)
+#: kcm/xlib/kcmmouse.ui:355
+#, kde-format
+msgid ""
+"If you use the wheel of a mouse, this value determines the number of lines "
+"to scroll for each wheel movement. Note that if this number exceeds the "
+"number of visible lines, it will be ignored and the wheel movement will be "
+"handled as a page up/down movement."
+msgstr ""
+"Kui kasutad hiire ratast, määrab see väärtus, mitme rea võrra vaadet iga "
+"ratta liigutusega liigutatakse. Arvesta, et kui see number on suurem kui "
+"vaates nähtav ala, siis seda ignoreeritakse ning ratta liigutamist "
+"tõlgendatakse lehekülje võrra üles/alla liikumisena."
+
+#. i18n: ectx: attribute (title), widget (QWidget, MouseNavigation)
+#: kcm/xlib/kcmmouse.ui:387
+#, kde-format
+msgid "Keyboard Navigation"
+msgstr "Klaviatuuriga liikumine"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mouseKeys)
+#: kcm/xlib/kcmmouse.ui:395
+#, kde-format
+msgid "&Move pointer with keyboard (using the num pad)"
+msgstr "Hiire liigutamine nu&mbriklaviatuuriga"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: kcm/xlib/kcmmouse.ui:424
+#, kde-format
+msgid "&Acceleration delay:"
+msgstr "&Kiirenduse viivitus:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: kcm/xlib/kcmmouse.ui:434
+#, kde-format
+msgid "R&epeat interval:"
+msgstr "Ko&rduse intervall:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: kcm/xlib/kcmmouse.ui:466
+#, kde-format
+msgid "Acceleration &time:"
+msgstr "Kiiren&duse aeg:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: kcm/xlib/kcmmouse.ui:498
+#, kde-format
+msgid "Ma&ximum speed:"
+msgstr "&Maksimaalne kiirus:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, mk_max_speed)
+#: kcm/xlib/kcmmouse.ui:514
+#, kde-format
+msgid " pixel/sec"
+msgstr " pikslit/sek"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: kcm/xlib/kcmmouse.ui:530
+#, kde-format
+msgid "Acceleration &profile:"
+msgstr "Kiirenduse &profiil:"
+
+#: kcm/xlib/xlib_config.cpp:95
+#, kde-format
+msgid "Mouse"
+msgstr "Hiir"
+
+#: kcm/xlib/xlib_config.cpp:98
+#, kde-format
+msgid "(c) 1997 - 2018 Mouse developers"
+msgstr "(c) 1997 - 2018: hiiremooduli arendajad"
+
+#: kcm/xlib/xlib_config.cpp:99
+#, kde-format
+msgid "Patrick Dowler"
+msgstr "Patrick Dowler"
+
+#: kcm/xlib/xlib_config.cpp:100
+#, kde-format
+msgid "Dirk A. Mueller"
+msgstr "Dirk A. Mueller"
+
+#: kcm/xlib/xlib_config.cpp:101
+#, kde-format
+msgid "David Faure"
+msgstr "David Faure"
+
+#: kcm/xlib/xlib_config.cpp:102
+#, kde-format
+msgid "Bernd Gehrmann"
+msgstr "Bernd Gehrmann"
+
+#: kcm/xlib/xlib_config.cpp:103
+#, kde-format
+msgid "Rik Hemsley"
+msgstr "Rik Hemsley"
+
+#: kcm/xlib/xlib_config.cpp:104
+#, kde-format
+msgid "Brad Hughes"
+msgstr "Brad Hughes"
+
+#: kcm/xlib/xlib_config.cpp:105
+#, kde-format
+msgid "Brad Hards"
+msgstr "Brad Hards"
+
+#: kcm/xlib/xlib_config.cpp:302 kcm/xlib/xlib_config.cpp:307
+#, kde-format
+msgid " pixel"
+msgid_plural " pixels"
+msgstr[0] " piksel"
+msgstr[1] " pikslit"
+
+#: kcm/xlib/xlib_config.cpp:312
+#, kde-format
+msgid " line"
+msgid_plural " lines"
+msgstr[0] " rida"
+msgstr[1] " rida"

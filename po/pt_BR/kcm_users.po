@@ -1,0 +1,277 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2020.
+# Thiago Masato Costa Sueto <herzenschein@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-12 08:34+0100\n"
+"PO-Revision-Date: 2020-10-18 18:58-0300\n"
+"Last-Translator: Thiago Masato Costa Sueto <herzenschein@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.11.70\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Luiz Fernando Ranghetti"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "elchevive@opensuse.org"
+
+#: package/contents/ui/ChangePassword.qml:41
+#: package/contents/ui/UserDetailsPage.qml:179
+#, kde-format
+msgid "Change Password"
+msgstr "Alterar senha"
+
+#: package/contents/ui/ChangePassword.qml:54
+#, kde-format
+msgid "Password"
+msgstr "Senha"
+
+#: package/contents/ui/ChangePassword.qml:66
+#, kde-format
+msgid "Confirm password"
+msgstr "Confirmar senha"
+
+#: package/contents/ui/ChangePassword.qml:82
+#: package/contents/ui/CreateUser.qml:80
+#, kde-format
+msgid "Passwords must match"
+msgstr "As senhas devem coincidir"
+
+#: package/contents/ui/ChangePassword.qml:87
+#, kde-format
+msgid "Set Password"
+msgstr "Definir senha"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Create User"
+msgstr "Criar usuário"
+
+#: package/contents/ui/CreateUser.qml:44
+#, kde-format
+msgid "Name:"
+msgstr "Nome:"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:153
+#, kde-format
+msgid "Username:"
+msgstr "Nome de usuário:"
+
+#: package/contents/ui/CreateUser.qml:59
+#: package/contents/ui/UserDetailsPage.qml:161
+#, kde-format
+msgid "Standard"
+msgstr "Padrão"
+
+#: package/contents/ui/CreateUser.qml:60
+#: package/contents/ui/UserDetailsPage.qml:162
+#, kde-format
+msgid "Administrator"
+msgstr "Administrador"
+
+#: package/contents/ui/CreateUser.qml:63
+#: package/contents/ui/UserDetailsPage.qml:165
+#, kde-format
+msgid "Account type:"
+msgstr "Tipo de conta:"
+
+#: package/contents/ui/CreateUser.qml:68
+#, kde-format
+msgid "Password:"
+msgstr "Senha:"
+
+#: package/contents/ui/CreateUser.qml:73
+#, kde-format
+msgid "Confirm password:"
+msgstr "Confirmar senha:"
+
+#: package/contents/ui/CreateUser.qml:84
+#, kde-format
+msgid "Create"
+msgstr "Criar"
+
+#: package/contents/ui/main.qml:35
+#, kde-format
+msgid "Manage Users"
+msgstr "Gerenciar usuários"
+
+#: package/contents/ui/main.qml:108
+#, kde-format
+msgid "Add New User"
+msgstr "Adicionar novo usuário"
+
+#: package/contents/ui/UserDetailsPage.qml:93
+#, kde-format
+msgid "Choose a picture"
+msgstr "Escolha uma imagem"
+
+#: package/contents/ui/UserDetailsPage.qml:145
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "João Silva"
+
+#: package/contents/ui/UserDetailsPage.qml:174
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "joão.silva@kde.org"
+
+#: package/contents/ui/UserDetailsPage.qml:175
+#, kde-format
+msgid "Email address:"
+msgstr "Endereço de e-mail:"
+
+#: package/contents/ui/UserDetailsPage.qml:199
+#, kde-format
+msgid "Delete files"
+msgstr "Excluir arquivos"
+
+#: package/contents/ui/UserDetailsPage.qml:208
+#, kde-format
+msgid "Keep files"
+msgstr "Manter arquivos"
+
+#: package/contents/ui/UserDetailsPage.qml:217
+#, kde-format
+msgid "Delete User..."
+msgstr "Excluir usuário..."
+
+#: package/contents/ui/UserDetailsPage.qml:228
+#, kde-format
+msgid "Change Avatar"
+msgstr "Alterar avatar"
+
+#: package/contents/ui/UserDetailsPage.qml:268
+#, kde-format
+msgid "Choose File..."
+msgstr "Escolher arquivo..."
+
+#: package/contents/ui/UserDetailsPage.qml:401
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:402
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:403
+#, kde-format
+msgid "Sweet Potato"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:404
+#, kde-format
+msgid "Ambient Amber"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:405
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:406
+#, kde-format
+msgid "Lemon-Lime"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:407
+#, kde-format
+msgid "Verdant Charm"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:408
+#, kde-format
+msgid "Mellow Meadow"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:409
+#, kde-format
+msgid "Tepid Teal"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:410
+#, kde-format
+msgid "Plasma Blue"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:411
+#, kde-format
+msgid "Pon Purple"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:412
+#, kde-format
+msgid "Bajo Purple"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:413
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:414
+#, kde-format
+msgid "Paper Perfection"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:415
+#, kde-format
+msgid "Cafétera Brown"
+msgstr ""
+
+#: package/contents/ui/UserDetailsPage.qml:416
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "Rich Hardwood"
+
+#: src/kcm.cpp:51
+#, kde-format
+msgid "Manage user accounts"
+msgstr "Gerenciar contas de usuários"
+
+#: src/kcm.cpp:53
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:54
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:231
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr "Não foi possível obter permissões para salvar o usuário %1"
+
+#: src/user.cpp:235
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr "Um erro ocorreu ao salvar as alterações"
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Your Account"
+msgstr "Sua conta"
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Other Accounts"
+msgstr "Outras contas"

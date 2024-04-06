@@ -1,0 +1,84 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Giovanni Sora <g.sora@tiscali.it>, 2014, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-24 08:42+0200\n"
+"PO-Revision-Date: 2020-11-04 14:28+0100\n"
+"Last-Translator: giovanni <g.sora@tiscali.it>\n"
+"Language-Team: Interlingua <kde-i18n-doc@kde.org>\n"
+"Language: ia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Giovanni Sora"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "g.sora@tiscali.it"
+
+#: kcm.cpp:51
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Configura barra de cerca"
+
+#: kcm.cpp:53
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Enable or disable KRunner plugins:"
+msgstr "habilita o dishabilita le plugins de Krunner:"
+
+#: kcm.cpp:67
+#, kde-format
+msgid "Clear History"
+msgstr "Netta historia"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Top"
+msgstr "Culmine"
+
+#: kcm.cpp:83
+#, kde-format
+msgid "Center"
+msgstr "Centro"
+
+#: kcm.cpp:87
+#, kde-format
+msgid "Position on screen:"
+msgstr "Position sur schermo:"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Habilita"
+
+#: kcm.cpp:92
+#, kde-format
+msgid "History:"
+msgstr "Chronologia o historia:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Retene previe cerca"
+
+#: kcm.cpp:151
+#, kde-format
+msgid "Available Plugins"
+msgstr "Plugins disponibile"

@@ -1,0 +1,86 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Alexander Potashev <aspotashev@gmail.com>, 2014, 2015, 2017, 2019.
+# Alexander Yavorsky <kekcuha@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-24 08:42+0200\n"
+"PO-Revision-Date: 2020-10-04 09:07+0300\n"
+"Last-Translator: Alexander Yavorsky <kekcuha@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Александр Поташев,Александр Яворский"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aspotashev@gmail.com,kekcuha@gmail.com"
+
+#: kcm.cpp:51
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Настройка строки поиска"
+
+#: kcm.cpp:53
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Enable or disable KRunner plugins:"
+msgstr "Включить или выключить модули для строки поиска и запуска:"
+
+#: kcm.cpp:67
+#, kde-format
+msgid "Clear History"
+msgstr "Очистить историю запросов"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Top"
+msgstr "Сверху"
+
+#: kcm.cpp:83
+#, kde-format
+msgid "Center"
+msgstr "В центре"
+
+#: kcm.cpp:87
+#, kde-format
+msgid "Position on screen:"
+msgstr "Расположение:"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Сохранять историю"
+
+#: kcm.cpp:92
+#, kde-format
+msgid "History:"
+msgstr "История:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Восстанавливать последний запрос"
+
+#: kcm.cpp:151
+#, kde-format
+msgid "Available Plugins"
+msgstr "Доступные модули"

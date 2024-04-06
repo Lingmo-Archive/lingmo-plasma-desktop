@@ -1,0 +1,146 @@
+# translation of kcm_autostart.po to 简体中文
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ni Hui <shuizhuyuanluo@126.com>, 2008, 2010.
+# Feng Chao <rainofchaos@gmail.com>, 2010.
+# Weng Xuetian <wengxt@gmail.com>, 2012, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-24 08:06+0100\n"
+"PO-Revision-Date: 2021-01-03 09:06\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/plasma-desktop/kcm_autostart.pot\n"
+"X-Crowdin-File-ID: 2474\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE 中国,Ni Hui,Guo Yunhe,Tyson Tan"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"kde-china@kde.org,shuizhuyuanluo@126.com,i@guoyunhe.me,tysontan@tysontan.com"
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Autostart"
+msgstr "自动启动"
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Session Autostart Manager Control Panel Module"
+msgstr "会话自动启动管理器控制面板模块"
+
+#: autostart.cpp:37
+#, kde-format
+msgid "Copyright © 2006–2020 Autostart Manager team"
+msgstr "Copyright © 2006–2020 自动启动管理器开发组"
+
+#: autostart.cpp:38
+#, kde-format
+msgid "Stephen Leaf"
+msgstr "Stephen Leaf"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Montel Laurent"
+msgstr "Montel Laurent"
+
+#: autostart.cpp:39
+#, kde-format
+msgid "Maintainer"
+msgstr "维护者"
+
+#: autostart.cpp:40
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: autostartmodel.cpp:312
+#, kde-format
+msgid "\"%1\" is not an absolute url."
+msgstr "“%1” 不是绝对路径。"
+
+#: autostartmodel.cpp:315
+#, kde-format
+msgid "\"%1\" does not exist."
+msgstr "“%1” 不存在。"
+
+#: autostartmodel.cpp:318
+#, kde-format
+msgid "\"%1\" is not a file."
+msgstr "“%1” 不是文件。"
+
+#: autostartmodel.cpp:321
+#, kde-format
+msgid "\"%1\" is not readable."
+msgstr "“%1” 不可读。"
+
+#: package/contents/ui/main.qml:75
+#, kde-format
+msgid "Properties"
+msgstr "属性"
+
+#: package/contents/ui/main.qml:81
+#, kde-format
+msgid "Remove"
+msgstr "移除"
+
+#: package/contents/ui/main.qml:92
+#, kde-format
+msgid "Applications"
+msgstr "应用"
+
+#: package/contents/ui/main.qml:95
+#, kde-format
+msgid "Login Scripts"
+msgstr "登录脚本"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Logout Scripts"
+msgstr "注销脚本"
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Choose Startup Script"
+msgstr "选择登录脚本"
+
+#: package/contents/ui/main.qml:135
+#, kde-format
+msgid "Choose Logout Script"
+msgstr "选择注销脚本"
+
+#: package/contents/ui/main.qml:153
+#, kde-format
+msgid "Add..."
+msgstr "添加..."
+
+#: package/contents/ui/main.qml:179
+#, kde-format
+msgid "Add Application..."
+msgstr "添加应用..."
+
+#: package/contents/ui/main.qml:185
+#, kde-format
+msgid "Add Login Script..."
+msgstr "添加登录脚本..."
+
+#: package/contents/ui/main.qml:191
+#, kde-format
+msgid "Add Logout Script..."
+msgstr "添加注销脚本..."

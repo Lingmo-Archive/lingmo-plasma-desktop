@@ -1,0 +1,85 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Vít Pelčák <vit@pelcak.org>, 2014, 2016.
+# Vit Pelcak <vpelcak@suse.cz>, 2017, 2019, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-24 08:42+0200\n"
+"PO-Revision-Date: 2020-09-14 12:31+0200\n"
+"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Vít Pelčák"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "vit@pelcak.org"
+
+#: kcm.cpp:51
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Nastavit panel vyhledávání"
+
+#: kcm.cpp:53
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Enable or disable KRunner plugins:"
+msgstr "Povolit nebo zakázat moduly KRunneru:"
+
+#: kcm.cpp:67
+#, kde-format
+msgid "Clear History"
+msgstr "Vyprázdnit historii"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Top"
+msgstr "Nahoře"
+
+#: kcm.cpp:83
+#, kde-format
+msgid "Center"
+msgstr "Střed"
+
+#: kcm.cpp:87
+#, kde-format
+msgid "Position on screen:"
+msgstr ""
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Povolit"
+
+#: kcm.cpp:92
+#, kde-format
+msgid "History:"
+msgstr "Historie:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Ponechat předchozí hledání"
+
+#: kcm.cpp:151
+#, kde-format
+msgid "Available Plugins"
+msgstr "Dostupné moduly"

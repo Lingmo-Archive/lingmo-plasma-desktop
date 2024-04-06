@@ -1,0 +1,99 @@
+# translation of kcmlaunch.po to Kannada
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Shankar Prasad <svenkate@redhat.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmlaunch\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-15 02:24+0200\n"
+"PO-Revision-Date: 2008-12-26 11:17+0530\n"
+"Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
+"Language-Team: Kannada <en@li.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: launchfeedback.cpp:40
+#, kde-format
+msgid "Configure application launch feedback"
+msgstr ""
+
+#. i18n: ectx: label, entry (cursorTimeout), group (BusyCursorSettings)
+#. i18n: ectx: label, entry (taskbarTimeout), group (TaskbarButtonSettings)
+#: launchfeedbacksettingsbase.kcfg:15 launchfeedbacksettingsbase.kcfg:29
+#, kde-format
+msgid "Timeout in seconds"
+msgstr ""
+
+#: package/contents/ui/main.qml:29
+#, kde-format
+msgid "Launch Feedback"
+msgstr ""
+
+#: package/contents/ui/main.qml:45
+#, fuzzy, kde-format
+#| msgid "Bus&y Cursor"
+msgid "Cursor:"
+msgstr "ಕಾರ್ಯನಿರತ ತೆರೆಸೂಚಕ(&y)"
+
+#: package/contents/ui/main.qml:46
+#, kde-format
+msgid "No Feedback"
+msgstr ""
+
+#: package/contents/ui/main.qml:61
+#, kde-format
+msgid "Static"
+msgstr ""
+
+#: package/contents/ui/main.qml:76
+#, fuzzy, kde-format
+#| msgid "Blinking Cursor"
+msgid "Blinking"
+msgstr "ಮಿನುಗುವ ತೆರೆಸೂಚಕ"
+
+#: package/contents/ui/main.qml:91
+#, fuzzy, kde-format
+#| msgid "Bouncing Cursor"
+msgid "Bouncing"
+msgstr "ಪುಟಿಯುವ ತೆರೆಸೂಚಕ"
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgid "Task Manager:"
+msgstr ""
+
+#: package/contents/ui/main.qml:107
+#, fuzzy, kde-format
+#| msgid "Enable &taskbar notification"
+msgid "Enable animation"
+msgstr "ಕಾರ್ಯಪಟ್ಟಿಕೆ ಸೂಚನೆಯನ್ನು ಶಕ್ತಗೊಳಿಸು(&t)"
+
+#: package/contents/ui/main.qml:121
+#, fuzzy, kde-format
+#| msgid "&Startup indication timeout:"
+msgid "Stop animation after:"
+msgstr "ಆರಂಭಗೊಳಿಕಾ ಸೂಚನೆಯ ಕಾಲಾವಧಿಯ ಮಿತಿ(&S):"
+
+#: package/contents/ui/main.qml:132
+#, fuzzy, kde-format
+#| msgid " sec"
+msgid "%1 sec"
+msgid_plural "%1 secs"
+msgstr[0] " ಸೆಕೆಂಡು"
+msgstr[1] " ಸೆಕೆಂಡು"

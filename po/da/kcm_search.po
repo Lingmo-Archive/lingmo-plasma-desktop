@@ -1,0 +1,84 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Martin Schlander <mschlander@opensuse.org>, 2014, 2015, 2017, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-24 08:42+0200\n"
+"PO-Revision-Date: 2020-10-04 17:27+0200\n"
+"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
+"Language-Team: Danish <kde-i18n-doc@kde.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Martin Schlander"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mschlander@opensuse.org"
+
+#: kcm.cpp:51
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Indstil søgelinje"
+
+#: kcm.cpp:53
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Enable or disable KRunner plugins:"
+msgstr "Aktivér eller deaktivér KRunner-plugins:"
+
+#: kcm.cpp:67
+#, kde-format
+msgid "Clear History"
+msgstr "Ryd historik"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Top"
+msgstr "Øverst"
+
+#: kcm.cpp:83
+#, kde-format
+msgid "Center"
+msgstr "Centreret"
+
+#: kcm.cpp:87
+#, kde-format
+msgid "Position on screen:"
+msgstr "Placering på skærmen:"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Aktivér"
+
+#: kcm.cpp:92
+#, kde-format
+msgid "History:"
+msgstr "Historik:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Bevar forrige søgning"
+
+#: kcm.cpp:151
+#, kde-format
+msgid "Available Plugins"
+msgstr "Tilgængelige plugins"

@@ -1,0 +1,217 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sergiu Bivol <sergiu@cip.md>, 2012, 2013, 2020.
+#
+# Tatiana Țurcanu <turcanu DOT tatiana91 AT gmail DOT com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-14 02:21+0200\n"
+"PO-Revision-Date: 2020-09-08 18:29+0100\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr "Generale"
+
+#: package/contents/ui/code/tools.js:55
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Elimină din favorite"
+
+#: package/contents/ui/code/tools.js:59
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Adaugă la favorite"
+
+#: package/contents/ui/code/tools.js:83
+#, kde-format
+msgid "On All Activities"
+msgstr "Pe toate activitățile"
+
+#: package/contents/ui/code/tools.js:133
+#, kde-format
+msgid "On the Current Activity"
+msgstr "Pe activitatea curentă"
+
+#: package/contents/ui/code/tools.js:147
+#, kde-format
+msgid "Show in Favorites"
+msgstr "Arată în favorite"
+
+#: package/contents/ui/ConfigGeneral.qml:59
+#, kde-format
+msgid "Icon:"
+msgstr "Pictogramă:"
+
+#: package/contents/ui/ConfigGeneral.qml:139
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr "Alegere..."
+
+#: package/contents/ui/ConfigGeneral.qml:144
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Șterge pictograma"
+
+#: package/contents/ui/ConfigGeneral.qml:162
+#, kde-format
+msgid "Show applications as:"
+msgstr "Arată aplicațiile ca:"
+
+#: package/contents/ui/ConfigGeneral.qml:164
+#, kde-format
+msgid "Name only"
+msgstr "Doar denumirea"
+
+#: package/contents/ui/ConfigGeneral.qml:164
+#, kde-format
+msgid "Description only"
+msgstr "Doar descrierea"
+
+#: package/contents/ui/ConfigGeneral.qml:164
+#, kde-format
+msgid "Name (Description)"
+msgstr "Denumire (descriere)"
+
+#: package/contents/ui/ConfigGeneral.qml:164
+#, kde-format
+msgid "Description (Name)"
+msgstr "Descriere (denumire)"
+
+#: package/contents/ui/ConfigGeneral.qml:174
+#, kde-format
+msgid "Behavior:"
+msgstr "Comportament:"
+
+#: package/contents/ui/ConfigGeneral.qml:176
+#, kde-format
+msgid "Sort applications alphabetically"
+msgstr "Sortează aplicațiile alfabetic"
+
+#: package/contents/ui/ConfigGeneral.qml:184
+#, kde-format
+msgid "Flatten sub-menus to a single level"
+msgstr "Aplatizează submeniurile la un singur nivel"
+
+#: package/contents/ui/ConfigGeneral.qml:192
+#, kde-format
+msgid "Show icons on the root level of the menu"
+msgstr "Arată pictogramele la nivelul rădăcină al meniului"
+
+#: package/contents/ui/ConfigGeneral.qml:202
+#, kde-format
+msgid "Show categories:"
+msgstr "Arată categorii:"
+
+#: package/contents/ui/ConfigGeneral.qml:205
+#, kde-format
+msgid "Recent applications"
+msgstr "Aplicații recente"
+
+#: package/contents/ui/ConfigGeneral.qml:206
+#, kde-format
+msgid "Often used applications"
+msgstr "Aplicații folosite des"
+
+#: package/contents/ui/ConfigGeneral.qml:213
+#, kde-format
+msgid "Recent files"
+msgstr "Fișiere recente"
+
+#: package/contents/ui/ConfigGeneral.qml:214
+#, kde-format
+msgid "Often used files"
+msgstr "Fișiere folosite des"
+
+#: package/contents/ui/ConfigGeneral.qml:221
+#, kde-format
+msgid "Recent contacts"
+msgstr "Contacte recente"
+
+#: package/contents/ui/ConfigGeneral.qml:222
+#, kde-format
+msgid "Often used contacts"
+msgstr "Contacte folosite des"
+
+#: package/contents/ui/ConfigGeneral.qml:228
+#, kde-format
+msgid "Sort items in categories by:"
+msgstr "Sortează elementele în categorii după:"
+
+#: package/contents/ui/ConfigGeneral.qml:229
+#, kde-format
+msgctxt ""
+"@item:inlistbox Sort items in categories by [Recently used | Often used]"
+msgid "Recently used"
+msgstr "Folosite recent"
+
+#: package/contents/ui/ConfigGeneral.qml:229
+#, kde-format
+msgctxt ""
+"@item:inlistbox Sort items in categories by [Recently used | Ofetn used]"
+msgid "Often used"
+msgstr "Folosite des"
+
+#: package/contents/ui/ConfigGeneral.qml:239
+#, kde-format
+msgid "Search:"
+msgstr "Caută:"
+
+#: package/contents/ui/ConfigGeneral.qml:241
+#, kde-format
+msgid "Expand search to bookmarks, files and emails"
+msgstr "Extinde căutarea asupra semnelor de carte, fișierelor și scrisorilor"
+
+#: package/contents/ui/ConfigGeneral.qml:249
+#, kde-format
+msgid "Align search results to bottom"
+msgstr "Aliniază rezultatele căutării în partea de jos"
+
+#: package/contents/ui/DashboardRepresentation.qml:305
+#, kde-format
+msgid "Searching for '%1'"
+msgstr "Se caută după „%1”"
+
+#: package/contents/ui/DashboardRepresentation.qml:305
+#, kde-format
+msgid "Type to search..."
+msgstr "Tastați pentru a căuta..."
+
+#: package/contents/ui/DashboardRepresentation.qml:405
+#, kde-format
+msgid "Favorites"
+msgstr "Favorite"
+
+#: package/contents/ui/DashboardRepresentation.qml:622
+#: package/contents/ui/DashboardTabBar.qml:55
+#, kde-format
+msgid "Widgets"
+msgstr "Controale grafice"
+
+#: package/contents/ui/DashboardTabBar.qml:44
+#, kde-format
+msgid "Apps & Docs"
+msgstr "Aplicații și documente"
+
+#: package/contents/ui/main.qml:273
+#, kde-format
+msgid "Edit Applications..."
+msgstr "Modificare aplicații..."
+
+#: package/contents/ui/MenuRepresentation.qml:318
+#, kde-format
+msgid "Search..."
+msgstr "Caută..."

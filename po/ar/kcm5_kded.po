@@ -1,0 +1,195 @@
+# translation of kcmkded.po to Arabic
+# translation of kcmkded.po to
+# Copyright (C) 2002, 2004, 2006, 2007, 2008 Free Software Foundation, Inc.
+# Isam Bayazidi <bayazidi@arabeyes.org>, 2002.
+# Munzir Taha <munzirtaha@newhorizons.com.sa>, 2004.
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# AbdulAziz AlSharif <a.a-a.s@hotmail.com>, 2007.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+# zayed <zayed.alsaidi@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkded\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-04 02:14+0200\n"
+"PO-Revision-Date: 2008-11-29 11:08+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Mohamed SAAD محمد سعد,زايد السعيدي"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "metehyi@free.fr,zayed.alsaidi@gmail.com"
+
+#: kcmkded.cpp:67
+#, fuzzy, kde-format
+#| msgid "Startup Services"
+msgid "Background Services"
+msgstr "خدمات بدء التشغيل"
+
+#: kcmkded.cpp:69
+#, fuzzy, kde-format
+#| msgid "(c) 2002 Daniel Molkentin"
+msgid "(c) 2002 Daniel Molkentin, (c) 2020 Kai Uwe Broulik"
+msgstr "(c) 2002 Daniel Molkentin"
+
+#: kcmkded.cpp:71
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#: kcmkded.cpp:72
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr ""
+
+#: kcmkded.cpp:145
+#, fuzzy, kde-format
+#| msgid "Unable to stop server <em>%1</em>."
+msgid "Failed to stop service: %1"
+msgstr "غير قادر على إيقاف الخادم <em>%1</em>."
+
+#: kcmkded.cpp:147
+#, fuzzy, kde-format
+#| msgid "Unable to start server <em>%1</em>."
+msgid "Failed to start service: %1"
+msgstr "غير قادر على بدء الخادم <em>%1</em>."
+
+#: kcmkded.cpp:154
+#, fuzzy, kde-format
+#| msgid "Unable to stop server <em>%1</em>."
+msgid "Failed to stop service."
+msgstr "غير قادر على إيقاف الخادم <em>%1</em>."
+
+#: kcmkded.cpp:156
+#, fuzzy, kde-format
+#| msgid "Unable to start server <em>%1</em>."
+msgid "Failed to start service."
+msgstr "غير قادر على بدء الخادم <em>%1</em>."
+
+#: kcmkded.cpp:254
+#, kde-format
+msgid "Failed to notify KDE Service Manager (kded5) of saved changed: %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:31
+#, fuzzy, kde-format
+#| msgid ""
+#| "<h1>Service Manager</h1><p>This module allows you to have an overview of "
+#| "all plugins of the KDE Daemon, also referred to as KDE Services. "
+#| "Generally, there are two types of service:</p><ul><li>Services invoked at "
+#| "startup</li><li>Services called on demand</li></ul><p>The latter are only "
+#| "listed for convenience. The startup services can be started and stopped. "
+#| "In Administrator mode, you can also define whether services should be "
+#| "loaded at startup.</p><p><b> Use this with care: some services are vital "
+#| "for KDE; do not deactivate services if you do not know what you are doing."
+#| "</b></p>"
+msgid ""
+"<p>This module allows you to have an overview of all plugins of the KDE "
+"Daemon, also referred to as KDE Services. Generally, there are two types of "
+"service:</p> <ul><li>Services invoked at startup</li><li>Services called on "
+"demand</li></ul> <p>The latter are only listed for convenience. The startup "
+"services can be started and stopped. You can also define whether services "
+"should be loaded at startup.</p> <p><b>Use this with care: some services are "
+"vital for Plasma; do not deactivate services if you  do not know what you "
+"are doing.</b></p>"
+msgstr ""
+"<h1>مدير الخدمات</h1><p>هذه الوحدة تسمح لك بنظرة عامة لكل ملحقات رقيب كيدي  "
+"و التنفيذ ، المعروف أيضاً تحت عنوان خدمات كيدي. إجمالاً يوجد نوعين من الخدمات:"
+"</p><ul><li>الخدمات المستدعاة عند بدء التشغيل</li><li>الخدمات المستدعاة عند "
+"الحاجة</li></ul><p>و هذه الأخيرة فقط معروضة  للمناسبة. يمكن بدء و إيقاف "
+"تشغيل خدمات بدء التشغيل. في نمط الإدارة ، تستطيع أيضاً تحديد أي من الخدمات "
+"يتم تحميلها عند بدء التشغيل .</p><p><b> استخدم هذا بحذر: بعض الخدمات هي "
+"حيوية لِــ كيدي ، لا تعطل نشاط خدمات إذا لم تكن على علم تماماً بما تريد فعله.</"
+"b></p>"
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid ""
+"The background services manager (kded5) is currently not running. Make sure "
+"it is installed correctly."
+msgstr ""
+
+#: package/contents/ui/main.qml:57
+#, kde-format
+msgid ""
+"Some services disable themselves again when manually started if they are not "
+"useful in the current environment."
+msgstr ""
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid ""
+"Some services were automatically started/stopped when the background "
+"services manager (kded5) was restarted to apply your changes."
+msgstr ""
+
+#: package/contents/ui/main.qml:108
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "All Services"
+msgstr "الخدمة"
+
+#: package/contents/ui/main.qml:109
+#, fuzzy, kde-format
+#| msgid "Running"
+msgctxt "List running services"
+msgid "Running"
+msgstr "قيد التشغيل"
+
+#: package/contents/ui/main.qml:110
+#, fuzzy, kde-format
+#| msgid "Not running"
+msgctxt "List not running services"
+msgid "Not Running"
+msgstr "متوقف عن التشغيل"
+
+#: package/contents/ui/main.qml:146
+#, fuzzy, kde-format
+#| msgid "Startup Services"
+msgid "Startup Services"
+msgstr "خدمات بدء التشغيل"
+
+#: package/contents/ui/main.qml:147
+#, kde-format
+msgid "Load-on-Demand Services"
+msgstr "خدمات التحميل عند الطلب"
+
+#: package/contents/ui/main.qml:164
+#, kde-format
+msgid "Toggle automatically loading this service on startup"
+msgstr ""
+
+#: package/contents/ui/main.qml:227
+#, kde-format
+msgid "Not running"
+msgstr "متوقف عن التشغيل"
+
+#: package/contents/ui/main.qml:228
+#, kde-format
+msgid "Running"
+msgstr "قيد التشغيل"
+
+#: package/contents/ui/main.qml:247
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "Stop Service"
+msgstr "الخدمة"
+
+#: package/contents/ui/main.qml:247
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "Start Service"
+msgstr "الخدمة"

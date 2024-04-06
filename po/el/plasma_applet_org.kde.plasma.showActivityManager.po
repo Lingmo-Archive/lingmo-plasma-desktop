@@ -1,0 +1,60 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Antonis Geralis <capoiosct@gmail.com>, 2011, 2012.
+# Dimitrios Glentadakis <dglent@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_showactivitymanager\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-26 02:16+0200\n"
+"PO-Revision-Date: 2012-03-03 07:35+0100\n"
+"Last-Translator: Dimitrios Glentadakis <dglent@gmail.com>\n"
+"Language-Team: Greek <kde-i18n-el@kde.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "Appearance"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:40
+#, kde-format
+msgid "Icon:"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:43
+#, kde-format
+msgid "Show the current activity icon"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:50
+#, kde-format
+msgid "Show the generic activity icon"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:58
+#, kde-format
+msgid "Title:"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:60
+#, fuzzy, kde-format
+#| msgid "Show Activity Manager"
+msgid "Show the current activity name"
+msgstr "Εμφάνιση διαχειριστή δραστηριοτήτων"
+
+#: package/contents/ui/main.qml:74
+#, kde-format
+msgid "Show Activity Manager"
+msgstr "Εμφάνιση διαχειριστή δραστηριοτήτων"
+
+#: package/contents/ui/main.qml:75
+#, kde-format
+msgid "Click to show the activity manager"
+msgstr "Πατήστε εδώ για να εμφανίσετε το διαχειριστή δραστηριοτήτων"

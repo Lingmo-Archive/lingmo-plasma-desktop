@@ -1,0 +1,89 @@
+# Lithuanian translations for trunk-kf package.
+# Copyright (C) 2014 This_file_is_part_of_KDE
+# This file is distributed under the same license as the trunk-kf package.
+#
+# Automatically generated, 2014.
+# Liudas Ališauskas <liudas@akmc.lt>, 2015.
+# Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: trunk-kf 5\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-24 08:42+0200\n"
+"PO-Revision-Date: 2019-06-01 19:23+0000\n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian <kde-i18n-lt@kde.org>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
+"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Liudas Ališauskas, Moo"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "liudas@akmc.lt, <>"
+
+#: kcm.cpp:51
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Konfigūruoti paieškos juostą"
+
+#: kcm.cpp:53
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Enable or disable KRunner plugins:"
+msgstr "Įjungti ar išjungti KRunner priedus:"
+
+#: kcm.cpp:67
+#, kde-format
+msgid "Clear History"
+msgstr "Išvalyti istoriją"
+
+#: kcm.cpp:81
+#, kde-format
+msgid "Top"
+msgstr ""
+
+#: kcm.cpp:83
+#, kde-format
+msgid "Center"
+msgstr ""
+
+#: kcm.cpp:87
+#, kde-format
+msgid "Position on screen:"
+msgstr ""
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr ""
+
+#: kcm.cpp:92
+#, fuzzy, kde-format
+#| msgid "Clear History"
+msgid "History:"
+msgstr "Išvalyti istoriją"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr ""
+
+#: kcm.cpp:151
+#, kde-format
+msgid "Available Plugins"
+msgstr "Prieinami priedai"

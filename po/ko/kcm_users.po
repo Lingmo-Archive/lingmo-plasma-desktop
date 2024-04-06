@@ -1,0 +1,276 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# Shinjo Park <kde@peremen.name>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-12 08:34+0100\n"
+"PO-Revision-Date: 2020-06-15 19:39+0200\n"
+"Last-Translator: Shinjo Park <kde@peremen.name>\n"
+"Language-Team: Korean <kde-kr@kde.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "박신조"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde@peremen.name"
+
+#: package/contents/ui/ChangePassword.qml:41
+#: package/contents/ui/UserDetailsPage.qml:179
+#, kde-format
+msgid "Change Password"
+msgstr "암호 변경"
+
+#: package/contents/ui/ChangePassword.qml:54
+#, kde-format
+msgid "Password"
+msgstr "암호"
+
+#: package/contents/ui/ChangePassword.qml:66
+#, kde-format
+msgid "Confirm password"
+msgstr "암호 확인"
+
+#: package/contents/ui/ChangePassword.qml:82
+#: package/contents/ui/CreateUser.qml:80
+#, kde-format
+msgid "Passwords must match"
+msgstr "암호가 일치해야 함"
+
+#: package/contents/ui/ChangePassword.qml:87
+#, kde-format
+msgid "Set Password"
+msgstr "암호 설정"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Create User"
+msgstr "사용자 만들기"
+
+#: package/contents/ui/CreateUser.qml:44
+#, kde-format
+msgid "Name:"
+msgstr "이름:"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:153
+#, kde-format
+msgid "Username:"
+msgstr "사용자 이름:"
+
+#: package/contents/ui/CreateUser.qml:59
+#: package/contents/ui/UserDetailsPage.qml:161
+#, kde-format
+msgid "Standard"
+msgstr "표준"
+
+#: package/contents/ui/CreateUser.qml:60
+#: package/contents/ui/UserDetailsPage.qml:162
+#, kde-format
+msgid "Administrator"
+msgstr "관리자"
+
+#: package/contents/ui/CreateUser.qml:63
+#: package/contents/ui/UserDetailsPage.qml:165
+#, kde-format
+msgid "Account type:"
+msgstr "계정 종류:"
+
+#: package/contents/ui/CreateUser.qml:68
+#, kde-format
+msgid "Password:"
+msgstr "암호:"
+
+#: package/contents/ui/CreateUser.qml:73
+#, kde-format
+msgid "Confirm password:"
+msgstr "암호 확인:"
+
+#: package/contents/ui/CreateUser.qml:84
+#, kde-format
+msgid "Create"
+msgstr "만들기"
+
+#: package/contents/ui/main.qml:35
+#, kde-format
+msgid "Manage Users"
+msgstr "사용자 관리"
+
+#: package/contents/ui/main.qml:108
+#, kde-format
+msgid "Add New User"
+msgstr "새 사용자 추가"
+
+#: package/contents/ui/UserDetailsPage.qml:93
+#, kde-format
+msgid "Choose a picture"
+msgstr "그림 선택"
+
+#: package/contents/ui/UserDetailsPage.qml:145
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "홍길동"
+
+#: package/contents/ui/UserDetailsPage.qml:174
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "hong.gildong@kde.org"
+
+#: package/contents/ui/UserDetailsPage.qml:175
+#, kde-format
+msgid "Email address:"
+msgstr "이메일 주소:"
+
+#: package/contents/ui/UserDetailsPage.qml:199
+#, kde-format
+msgid "Delete files"
+msgstr "파일 삭제"
+
+#: package/contents/ui/UserDetailsPage.qml:208
+#, kde-format
+msgid "Keep files"
+msgstr "파일 유지"
+
+#: package/contents/ui/UserDetailsPage.qml:217
+#, kde-format
+msgid "Delete User..."
+msgstr "사용자 삭제..."
+
+#: package/contents/ui/UserDetailsPage.qml:228
+#, kde-format
+msgid "Change Avatar"
+msgstr "아바타 변경"
+
+#: package/contents/ui/UserDetailsPage.qml:268
+#, kde-format
+msgid "Choose File..."
+msgstr "파일 선택..."
+
+#: package/contents/ui/UserDetailsPage.qml:401
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr "화려한 플라밍고"
+
+#: package/contents/ui/UserDetailsPage.qml:402
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr "용과"
+
+#: package/contents/ui/UserDetailsPage.qml:403
+#, kde-format
+msgid "Sweet Potato"
+msgstr "고구마"
+
+#: package/contents/ui/UserDetailsPage.qml:404
+#, kde-format
+msgid "Ambient Amber"
+msgstr "호박"
+
+#: package/contents/ui/UserDetailsPage.qml:405
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr "반짝이는 햇빛"
+
+#: package/contents/ui/UserDetailsPage.qml:406
+#, kde-format
+msgid "Lemon-Lime"
+msgstr "레몬 라임"
+
+#: package/contents/ui/UserDetailsPage.qml:407
+#, kde-format
+msgid "Verdant Charm"
+msgstr "풀밭"
+
+#: package/contents/ui/UserDetailsPage.qml:408
+#, kde-format
+msgid "Mellow Meadow"
+msgstr "평화로운 목초지"
+
+#: package/contents/ui/UserDetailsPage.qml:409
+#, kde-format
+msgid "Tepid Teal"
+msgstr "암록색"
+
+#: package/contents/ui/UserDetailsPage.qml:410
+#, kde-format
+msgid "Plasma Blue"
+msgstr "Plasma 파란색"
+
+#: package/contents/ui/UserDetailsPage.qml:411
+#, kde-format
+msgid "Pon Purple"
+msgstr "연한 보라색"
+
+#: package/contents/ui/UserDetailsPage.qml:412
+#, kde-format
+msgid "Bajo Purple"
+msgstr "진한 보라색"
+
+#: package/contents/ui/UserDetailsPage.qml:413
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr "목탄"
+
+#: package/contents/ui/UserDetailsPage.qml:414
+#, kde-format
+msgid "Paper Perfection"
+msgstr "종이 느낌"
+
+#: package/contents/ui/UserDetailsPage.qml:415
+#, kde-format
+msgid "Cafétera Brown"
+msgstr "커피 갈색"
+
+#: package/contents/ui/UserDetailsPage.qml:416
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "단단한 나무"
+
+#: src/kcm.cpp:51
+#, kde-format
+msgid "Manage user accounts"
+msgstr "사용자 계정 관리"
+
+#: src/kcm.cpp:53
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:54
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:231
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr ""
+
+#: src/user.cpp:235
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr ""
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Your Account"
+msgstr "내 계정"
+
+#: src/usermodel.cpp:150
+#, kde-format
+msgid "Other Accounts"
+msgstr "다른 계정"
